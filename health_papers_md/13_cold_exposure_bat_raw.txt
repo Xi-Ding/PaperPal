@@ -1,0 +1,438 @@
+    · 1160 ·                      doi 10.12122/j.issn.1673-4254.2019.10.05                 J South Med Univ, 2019, 39(10): 1160-1165
+
+
+
+大鼠三叉神经痛觉传入通路的电生理检测和咬合干扰的影响
+大鼠三叉神经痛觉传入通路的电生理检测和咬合干扰的影响
+王 云 1，2，
+       钱金萍 1，2，3，顾亚茹 1，2，3，陈传俊 1，
+                                汪萌芽 2
+皖南医学院 1 口腔医学院，     2
+                     细胞电生理研究室，    3
+                                    启明星小组，安徽 芜湖 241002
+
+
+
+      摘要：  目的 通过建立电刺激大鼠三叉神经节（TG），          记录三叉神经脊束核尾侧亚核（SPVC）生物电活动的技术，       观察咬合干扰对
+      三叉神经痛觉传入通路功能、          SPVC 神经元兴奋性的影响。方法 取雄性健康 Wistar 大鼠（体质量 250~280 g）20 只，随机均分为
+      对照组和模型组（n=10）。模型组大鼠用光固化流动树脂粘接法在大鼠右上第一磨牙牙合 面制造咬合高点造模，                       持续咬合干扰
+      30 d，
+          期间用 von Frey 尼龙毛检测咬肌压痛并进行痛敏评分鉴定。然后在乌拉坦麻醉下同步记录 SPVC 生物电活动和心电、                   呼
+      吸肌肌电、   体温等多项生理指标，        并观察电刺激TG对各项指标的影响。结果 与对照组相比，        模型组大鼠在造模后1 d即开始出
+      现咬肌的痛敏评分升高，       7 d 后达到高峰；    咬合干扰 30 d 后模型组大鼠 SPVC 自发放电频率增加（P<0.05）；
+                                                                            给予 TG 不同强度的
+      单脉冲刺激（0.5~8.0 mA，  0.1~0.2 ms），在两组大鼠 SPVC 均可诱发放电性反应，   其幅值具有刺激强度依赖性（P<0.05），  在 4 mA
+      和 8 mA 强度模型组大鼠的反应幅值与对照组相似（P>0.05）；给予 TG 高频串刺激（0.2 ms，1 mA，30 s，100 Hz），在两组大鼠
+      SPVC 均引发放电频率呈一过性升高，           但仅模型组刺激后放电频率升高有统计学意义（P<0.05）。结论 大鼠三叉神经痛觉传入
+      通路的活动可用电刺激 TG 记录 SPVC 生物电活动的方法进行检测，            咬合干扰可能提高该通路的敏感性和 SPVC 神经元的兴奋
+      性， 导致通路的神经可塑性变化。
+      关键词：  三叉神经节；    痛觉； 传入通路；     三叉神经脊束核尾侧亚核；   咬合干扰
+
+
+
+
+Electrophysiological monitoring of pain afferent pathway of the trigeminal nerve and its
+functional plasticity in response to occlusal interference in rats
+WANG Yun1, 2, QIAN Jinping1, 2, 3, GU Yaru1, 2, 3, CHEN Chuanjun1, WANG Mengya2
+1
+  School of Stomatology, 2Cell Electrophysiology Laboratory, 3Rising-Star Group, Wannan Medical College, Wuhu 241002, China
+
+
+
+
+      Abstract: Objective To observe the effect of occlusal interference on the afferent pathway of the trigeminal nerve and neuronal
+      excitability in the trigeminal subnucleus caudalis (SPVC) of rats by electrical stimulation of the trigeminal ganglion (TG) and
+      extracellular recordings of SPVC activities. Methods Twenty male Wistar rats were randomly divided into control group and
+      model group (n=10). In the model group, occlusal interference for 30 consecutive days was induced using light-cured flowable
+      resin on the right maxillary molars. During occlusal interference, the pain sensitivity was scored with von Frey Fibers in the
+      masseter. Simultaneous recordings of electrical activities from the SPVC, electrocardiogram, body temperature and
+      electromyogram of the breath muscles of the anesthetized rats were performed, and the responses evoked by electrical
+      stimulation of the TG were analyzed. Results Compared with the control rats, the rats in the model group showed
+      significantly increased pain sensitivity scores (P<0.05) and increased spontaneous discharge frequency of the SPVC (P<0.05).
+      The amplitude of the SPVC responses induced by electrical stimulation of the TG showed stimulus intensity-dependent
+      changes (P<0.05), and the amplitude evoked by 4 mA and 8 mA stimulation was similar between the model group and the
+      control group (P>0.05). Train stimulation (0.2 ms, 1 mA, 30 s, 100 Hz) of the TG significantly increased the discharge frequency
+      of the SPVC only in the rats in the model group (P<0.05). Conclusion The functional activities of the pain afferent pathway of
+      the trigeminal nerve can be electrophysiologically monitored by electrical stimulation of the TG and extracellular recordings of
+      SPVC activities in rats. Occlusal interference can increase the excitability of the neurons in the SPVC and enhance their
+      sensitivities to TG afferent activation, suggesting the neural plasticity of the pain afferent pathway.
+      Keywords: trigeminal ganglion; pain; afferent pathway; trigeminal subnucleus caudalis; occlusal interference
+
+
+
+
+  口腔颌面部疼痛是涉及口腔咀嚼肌功能紊乱及慢                                                 非继发性头痛、面颈部局限性肌痛及肌痉挛等，    其中以
+性头颈疼痛的一大类疾病，
+           包括颞下颌关节病（TMD）、                                               TMD最为常见，
+                                                                               而咀嚼肌疼痛也是TMD的主要症状之
+                                                                        一 。在下颌运动过程中，
+                                                                         ［1-2］
+                                                                                        可以影响上下颌正常咬合咀
+收稿日期：
+    2019-02-03                                                          嚼的牙齿接触，称咬合干扰。咬合干扰在咀嚼运动过程
+基金项目：
+    国家自然科学基金（81550037，
+                     31271155）；
+                              安徽省大学生创新                                  中不但无功能意义，反而增加了不必要的肌功能负担，
+创业训练计划项目（201510368093）                                                  引起咀嚼肌异常的肌电活动甚至脑电活动的改变，     是
+Supported by National Natural Science Foundation of China (81550037,
+                                                                        TMD的主要因素之一 。临床上常见很多患者咀嚼肌
+                                                                                  ［3-4］
+
+31271155).
+作者简介：
+    王 云，
+       副教授，
+          硕士导师，
+              E-mail: whwy303@hotmail.com
+                                                                        疼痛与金属冠修复、正畸治疗和咬合重建等口腔疾病治
+通信作者：
+    汪萌芽，
+       博士，
+         教授，
+           硕士导师，
+               E-mail: wangmy@wnmc.edu.cn                               疗产生的咬合干扰密切相关［5-7］。研究表明，长期咬合干
+  http://www.j-smu.com                            J South Med Univ, 2019, 39(10): 1160-1165                          · 1161 ·
+
+扰能诱发大鼠咀嚼肌慢性机械痛敏，    且与咬合干扰的程                                      H2L2401084，  手术显微镜，      双层铜网电生理屏蔽罩，         充
+度有关 。愈燕芳等 研究表明咬合干扰引起的咬合创
+      ［8］    ［9］
+                                                                  气防震台，      PowerLab 8/30 多通道生理信号采集系统及
+伤可引起脑干和颈髓中枢神经元的敏化，       是咬合创伤致                                   其 Chart Pro分析软件（PowerLab System, AD Instruments,
+咀嚼肌疼痛的中枢机制之一。Cao等 通过动物实验认
+                    ［10］
+                                                                  Australia），生物电放大器，玻璃微电极和金属参考电
+为三叉神经脊束核特异性伤害感受神经元参与此过程                                           极、  刺激电极其它常规哺乳动物手术器械，              3.6%的水合
+的中枢敏化。在咬合干扰引起颌面部疼痛的机制方面，         目                                氯醛，   20%乌拉坦，    3%双氧水，    75%酒精，口腔裂钻、     von
+前基本局限在分别对咀嚼肌、    脑干或颈髓中枢神经元的                                      Frey 尼龙毛（Von Frey hairs 测痛仪，North Coast Medical,
+痛敏变化研究，    技术上主要以形态学等为主［11-12］，
+                              而采用                                 Inc.CA, USA）。
+电生理方法检测痛觉传入通路的研究，      目前尚未见相关                                    1.3 咬合干扰模型制备
+报道。基于传导痛觉的三叉神经感觉纤维进入中枢后，                                               参照Cao［3］、 俞燕芳等［9］造模方法，     本实验进行了相
+主要与三叉神经脊束核尾侧亚核（SPVC）相联系的结构                                        关改良：    大鼠磨牙牙合面粘接树脂，          可以避免金属冠对大
+基础［13］， 故本研究通过建立刺激大鼠三叉神经节（TG）、                                    鼠邻牙的挤压以及磨牙开髓及封金属砷失活剂等造成
+记录SPVC生物电活动和外周生理指标的技术，         以观察                                的额外刺激干扰。具体步骤是取模型组大鼠用3.6%的
+咬合干扰对三叉神经痛觉传入通路、    SPVC神经元兴奋                                     水合氯醛麻醉（用量1 mL/100 g），         用医用棉签蘸水清洁
+性的影响。                                                             右上第一磨牙并吹干；           用格鲁玛酸蚀剂酸蚀 20 s，       冲洗
+                                                                  吹干，   保持牙面干燥；      在酸蚀面涂配套液体粘接剂，           光照
+1 材料和方法                                                           20 s 固化；  最后在牙齿的牙合面及颊腭侧，         为了增强树脂
+1.1 实验动物                                                          的牢固性，     树脂延伸到磨牙颊侧、         腭侧和近中（注意避免
+    选择体质量 250~280 g 的清洁级成年雄性 Wistar                               产生悬突），      涂格鲁玛流动树脂，        树脂高出牙合面约 0.5~
+大鼠 20 只，由扬州大学比较医学中心提供，许可证号                                        1 mm，  光照20 s固化。用棉签轻触粘结树脂，            树脂须稳
+SCXK（苏）2012-0004，
+                随机均分为对照组和模型组，   每                                 固不脱落（图 1）。造模之日起持续观察 30 d，             造模后第
+组10只。                                                             1 d开始每隔1 d检查1次树脂是否稳固（如果脱落，                 立即
+1.2 仪器和药品                                                         重新粘接树脂），        同时用 von Frey 尼龙毛测试咀嚼肌压
+    大鼠脑立体定位仪（瑞沃德68000系列），  动物恒温                                   痛进行鉴定，      观察结束进行相关电生理实验。
+系统（上海奥尔科特生物科技有限公司），       口腔打磨机
+
+
+
+
+                                            A                                    B                                   C
+         图 1 模型鼠右上第一磨牙咬合干扰口内照片
+         Fig.1 Photographs of occlusal interference on the right maxillary first molar in the model group. A: Cleaning and
+         drying; B: Acid etching; C: Resin curing.
+
+
+
+
+1.4 造模后咬肌痛敏分值检测                                                   von Frey 尼龙毛型号调整为：      以 100 g von Frey 尼龙毛
+    在大鼠清醒状态下，   参考陈霜等［14］方法测试大鼠单                                  有反应的记 1 分，    60 g 反应 1~2 次记 2 分， 60 g 反应 3 次
+侧咬肌机械刺激反应阈值，      用von Frey尼龙毛测试咀嚼                                记3分，   60 g反应4~5次记4分，    26 g有反应记5分。
+肌压痛（咬肌的检测点为眼耳连线中点后下1 cm），       每一                                1.5 三叉神经节（TG）电刺激和三叉神经脊束核尾侧亚
+型号 von Frey 尼龙毛刺激 5 次。动物出现缩头、  避开、                                核（SPVC）细胞外记录
+抬腿、  发出声音等行为被视为有痛觉反应。根据尼龙毛                                        1.5.1 麻醉 取大鼠给予 20%乌拉坦以 1.5 g/kg 剂量腹
+粗细和动物痛觉反应次数，       确定痛敏分值，   痛敏分值越                                腔注射麻醉，      直至夹捏刺激无明显反应。麻醉稳定后，
+高表明肌肉对机械压痛越敏感。痛敏分值评分根据                                            将大鼠俯卧位固定于脑立体定位仪上，                下面垫保温毯，
+  · 1162 ·                  J South Med Univ, 2019, 39(10): 1160-1165                                                  http://www.j-smu.com
+
+
+温度设置为 37 ℃，          然后放置于双层铜网电生理屏蔽罩                     组大鼠自造模后第1天起咬肌即出现痛敏分值升高，   约
+内的防震台上。                                                  7 d后达到高峰（图2），
+                                                                     并在以后的咬合干扰观察期间痛
+1.5.2 多项外周生理指标同步记录［15］ 将体温换能器探                           敏分值维持高水平。观察期间模型鼠右上第1磨牙颊、
+头置于大鼠肛门内，             进行体温信号采集。大鼠右前肢腕                    腭侧及近中牙龈较对侧同名牙以及邻牙稍红肿，   右上第
+关节上部的大腿皮下插入白色针式电极，                   左后肢踝关节              1磨牙颊腭向有些松动，   垂直向以及近远中向未见明显
+上部的大腿皮下插入黒式针式电极，                  右后肢绿色针式电               松动。
+极接地，    记录标准肢体Ⅱ导联心电图。将黄棕两根针式
+                                                                                      6
+电极插入大鼠右侧腋中线第9肋下缘肋间外肌肉，                        记录
+呼吸肌肌电图。
+
+
+
+
+                                                          Pain sensitization scores
+1.5.3 定位三叉神经节（TG）和三叉神经脊束核尾侧亚                                                          4
+核（SPVC）  ［15-17］
+                  调节耳杆使其左右对称，        上下移动门齿
+杆使大鼠颅骨位于同一平面，               固定大鼠头部。切开大鼠
+                                                                                      2
+头皮，   用3%双氧水反复擦拭直至暴露颅骨前囟、                   人字缝                                                                                   Model group
+                                                                                                                                  (Mean)
+和矢状缝。调节前囟和人字缝至同一水平面。定位三                                                                                                           Control group
+                                                                                                                                  (Mean)
+叉神经节：     前囱后3.2 mm，      矢状缝右侧2.5 mm处，       用装                                      0
+                                                                                          1   3   5   7   9 11 13 15 17 19 21 23 25 27 29
+有口腔裂钻的口腔打磨机钻一直径为2 mm窗孔，                       然后
+                                                                                                            Days after modding
+将刺激电极穿过该孔插入三叉神经节（硬脑膜下深度为
+                                                                             图 2 模型组（Model group）大鼠的咬肌痛敏评分
+9.5 mm）。定位三叉神经脊束核尾侧亚核（SPVC）：前                                                Fig.2 Pain sensitization scores of the masseter in the model
+囟后（AP）-12.6~-14.0 mm；右旁开（R）1.9~2.1 mm；硬                                      group (Mean±SD, n=10).
+
+膜表面以下( DV) 6~7.7 mm。术后持续麻醉。
+1.5.4 SPVC 放电记录及 TG 电刺激 先记录 30 min 的                    2.2 大鼠SPVC细胞外生物电活动和生理指标同步记录
+SPVC基础放电频率。调试好刺激电极，                单脉冲刺激参数                  图3A示例了典型的大鼠三叉神经脊束核尾侧亚核
+为脉冲（0.1 ms，      0.2 ms），刺激强度（0.5 mA， 1 mA， 2 mA，       （SPVC）细胞外生物电活动和体温、     心电图、  呼吸肌肌电
+4 mA， 8 mA），   刺激间隔1 min；   串刺激参数为脉冲0.2 ms，             图等电生理实验同步记录结果。表明本研究电生理实
+强度 1 mA，   频率为 100 Hz，     刺激持续 30 s。观察 SPVC            验相关指标能得到有效、     稳定的记录和TG电刺激实验
+的诱发放电反应及其幅值，              以及放电频率和生理指标的                  观察（图3B）。
+改变。                                                     2.3 SPVC的自发放电频率
+1.5.5 信号采集参数设置［15］ 记录电极所引导的信号经                              通过放电频率直方图方法分析两组大鼠基础记录
+放大器放大后，         接入PowerLab多导生理信号采集与处理                   30 min的SPVC放电频率平均值，   显示对照组大鼠的自
+系统，   运用Chart 5软件进行采集、         存盘， 采样频率4 kHz，           发放电频率为 32.68±7.28 Hz，
+                                                                            而模型组大鼠的自发放
+体温为低通10 Hz，          心电为低通200 Hz、  高通10 Hz，   呼吸        电频率升高为44.11±9.08 Hz（图4，
+                                                                              n=10，P<0.01）。
+肌肌电为低通200 Hz、           高通0.1 Hz，
+                                数字滤波为 100 Hz，           2.4 TG电刺激在SPVC诱发的反应
+SPVC记录参数设置：           低通2 kHz、高通100 Hz。                     在 TG 给予不同强度（0.5 mA，1 mA，2 mA， 4 mA，
+1.5.6 刺激和记录位点鉴定 实验结束，                大鼠断头取脑             8 mA）的单脉冲电刺激（波宽0.1 ms和0.2 ms），   两组大
+于4%甲醛溶液内固定后，              进行冠状面切片，     观察针道位            鼠均可在SPVC诱发放电性反应，      其放电反应的幅值呈
+置与图谱 TG、        SPVC的位置进行比对，       进行记录位点鉴              现刺激强度依赖性特征（图5）。
+定。刺激位点、          记录位点正确的样本纳入统计分析。                       2.5 TG高频串刺激对SPVC自发放电的影响
+1.6 统计学分析                                                   给予两组大鼠TG高频串刺激（0.2 ms，     1 mA，30 s，
+     结果均以均数±标准差表示，              用 SPSS 18.0 软件进         100 Hz），
+                                                               显示大鼠SPVC的放电频率有一过性升高，          对
+行统计学分析，          两组数据之间比较用独立样本t检验，             刺        照组大鼠的典型放电频率直方图例示于图6。模型组大
+激前后数据比较用配对 t 检验分析，               多组间比较采用单               鼠刺激后放电频率较刺激前升高（P<0.05，      图7）， 而对照
+因素方差分析。P<0.05为差异有统计学意义。                                 组大鼠的刺激前后比较差异没有统计学意义。
+
+2 结果                                                     3 讨论
+2.1 咀嚼肌痛觉敏化检测                                            3.1 三叉神经痛觉传入通路的电生理检测方法
+    用von Frey尼龙毛测试两组大鼠咀嚼肌压痛，
+                           模型                                目前认为［18-20］传导口面部痛觉信息的初级传入纤
+ http://www.j-smu.com                                                                     J South Med Univ, 2019, 39(10): 1160-1165                                                · 1163 ·
+
+                                                                          A                                                                                    B
+                                     a
+
+                                                                                                                                                                           80 μV
+                                     b
+
+
+
+
+                                                                                                                                                                          1.2 ms
+                                     c
+                                     d
+                                     e
+
+
+
+
+                                     图 3 大鼠 SPVC 细胞外生物电活动和生理指标同步记录（A）及三叉神经节刺激（↑）诱发的反应（B）
+                                     Fig.3 Simultaneous recordings of electrical activities from the SPVC and the physiological functions. In A: a: SPVC(μV); b:
+                                     TG stimulation (hollow arrow); c: Temperature( ℃); d: ECG(μV); e: EMG(mV); In B: ↑indicates stimulus artifact of the TG.
+
+
+
+
+                                     60                                                                 级传入的门户 。本实验在大鼠三叉神经节，         给予不同
+                                                                    **
+     Base discharge frequency (Hz)
+
+
+
+
+                                                                                                        强度的单脉冲刺激，        并进行三叉神经脊束核尾侧亚核
+                                                                                                        （SPVC）生物电活动和外周生理指标同步记录技术，          是
+                                     40
+                                                                                                        对三叉神经痛觉传入通路及其与中枢联系的电生理监
+                                                                                                        测方法。实验结果表明在TG给予不同强度的单脉冲电
+                                     20                                                                 刺激，  可以激活三叉神经痛觉传入通路，       并诱发 SPVC
+                                                                                                        的神经元产生放电性反应，        并呈现反应幅值对刺激强度
+                                                                                                        依赖性，   可见本检测方法可以有效激活TG的痛觉传入
+                                       0
+                                           Control group (Mean)          Model group (Mean)             通路，  并评估SPVC神经元兴奋性变化。
+     图 4 两组大鼠三叉神经脊束核尾侧亚核(SPVC)的                                                                         3.2 咬合干扰对三叉神经脊束核尾侧亚核（SPVC）的影响
+     基础自发放电频率比较                                                                                             Riise等［21］很早就对11名正常牙合年轻志愿者研究发
+     Fig.4 Comparison of spontaneous discharge frequencies
+     between the two groups (Mean±SD, n=10). **P<0.01.
+                                                                                                        现咬合干扰 1 h 后咀嚼肌即出现肌电活动增强，      48 h 达
+                                                                                                        到高峰，    干扰去除 1 周后才能恢复正常。然而，   咬合干
+                                                                                                        扰所致咀嚼肌不适与三叉神经脊束核尾侧亚核的关系
+维主要终止在三叉神经脊束核尾侧亚核的浅层，
+                    因而三
+                                                                                                        至今未有定论。本实验将流动树脂粘固于大鼠右侧上
+叉神经脊束核尾侧亚核及邻近部位被认为是口面痛初
+
+
+
+ A                                     15 000        0.1 ms                                               B                    15 000         0.1 ms
+
+                                                     0.2 ms                                                                                   0.2 ms
+                                       10 000                                                                                  10 000
+               Amplitude (μV)
+
+
+
+
+                                                                                                              Amplitude (μV)
+
+
+
+
+                                                                                                                                5000
+                                           5000
+
+
+                                                                                                                                   0
+                                             0
+                                                  0.5         1.0          2.0      4.0       8.0                                       0.5       1.0           2.0      4.0       8.0
+                                                                                                                               -5000
+                                                               Stimulus intensity (mA)                                                                 Stimulus intensity (mA)
+                                         -5000
+
+                                      图 5 TG 电刺激在 SPVC 诱发反应的刺激强度依赖性
+                                      Fig.5 Stimulus intensity-dependent changes of the response amplitude of SPVC evoked by TG stimulation for 0.1 and
+                                      0.2 ms in the two groups (Mean ± SD, n=10). A: Control group; B: Model group. P<0.05 in curves 0.1 ms and 0.2 ms of
+                                      control group, while in curve 0.2 ms of model group.
+                           · 1164 ·                       J South Med Univ, 2019, 39(10): 1160-1165                                                   http://www.j-smu.com
+
+
+                                                                                                                     80    Before stimulation
+                           80                                                                                                                                      *
+Discharge frequency (Hz)
+
+
+
+
+                                                                                                                           After stimulation
+
+
+
+
+                                                                                          Discharge frequency (Hz)
+                                                                                                                     60
+                           60
+
+                           40                                                                                        40
+
+                           20
+                                                                                                                     20
+                           0
+                                0     100                200            300
+                                            Stimulation time (s)                                                      0
+                                                                                                                          Control group                      Model group
+图 6 对照组大鼠 TG 高频串刺激（0.2 ms, 1 mA, 30 s, 100 Hz）
+对 SPVC 放电频率的影响                                                                                                   图 7 TG 高频串刺激(0.2 ms, 1 mA, 30 s, 100 Hz)后对
+Fig.6 Discharge frequency histogram of SPVC after a train                                                        照组和模型组大鼠 SPVC 放电频率的比较
+stimulation of the TG (0.2 ms, 1 mA, 30 s, 100 Hz). Bin=1 s.                                                     Fig.7 Comparison of discharge frequency in the SPVC
+                                                                                                                 after a train stimulation of the TG (0.2 ms, 1 mA, 30 s,
+                                                                                                                 100 Hz) between control and model groups (Mean ± SD,
+颌第一磨牙咬合面形成咬合干扰，           咀嚼肌痛觉敏化检测                                                                              n=10). *P<0.05.
+提示咬合干扰可以引起大鼠双侧咀嚼肌广泛、            持续的痛
+觉敏化，  且两者存在因果关系。
+                                                                                       塑性变化， 可能是中枢敏化的机制之一。
+    通过放电频率直方图方法分析两组大鼠麻醉状态
+                                                                                          综上所述， 大鼠三叉神经痛觉传入通路的活动可用
+下基础放电显示，       长期咬合干扰可影响三叉神经脊束核
+                                                                                       电刺激 TG 记录 SPVC 生物电活动的方法进行检测，咬
+尾侧亚核神经元的功能活动，          表现为 SPVC神经元兴奋
+                                                                                       合干扰可能提高该通路的敏感性和 SPVC 神经元的兴
+性升高。本实验给予两组大鼠TG高频串刺激，            模型组
+                                                                                       奋性，导致通路的神经可塑性变化。本研究提示：     咬合
+大鼠刺激后SPVC放电频率较刺激前升高，           差异有统计
+                                                                                       干扰可致患者口颌面疼痛，     临床在进行牙体治疗、义齿
+学意义，  提示咬合干扰可以提高SPVC神经元对痛觉传
+                                                                                       修复及正畸等治疗时，     尽量避免产生咬合干扰，一旦产
+入的反应性。
+                                                                                       生要尽早去除，  因为一旦转变为慢性则可能引起中枢变
+    至于三叉神经痛觉传入通路的敏感性变化，          可以是
+                                                                                       化，
+                                                                                        即便消除干扰也无法逆转已经产生的疼痛。
+传入神经本身的兴奋性升高或SPVC神经元兴奋性升
+高所致，  也可以是传入神经与SPVC神经元间突触传递
+                                                                                       参考文献：
+的增强导致。具体机制尚需要进一步研究来阐明。
+                                                                                       ［1］ Latysheva NV, Filatova EG, Osipova VV. Temporomandibular
+3.3 咬合干扰引起三叉神经脊束核尾侧亚核（SPVC）的
+                                                                                                              disorder as the most prevalent cause of facial pain: current evidenc
+中枢敏化                                                                                                   ［J］. Zh Nevrol Psikhiatr Im S S Korsakova, 2017, 117(10): 106-13.
+    中枢敏化［22］是一种神经元活动依赖性可塑性的变                                                           ［2］Brogan K, Lockington D, Ramaesh K. Temporomandibular disorder:
+化， 其特点是上扬现象和长时程增强效应（LTP），        长期咬                                                                          an important cause of temporal headache in patients unlikely to
+                                                                                                              have giant cell arteritis［J］. Semin Ophthalmol, 2019, 34(2): 80-4.
+合干扰，  可能产生     “记忆效应”   ，涉及三叉神经周围支痛
+                                                                                       ［3］ Cao Y, Xie QF, Li K, et al. Experimental occlusal interference
+觉纤维对痛觉传入冲动产生易化作用。研究表明，             疼痛
+                                                                                                              induces long-term masticatory muscle hyperalgesia in rats［J］. Pain,
+可能导致患者产生相关记忆，          类似的疼痛会使患者产生                                                                            2009, 144(3): 287-93.
+易化作用 。海马是学习记忆及空间定位活动等高级
+      ［23-25］
+                                                                                       ［4］ Figueroba SR, Desjardins MP, Ferreira LE, et al. The influence of
+神经活动的重要部位［26-27］。已有学者提出咀嚼运动能够                                                                                 altered occlusion on pro-inflammatory cytokine levels in the TMJ
+
+影响认知功能，       其运动控制有海马的参与［28］。Ding等［29-30］                                                                    synovial tissues of rats［J］. Arch Oral Biol, 2014, 59(11): 1164-71.
+                                                                                       ［5］ Coêlho TG, Caracas HC. Perception of the relationship between
+发现大鼠海马损毁后，       大鼠对对咬合干扰引起的咬肌痛
+                                                                                                              TMD and orthodontic treatment among orthodontists［J］. Dental
+觉记忆降低。咬合干扰刺激时间越长［14, 31］，      有可能也涉                                                                          Press J Orthod, , 2015, 20(1): 45-51.
+及LTP效应，     及产生持久的疼痛记忆。本实验咬合干扰                                                         ［6］Abdalla HB, Clemente-Napimoga JT, Hashizume CA, et al. Metallic
+持续时间达30 d，     通过von Frey尼龙毛刺激大鼠咬肌皮                                                                           crown-induced occlusal trauma as a protocol to evaluate inflammatory
+
+肤可知大鼠咀嚼肌痛觉敏感的易化作用非常明显。这                                                                                       response in temporomandibular joint and periodontal tissues of rats
+                                                                                                       ［J］. Clin Oral Investig, 2019, 23(4): 1905-12.
+些结果提示咬合干扰所致的咀嚼肌疼痛可能涉及产生
+                                                                                       ［7］Mitrirattanakul S, Jariyasakulroj S. Dental treatment as perceived
+LTP效应，  易化疼痛的发作。表明咬合干扰不仅可能提                                                                                   etiology of temporomandibular disorders［J］. Cranio, 2018, 26(7):
+高SPVC神经元对三叉神经痛觉传入的敏感性，           也可升                                                                          1-6.
+高SPVC神经元的兴奋性，        提示SPVC出现了中枢的可                                                     ［8］ 刘存瑞, 徐啸翔, 曹 烨, 等. 咬合干扰时间因素对大鼠咀嚼肌机械
+     http://www.j-smu.com                                  J South Med Univ, 2019, 39(10): 1160-1165                                   · 1165 ·
+
+     痛觉敏感的影响［J］. 北京大学学报: 医学版, 2016, 48(1): 51-6.                                (5): 419-25.
+［9］ 俞燕芳, 谷志远, 傅开元. 咬合创伤致咀嚼肌疼痛的中枢机制研究                                       ［22］Latremoliere A, Woolf CJ. Central sensitization: a generator of pain
+    ［J］. 华西口腔医学杂志, 2007, 25(6): 588-90.                                         hypersensitivity by central neural plasticity［J］. J Pain, 2009, 10(9):
+［10］Cao Y, Li K, Fu KY, et al. Central sensitization and MAPKs are              895-926.
+     involved in occlusal interference-induced facial pain in rats［J］. J   ［23］Kuffler DP. Coping with Phantom Limb Pain［J］. Mol Neurobiol,
+     Pain, 2013, 14(8): 793-807.                                                2018, 55(1): 70-84.
+［11］Sun SZ, Qi D, Yang YY, et al. Association of occlusal interference-    ［24］Noel M, Chambers CT, Mcgrath PJ, et al. The influence of children's
+     induced masseter muscle hyperalgesia and P2X3 receptors in the             pain memories on subsequent pain experience［J］. Pain, 2012, 153
+     trigeminal subnucleus caudalis and midbrain periaqueductal gray            (8): 1563-72.
+    ［J］. Neuroreport, 2016, 27(4): 277-83.                                 ［25］Althaus A, Hinrichs-Rocker A, Chapman R, et al. Development of
+［12］刘存瑞, 曹 烨, 徐啸翔, 等. 咬合干扰对大鼠三叉神经脊束核内胶                                          a risk index for the prediction of chronic post-surgical pain［J］. Eur
+     质细胞的影响［J］. 口腔疾病防治, 2018, 26(12): 766-72.                                   J Pain, 2012, 16(6): 901-10.
+［13］李云庆, 高田昌彦, 水 野. 大鼠三叉神经节细胞向三叉神经脊束                                       ［26］Okada K, Okaichi H. Functional cooperation between the hippocampal
+     核各亚核的分枝投射［J］. 神经解剖学杂志, 1994, 10(4): 299-303.                               subregions and the medial septum in unreinforced and reinforced
+［14］陈 霜, 王美青, 刘晓东, 等. 急、慢性咬合干扰致雌性大鼠咀嚼肌                                          spatial memory tasks［J］. Behav Brain Res, 2010, 209(2): 295-304.
+     痛觉敏感的研究［J］. 口腔医学研究, 2008, 24(3): 248-51.                              ［27］Reyes-Castro LA, Padilla-Gomez E, Parga-Martinez NJ, et al.
+［15］刘 伟, 汪伟伟, 黄 军, 等. 大鼠脑内双核团电活动与多项生理指                                          Hippocampal mechanisms in impaired spatial learning and memory
+     标的同步记录技术［J］. 皖南医学院学报, 2013, 32(5): 423-9.                                  in male offspring of rats fed a low-protein isocaloric diet in pregnancy
+［16］Paxinos G, Watson C. The rat brain in stereotaxic coordinates［M］.           and/or lactation［J］. Hippocampus, 2017, 28(1): 18-30.
+     6th ed.［S.l.］: academic press, 2008.                                  ［28］Ono Y, Yamamoto T, Kubo KY, et al. Occlusion and brain function:
+［17］张文斌, 熊抗辉, 王百忍, 等. 大鼠三叉神经节神经元向三叉神经                                           mastication as a prevention of cognitive dysfunction［J］. J Oral Rehabil,
+     脊束核尾侧亚核和孤束核的分支投射［J］. 解剖学报, 1998(3): 20-3.
+                                                                                2010, 37(8): 624-40.
+［18］Sessle BJ. Neural mechanisms and pathways in craniofacial pain
+                                                                           ［29］Ding TT, Xu XX, Cao Y, et al. Inflammatory pain memory facilitates
+    ［J］. Can J Neurol Sci, 1999, 26(s3): S7-11.
+                                                                                occlusal interference-induced masticatory muscle hyperalgesia in
+［19］董 研, 刘洪臣, 王新木, 等. 咬合创伤对三叉神经脊束核敏化作用
+                                                                                rats［J］. Eur J Pain, 2016, 20(3): 353-64.
+     的研究［J］. 中华口腔医学杂志, 2004, 39(5): 70-2.
+                                                                           ［30］Aidil-Carvalho MF, Carmo A, Ribeiro J. Mismatch novelty exploration
+［20］Dasilva AF, Becerra L, Makris N, et al. Somatotopic activation in
+                                                                                training enhances hippocampal synaptic plasticity: A tool for cognitive
+     the human trigeminal pain pathway［J］. J Neurosci, 2002, 22(18):
+                                                                                stimulation［J］? Neurobiol Learn Mem, 2017, 145(11): 240-50.
+     8183-92.
+                                                                           ［31］莫思怡, 徐啸翔, 曹 烨, 等. 重复咬合干扰对大鼠咬肌痛觉敏感的
+［21］Riise C, Sheikholeslam A. The influence of experimental interfeting
+                                                                                易化作用［J］. 口腔医学研究, 2018, 34(3): 266-9.
+     occlusal contacts on the postural activity of the anterior temporal
+     and masseter muscles in young adults［J］. J Oral Rehabil, 1982, 9
+                                                                                                                                 （编辑：
+                                                                                                                                    余诗诗）
+

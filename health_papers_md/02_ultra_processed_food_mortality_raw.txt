@@ -1,0 +1,1377 @@
+REVIEW
+
+Pharmacological Therapy in Parkinson’s Disease: Focus
+on Neuroprotection
+Zsigmond Tamas Kincses & Laszlo Vecsei
+Department of Neurology, Albert Szent-Györgyi Clinical Center, University of Szeged, Szeged, Hungary
+
+
+
+
+Keywords                                                Although the number of available therapeutic approaches in Parkinson’s dis-
+Dopamine agonists; Genetics; Kynurenine;                ease (PD) is steadily increasing the search for effective neuroprotective agent
+L-dopa; Mitochondrion; Parkinson’s disease.
+                                                        is continuing. Such research is directed at influencing the key steps in the
+Correspondence
+                                                        pathomechanism: the mitochondrial dysfunction, the oxidative stress, the neu-
+Professor László Vécsei, Director, Department        roinflammatory processes and the final common apoptotic pathway. Earlier-
+of Neurology University of Szeged, Faculty of           developed symptomatic therapies were implicated to be neuroprotective, and
+Medicine, Albert Szent-Györgyi Clinical Center,        promising novel disease modifying approaches were brought into the focus of
+Semmelweis u., 6.H-6725 Szeged, Hungary.                interest. The current review presents a survey of our current knowledge relat-
+Tel.: +36(62)545 351, 545 348;                          ing to the pathomechanism of PD and discusses the putative neuroprotective
+Fax: +36(62)545 597;
+                                                        therapy.
+E-mail: vecsei@nepsy.szote.u-szeged.hu
+
+
+
+
+doi: 10.1111/j.1755-5949.2010.00150.x
+
+
+
+
+                                                                                    Parkinson’s Disease
+Introduction
+                                                                                    Clinical Features
+After the original description of the clinical picture by
+James Parkinson in 1817 [1], the first breakthrough                                 The incidence of PD has been calculated to be 326.3 per
+in the therapy of Parkinson’s diseases’ (PD) was the                                100,000 person-years [4]. The incidence rate increases
+introduction of L-dopa in the 1960s [2]. L-dopa led                                 with age in both men and women from 0.3 per 1000
+to significant improvements in the standard of life of                              person-years in subjects aged 55 to 65 years to 4.4 per
+individuals with PD, as measured in the activity of                                 1000 person-years in those aged 85 years or above [5].
+daily living, employability and survival, and is still the                          The age-adjusted relative risk in men as compared with
+most potent mode of treatment, but a number of is-                                  women has been reported 2.13 in one study [4] in con-
+sues remain unresolved. (1) L-dopa treatment was as-                                trast with no significant difference in another cohort [5].
+sociated with adverse motor and nonmotor complica-                                     The disease is defined by distinct clinical features, such
+tions. (2) Whereas various drugs have been suggested                                as bradykinesia, resting tremor, rigidity, and postural in-
+as potential neuroprotectants, none of the currently ap-                            stability. Besides the motor symptoms a cognitive impair-
+plied forms of therapy has been proven to have a clear                              ment develops [6–11]. In the early stages of the disease,
+disease-modifying, curative benefit [3]. Rather than fo-                            the symptoms are mild and often missed by the patient
+cusing on the evidence-based therapeutic interventions,                             and family members, becoming evident only retrospec-
+the present review will offer an overview of the re-                                tively. The early symptoms start asymmetrically, usually
+cent developments that might become future therapeu-                                with deterioration in dexterity of fine movements. Rel-
+tic avenues. We have chosen to base our review to re-                               atives and colleagues may notice general slowing-down,
+flect current knowledge relating to the pathomechanism                              changes in facial expression, and an impaired arm swing.
+of PD.                                                                              The disease becomes bilateral and then progresses slowly
+
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                            345
+Neuroprotection in Parkinson’s Disease                                                                             Z.T. Kincses and L. Vecsei
+
+
+
+during a period of years. Eventually, the patients become       age, but were also postulated to give rise to apopto-
+chair- and bed-bound.                                           sis through more direct mechanisms. Another important
+                                                                pathway is related to the abnormal aggregation of pro-
+                                                                teins. Glutamate excitotoxicity has additionally been im-
+Pathological Findings
+                                                                plicated in striatal cell death in PD. The various patho-
+Pathologically, the disease is characterized by degener-        logical processes subsequently coincide into a common
+ation of the dopaminergic cells of the substantia ni-           pathway of apoptosis.
+gra pars compacta and the appearance of cytoplasmatic
+inclusion bodies, the Lewy neurites, and Lewy bod-
+                                                                Oxidative Stress
+ies [12,13]. The major components of the Lewy bodies
+are alpha-synuclein, ubiquitin, phosphorylated neuro-           Oxidative stress, a key concept of PD pathogenesis, re-
+filaments, parkin, components of the ubiquitin protea-          flects a disturbed balance between the generation of reac-
+somal system, molecular chaperones, and lipids [14].            tive oxygen species (ROS) and antioxidative mechanisms.
+Various nondopaminergic structures are affected by the          The major source of ROS is in the mitochondria, as by-
+disease, including the cholinergic neurons of the nucleus       product of oxidative phosphorylation [18]. The free oxy-
+basalis Meynert, the noradrenergic neurons of the locus         gen radicals generated by the mitochondria are converted
+coeruleus, the serotoninergic neurons of the raphe nu-          to H2 O2, spontaneously, or by superoxide dismutase, and
+cleus, the cortical, brainstem, and spinal cord neurons         in turn this is either reduced to water by glutathione per-
+and the peripheral autonomic nervous system. It has re-         oxidase or converted to hydroxyl radicals in the Fenton
+cently been suggested that there is a gradual caudo-rostral     reaction, catalyzed by iron.
+progression of the pathological changes, starting from the         The ROS bring about oxidative damage of proteins,
+neurons of the nuclei of the autonomic nervous system,          lipids, and DNA [19]. An imbalance between ROS gen-
+progressing through the lower brainstem, reaching the           eration and antioxidative mechanisms in PD has been
+basal ganglia and finally involving the cortical neurons        demonstrated by a decreased nigral level of the antiox-
+too [15]. Nonetheless, reviews of earlier studies [16] and      idant glutathione [20], reduced mRNA expressions of
+more recent pathological studies [17] have demonstrated         Cu/Zn-superoxide dismutase and glutathione peroxidase
+that a significant proportion of patients do not follow the     [21], and an increased concentration of iron (Fe3+ ) [22].
+proposed pathway, and the validity of the hypothesis has        Increased iron concentrations were reported in the sub-
+been questioned [14,16].                                        stantia nigra of severe cases of PD [23,24] but not in
+                                                                milder cases. The iron deposition was localized to the
+                                                                neuromelanin granules of the substatia nigra pars com-
+Pathogenesis
+                                                                pacta [25] that is a strong iron chelator. In vivo MRI stud-
+It is currently considered that the pathogenesis of PD          ies indicated reduced T2 relaxation times that was related
+involves several major interacting pathways (Figure 1).         also to the increased iron content of the substantia ni-
+A mitochondrial dysfunction of various origins was first        gra [26,27]. Dopaminergic cells are prone to oxidative
+shown to lead to the development of oxidative stress and        damage as the metabolism of dopamine by monoamine
+a cell energy insufficiency. Similarly, immune mecha-           oxidase produces H2 O2 [28]. Dopamine can also be
+nisms identified in PD (see below) cause oxidative dam-         metabolized to reactive dopamine quinol which has been
+                                                                shown to be neurotoxic through the covalent modifica-
+                                                                tion of proteins [29].
+
+
+                                                                Mitochondrial Dysfunction
+                                                                The primary role of mitochondria is the energy supply
+                                                                of the cell through oxidative phosphorylation. In the
+                                                                double-membrane organization of the mitochondrion,
+                                                                four distinct compartments can be defined, each hav-
+                                                                ing unique functional role: the outer membrane, the
+                                                                intermembrane space, the inner membrane, and the
+                                                                matrix. The elements of the mitochondrial electron trans-
+                                                                port system are all located on the inner membrane: com-
+                                                                plex I (nicotinamide adenine dinucleotide ubiquinone
+Figure 1 Interaction of pathomechanical pathways in PD.         oxi-reductase), complex II (succinate ubiquinone
+
+
+346                                                           CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                   Neuroprotection in Parkinson’s Disease
+
+
+
+oxi-reductase), complex III (ubiquinone/cytochrome                                  been reported that CD4+ and CD8+ T cells are present in
+c reductase), complex IV (cytochrome oxidase), and                                  the mouse model of PD close to vessels and dopaminergic
+complex V (ATP synthase). Two mobile electron carriers                              neurons [45]. In a series of papers, Mogi and coworkers
+are located in the intermembrane space and in the inner                             reported increased levels of tumor necrosis factor-alpha
+membrane are the cytochrome c and the coenzyme Q                                    (TNF-alpha), interleukin-1 beta (IL-1 beta), IL-6, epi-
+(CoQ; ubiquinone). As the electrons are transported                                 dermal growth factor, transforming growth factor-alpha,
+down the respiratory chain (Compex I-V), the proton                                 transforming growth factor-beta 1, beta 2-microglobulin,
+concentration in the intermembrane space increases and                              and IL-2 in the brain of PD patients [46–52]. In the serum
+a strong electrochemical gradient is established across                             of human patients increased levels of IL-2, TNF-alpha,
+the inner membrane (mitochondrial transmembrane                                     IL-6, RANTES, and antibodies against dopamine-oxidized
+potential). The energy produced by equalization of this                             proteins were found [53–56]. Similar changes were ob-
+gradient through complex V is used for ATP synthesis                                served in the cerebrospinal fluid [51,57]. The contribu-
+(Figure 2—inset). Although this process is efficient a                              tion of the microglial response to the PD pathogenesis
+small percentage of the electrons may reduce oxygen                                 was demonstrated in in vivo imaging studies [58,59]. Par-
+prematurely and produce ROS.                                                        allel changes in microglial activation and the correspond-
+   The first evidence of the key role of a mito-                                    ing dopaminergic terminal loss in the affected nigrostri-
+chondrial dysfunction emerged from the observation                                  atal pathway in early PD were revealed by means of PET.
+that the 1-methyl-4-phenylpyridinium ion (MPP+ ),                                   An association between polymorphisms and mutations
+an active metabolite of 1-methyl-4-phenyl-1,2,3,6-                                  of various neuroinflammation related genes and PD was
+tetrahydropyridine (MPTP; a contaminant of opiate                                   suggested [60–66].
+drugs), which is an inhibitor of mitochondrial complex                                 The exact mechanism of the neuroinflamation-related
+I, causes dopaminergic cell death and rapid-onset parkin-                           neurotoxicity is not yet fully understood, but several
+sonism [30,31]. Consecutively, a deficient function of the                          studies have suggested that, besides the direct apoptosis-
+complexes of the electron transport system was demon-                               inducing effect of cytokines, it is related to the oxidative
+strated in the platelets and skeletal muscle of PD patients                         burst arising from the activated microglias [67–71].
+[32–34]. The background of such a complex I deficiency
+seems to be linked to the mitochondrial DNA, as indicated
+by neuroblastoma cells with mitochondria derived from                               Protein Aggregation
+the platelets of PD patients [35,36]. Knowledge of the
+mitochondrial electron transport system deficiency led to                           Alpha-synuclein is the major component of the Lewy
+the development of promising, novel therapeutic inter-                              bodies in sporadic PD. Overproduction and reduced clear-
+ventions, such as near-infrared light therapy, which was                            ing of the protein by lysosomes and proteasomes may
+suggested to modulate the activity of complex IV [37],                              play a key role in PD pathogenesis. Elevated levels of
+and mitochondrial gene therapy was also postulated as a                             alpha-synuclein may result in aggregation and the for-
+possible future therapeutic avenue [38].                                            mation of toxic oligomers that may interfere with the
+   Whatever the reason for and the specific mechanism                               lysosome and proteasome functions [72] creating a vi-
+of the mitochondrial dysfunction, it was hypothesized to                            cious circle [73]. Under physiological conditions alpha-
+cause neurodegeneration via one of the following path-                              synuclein exists as α-helical conformation, whereas
+ways: (1) oxidative stress (see above), (2) energy deple-                           under pathological conditions it can refold into a β-
+tion (that itself may cause cell death by activating K-ATP                          sheet-rich conformation that can furnish toxic oligomers
+channels [39], by compromising the proteasomal activity                             and amyloid fibrils. These protein aggregates can in
+[40] or altering the neural amino acid levels [41]), and                            turn promote the misfolding of wild-type proteins. This
+(3) the promotion of apoptosis (see below).                                         hypothetical mechanism, suggested to be similar to a
+                                                                                    prion-like mechanism [74], was confirmed by the
+                                                                                    demonstration that, some 10 years after implantation,
+                                                                                    embryonic dopaminergic cells displayed PD pathology
+Neuroinﬂammation                                                                    [75,76]. Also Desplats and colleagues found that over-
+The role of neuroinflammation in the pathogenesis of PD                             expressed synuclein could be transferred to healthy cells
+was suggested by several early findings and also by re-                             that will express pathological changes [77]. This mecha-
+cent studies. Microglial activation and astrocytic reactions                        nism would also be in accordance with the observation
+were described in the substantia nigra of PD patients post-                         by Braak that the appearance of alpha-synuclein follows
+mortem [42–44], though it is not yet clear if this is the                           a predictable sequential spread throughout the nervous
+cause or a result of the progressing disease. It has also                           system [15].
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                              347
+Neuroprotection in Parkinson’s Disease                                                                                            Z.T. Kincses and L. Vecsei
+
+
+
+
+Figure 2 Apoptotic processes in PD. Extrinsic pathway initiated from           are important modulators of pro- and antiapoptotic mechanisms. The inset
+the cell surface receptors (e.g., Fas) and proceeding through a cascade        shows the structure of the mitochondrion and the respiratory chain (JNK,
+of events, in which caspases are involved. The activation of the intrin-       c-Jun N-terminal kinase; Smacs, secondary mitochondria-derived activa-
+sic pathway begins with the permeabilization of the mitochondrial outer        tor caspases; AIF, apoptosis inducing factor; Apaf-1, apoptotic peptidase
+membrane, which leads to the release of key mitochondrial proteins (such       activating factor 1).
+as cytochrome c, Smacs, AIF, etc.). Members of the Bcl2 family of proteins
+
+
+
+
+348                                                                          CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                               c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                   Neuroprotection in Parkinson’s Disease
+
+
+
+Exitotoxicity and Calcium Homeostasis                                               models [90–94]. Another receptor involved in the ini-
+                                                                                    tiation of the extrinsic pathway is Fas (also belonging
+A further key process implicated in PD pathogene-
+                                                                                    in the TNF receptor superfamily), activated by the Fas-
+sis is glutamate exitotoxicity. Glutamate is the ma-
+                                                                                    ligand (Fas-L: expressed mainly by activated T cells); this
+jor excitatory neurotransmitter of the nervous sys-
+                                                                                    has been shown to be overexpressed in PD patients and
+tem that acts on NMDA (N-methyl-D-aspartate), AMPA
+                                                                                    also in MPTP-treated mice [95,96]. However, contradic-
+(α-amino-3-hydroxy-5-methylisoxazole proprionic acid)
+                                                                                    tory results have also been published regarding the role
+and metabotropic receptors (mGlu1-mGlu8) [78,79]. Be-
+                                                                                    of the Fas-L/Fas/caspase-8 pathway in PD [97,98]. The c-
+sides its key role in neurotransmission by activating
+                                                                                    Jun N-terminal kinase (JNK) have been identified a key
+NMDA and AMPA receptors and voltage-gated ion chan-
+                                                                                    transcriptional modulator of the Fas/Fas-L system and is
+nels, glutamate causes a massive influx of extracel-
+                                                                                    a crucial component of the neurodegeneration [99–102].
+lular calcium and also its release from the endoplas-
+                                                                                    Nonetheless, inhibition of the JNK signal transduction
+matic reticulum, initiating neurotoxic processes. The
+                                                                                    pathway upstream at the level of mixed lineage kinases
+increased intracellular calcium concentration may influ-
+                                                                                    by GEP-1347 in a prospective clinical trial did not prove
+ence apoptosis-related factors such as the Bcl-2 family
+                                                                                    to be effective [103].
+proteins [80], and endoplasmatic reticulum-related pro-
+                                                                                       The pivotal event in the intrinsic or mitochondrial
+tein processing and folding [81]. Moreover, calcium en-
+                                                                                    pathway is the increased permeabilization of the mito-
+ters the mitochondria and under normal circumstances
+                                                                                    chondrial outer membrane. This either occurs by open-
+potentiates oxidative phosphorylation to meet the in-
+                                                                                    ing of the mitochondrial permeability transition pore or
+creased metabolic demands of restoring the calcium
+                                                                                    is mediated by the direct action of proapoptotic pro-
+homeostasis [82]. In the event of an enhanced calcium
+                                                                                    teins, the Bcl-2 family members Bax and Bak [104]. Once
+influx, it may ultimately compromise the mitochondrial
+                                                                                    the outer membrane is permeable, key mitochondrial
+energy production, further increasing the mitochondrial
+                                                                                    proapoptotic proteins are released to the cytosol, such
+calcium concentration and leading to depolarization and
+                                                                                    as cytochrome c, AIF, and Smacs. Cytochrome c binds
+ultimately to opening of the mitochondrial permeability
+                                                                                    to Apaf-1 and forms a protein complex known as apop-
+transition pore and commencing apoptosis [83].
+                                                                                    tosome that in turn activates procaspase-9 to initiate an
+   Dopaminergic cells of the substantia nigra pars com-
+                                                                                    enzymatic reaction cascade leading to the execution of
+pacta are critically sensitive to glutamate exitotoxicity as a
+                                                                                    apoptosis in cells [105]. The key regulator of the mito-
+reduced dopaminergic activity leads to an enhanced com-
+                                                                                    chondrial permeability and the release of the proapop-
+pensatory recursive glutamatergic input [84]. Further, in
+                                                                                    togenic proteins are the proteins belonging in the Bcl-2
+order to maintain the constant striatal dopamine con-
+                                                                                    family [106].
+centration, dopaminergic cells have a pace-maker activity
+generated through ion channels [85,86] that increase the
+intracellular calcium level [83], thereby increasing the                            Etiology of PD
+susceptibility of these cells.
+                                                                                    Although epidemiology studies have suggested several
+                                                                                    environmental factors as risk factors for PD, no single
+Apoptosis
+                                                                                    etiological factor has yet been conclusively established.
+Apoptosis, programmed cell death, is a cascade of bio-                              MPTP, a contaminant of synthetic opiates, is the first link
+chemical events leading to characteristic morphological                             between environmental factors and the disease. Rural liv-
+changes and consequently to cell death [87] (Figure 2).                             ing [107,108], well-water [108,109], pesticides, and her-
+The apoptotic cascade is initiated by two pathways (ex-                             bicides [109,110] (not necessarily independently) have
+trinsic and intrinsic) that converge to the same final ef-                          been implicated as risk factors for PD [111,112].
+fector mechanisms.                                                                     Genetic alterations have been identified as the cause of
+   The extrinsic pathway is activated through cell sur-                             PD in familial cases (Table 1), which account for ∼5–10%
+face death-receptors belonging in the TNF receptor su-                              of all PD cases.
+perfamily; activation of the caspase cascade that in turn                              The first mutation identified as linked to PD was in the
+will activate the effectors, the death substrates [88]. It                          gene of alpha-synuclein, the major component of Lewy
+has been proposed that inflammatory cytokines released                              bodies [113]. It was observed that the overproduction and
+from the activated immune cells and microglia found                                 reduced clearing of the protein may play a key role in PD.
+in the brain of PD patients [42–45] may induce apop-                                Increased levels of alpha synuclein result in aggregation
+tosis directly through TNF cell surface receptors [89].                             and the formation of toxic oligomers that may interfere
+However, there are conflicting results about the impor-                             with the lysosome and proteasome functions, creating
+tance of the TNF receptor-mediated processes in animal                              a vicious circle [114]. Hence, interventions against the
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                              349
+Neuroprotection in Parkinson’s Disease                                                                                       Z.T. Kincses and L. Vecsei
+
+
+Table 1 Genetic background of Parkinson’s disease
+
+Protein/Gene             Locus                      Putative physiological and pathogenetic role                                        Key references
+
+Synuclein                Chr 4                      Pathological oligomer formation                                                     [113–118]
+PARK-1                   4q21–23
+Parkin                   Chr 6                      Ubiquitin-protein ligase                                                            [119–124]
+PARK-2                   6q23–27                    By ubiquitation catalyze protein degradation
+UCH-L1                   Chr 4                      Ubiquitin C terminal hydrolase                                                      [125–129]
+PARK-5                   4q14–15                    Generates monomeric ubiquitin by cleaving polymeric ubiquitin
+                                                    to monomers and from the ubiquitylated peptides
+PINK-1                   Chr 1                      A serine-threonine kinase                                                           [130–134]
+PARK-6                   1p35–36                    Regulator of mitochondrial functions
+DJ1                      Chr 1                      Redox-sensitive modulator of antiapoptotic pathways                                 [135, 136]
+PARK-7                   1p36
+LRRK2                    Chr 12                     GTP-ase and protein kinase                                                          [137–142]
+PARK-8                   12p11                      Modulator of apoptotic processes
+
+
+
+processing, misfolding and aggregation of alpha-                          UCH-L1 [158]. A disturbance of this balance at any point
+synuclein and those augmenting the clearing processes                     may give rise to a shift to pathological changes, and hence
+are promising for the development of novel therapeutic                    the suggested key roles of mutations in these genes in the
+methods [143–150].                                                        pathogenesis of PD.
+   The most frequent mutation among PD patients with                         Ubiquinated protein, PTEN-induced putative kinase
+recessive inheritance [119] is PARK-2. Parkin is a                        1 (PINK1) [130] is a nuclearly encoded protein local-
+ubiquitin-protein ligase located at the outer mitochon-                   ized to the intermembrane space of the mitochondrion
+drial membrane [120]. By catalyzing the ubiquitination                    [131,132]. The protein exerts serine-threonine kinase
+of many proteins, it facilitates their degradation by the                 activity and is also capable of autophosphorylation, which
+proteasome [151–154] and this effect is linked to the at-                 may have an important regulatory role. The role of PINK1
+tenuation of JNK and p38 mitogen-activated protein ki-                    in the pathogenesis of PD may be related to defective ox-
+nase and the subsequent cleavage of caspase-3. The above                  idative phosporylation in consequence of changes in the
+results certainly justify the delivery of parkin gene to the              phosphorylation of key mitochondrial proteins of the res-
+midbrain dopaminergic cells of patients carrying this mu-                 piratory complexes [159]. Alternatively, failing physio-
+tation. Preclinical animal studies are already under way                  logical phosphorylation triggers a signaling cascade that
+[155,156], but several issues must be resolved before this                opens the mitochondrial transition pores and apoptosis
+new treatment modality can be applied in clinical trials                  commences [160,161].
+[155].                                                                       Although the physiological role of the highly conserved
+   Ubiquitin C-terminal hydrolase (UCH-L1) was first                      protein DJ-1 is not yet clear, it is very likely that it is
+linked to PD by an autosomal dominant point muta-                         a transcriptional factor and redox-sensitive modulator of
+tion (I93M) in two siblings with a strong family history,                 the antioxidative and antiapoptotic pathways [162, 135,
+but incomplete penentrance [125]. The possibility was                     163]. As a potential therapeutic alternative, DJ-1 trans-
+also raised that a single nucleotide polymorphism (S18Y)                  ferred either by the gene or by the recombinant pro-
+is linked to a reduced susceptibility to PD [126–128],                    tein itself reduces MPTP or 6-hydroxy-dopamine-induced
+though contradictory results were also published recently                 (6-OHDA) neurotoxicity [164,165]. Compounds that
+[157]. UCH-L1 is a neuronal enzyme that catalyzes the                     prevent oxidation of DJ-1 also successfully prevent ox-
+hydrolysis of C-terminal ubiquitin esters and amides                      idative stress-induced dopaminergic cell death in the rat
+[129]. The major function of the enzyme is the genera-                    [166].
+tion of monomeric ubiquitin by cleaving polymeric ubiq-                      LRKK2/dardarin, a member of the ROCO protein fam-
+uitin to monomers and from the ubiquitylated peptides                     ily is characterized by GTP-ase and protein kinase activ-
+that are the main products of proteasomal degradation                     ity [137]. Mutations markedly augment the kinase activ-
+of polyubiquinated proteins [129]. It has been proposed                   ity [138,139] or change the GTP-ase activity, which in
+that there is a fine balance between the concentration-                   turn influences the kinase activity [139]. The kinase ac-
+dependent alpha-synuclein aggregation, the ubiquiti-                      tivity seems to be crucial in the development of LRRK2-
+nation of alpha-synuclein by parkin for proteasomal                       related apoptotic processes mediated by cytochrome c and
+degradation and the subsequent recycling of ubiquitin by                  caspase-3 [167–169], but domains without kinase activity
+
+
+350                                                                     CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                          c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                   Neuroprotection in Parkinson’s Disease
+
+
+
+have also been demonstrated to be important for the ini-                            neurotoxic through the generation of ROS [184]. The
+tiation of apoptosis [170]. From a possible therapeutic as-                         Earlier versus Later Levodopa (ELLDOPA) study, which
+pect, heat shock protein 90 has been shown to connect                               examined the question of whether the L-Dopa therapy
+to LRRK2 in vivo [171] and inhibition of the chaperone                              hastens the disease course [185], did not reveal detrimen-
+activity of this protein disrupts this association and leads                        tal effect of L-dopa therapy, and after 2 weeks of wash-
+to the proteasomal degradation of LRRK2 [172].                                      out patients on L-Dopa therapy still exhibited beneficial
+   These observations furnish important clues concern-                              effects. However, the wash-out time is much longer, and
+ing the pathomechanism of PD and have been utilized                                 interpretation of the results of the imaging substudy of
+as starting points for the development of several drugs.                            ELLDOPA led to the possible neuroprotective effect of
+However, a recent large-scale study did not find signif-                            L-Dopa remaining in question.
+icant difference in the pairwise concordance of parkin-
+sonism in mono- and diziygotic twin brothers older than
+                                                                                    Dopamine Agonists
+50 years. The authors concluded that genetic factors do
+not play an important role in sporadic PD when the dis-                             Dopamine agonists, which were introduced into the ther-
+ease begins after 50 years of age, which is the situation                           apy of PD in the 1970s have several advantages over L-
+in the majority of cases [173]. However, genetic factors                            Dopa. As they do not need metabolic modification, their
+appear to be important when disease begins before age                               effect is not dependent on the surviving dopaminergic
+50 years.                                                                           cell pool. Their effect does not depend on the dopamine
+                                                                                    metabolism, and consequently is not related to the possi-
+                                                                                    ble toxic effect of dopamine. The derivation drugs selec-
+Neuroprotection in PD                                                               tively acting only on certain types of dopamine receptor
+                                                                                    might afford a possibility to reduce the dopaminergic ad-
+L-Dopa
+                                                                                    verse effects.
+L-Dopa was introduced into PD therapy in the late 1960s,                               Dopamine agonists such as bromocriptine (a potent D2
+and is still the most effective symptomatic therapy. Es-                            agonist and mild D1 receptor antagonist), carbergolide (a
+sentially, all PD patients, but especially those with early                         long-acting D2 agonist), pergolide (a D1, D2, and some-
+PD benefit from L-Dopa therapy [174]. L-Dopa is usually                             what selective D3 receptor agonist), and ropinirole (a
+coadministered with a peripheral decarboxylase inhibitor                            nonergot dopamine agonist) have been shown to ex-
+(carbidopa or benserasid) to prevent peripheral conver-                             ert free radical-scavenging action and to protect against
+sion to dopamine, thereby stabilizing the bioavailability                           MPTP, dopamine, 6-OHDA, and nitric oxide toxicity both
+of dopamine and reducing the peripheral side effects. To                            in vitro and in vivo animal models [186–192]. The antiox-
+reduce the elimination of L-Dopa further, it may be coad-                           idant effects of these drugs are related to their molecular
+ministered with catechol-O-methyl transferase (COMT)                                structure (a hydroxylated benzyl ring), downregulation
+inhibitor entacapone and tolcapone [175–178].                                       of dopamine turnover (partly a D2 receptor-dependent
+   L-Dopa is the direct biosynthetic precursor of                                   effect) [193,194], and also the upregulation of protec-
+dopamine, is actively transported across the blood–brain                            tive scavenging enzymes (e.g., they upregulate the ex-
+barrier and is transformed to dopamine by aromatic-L-                               pressions of glutathione-related enzymes) [190,194].
+aminoacid decarboxylase. One site of the decarboxyla-                                  It has been suggested that apoptogenic cytochrome c
+tion is in the remaining dopaminergic neurons, but sero-                            released from the mitochondria induces an apoptotic pro-
+toninergic, noradrenergic, and “D” neurons and glial cells                          cess through Apaf-1, caspase-9, and caspase-3 that is later
+have also been shown to take up L-Dopa and transform it                             involved in the pathogenesis of PD [195]. Cytochrome
+to dopamine [179–181]. The importance of decarboxyla-                               c, a heme protein that is an essential component of the
+tion in the nondopaminergic neurons and glia is not yet                             mitochondrial electron transport system, has also been
+clear. Dopamine produced in nondopaminergic cells may                               denoted as a stimulator of alpha-synuclein aggregation
+be taken up by dopamine transporters in dopaminergic                                [196]. The dopamine agonists talipexole and pramipex-
+neuron terminals and packed into dopamine-containing                                ole have been shown to possess neuroprotective effects
+synaptic vesicles by vesicular monoamine transporter 2                              in MPTP-treated mice [197], 6-OHDA-treated rats [198],
+(VMAT2). A reduced level of VMAT2 has been demon-                                   invertebrate flatworms [199], the human neuroblastoma
+strated to lead to dopamine-mediated neurodegenera-                                 cell line SH-SY5Y [200], and nonhuman primates [201],
+tion [182], and gain-of-function haplotypes that dis-                               the effect being related to inhibition of the release of cy-
+play increased transcriptional activity have been found                             tochrome c and aggregation of alpha-synuclein [202]. It
+to be protective against PD in women [183]. Cytosolic                               was also demonstrated that this neuroprotective effect of
+dopamine accumulation itself has been suggested to be                               pramipexole is not dependent on dopamine receptors or
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                              351
+Neuroprotection in Parkinson’s Disease                                                                              Z.T. Kincses and L. Vecsei
+
+
+
+either antioxidative effect of the drug [203], but may be        metabolites of rasagiline do not possess amphetamine-
+related to protection against glutamate excitotoxicity by        like effects and are not vasoactive either [220]. A metabo-
+reduction of the intracellular dopamine content [204].           lite of selegiline inhibits the neuroprotective effect of the
+However, evidence has been provided for at least a partial       drug, but no similar inhibition is observed in the case of
+dopaminergic effect [205].                                       rasagiline [221].
+   Recent results have indicated that dopamine agonists             It is well known that MPTP toxicity can be avoided by
+may exert their neuroprotective effect through growth            the use of MAO-B inhibitors [222,223]. The metabolism
+factor-like properties. Pramipexole and ropinirole acted         of MPTP by MAO-B to MPP+ that generates free radi-
+on dopaminergic neurons by modulating the production             cals is linked to the pathogenesis of PD [223,224]. Nev-
+of endogenous brain-derived (BDNF) and glial cell line-          ertheless, the neuroprotective effect of MAO-B inhibitors
+derived neurotrophic factors [206] that were shown to            does not depend only on the enzyme-blocker properties
+mediate neuroprotection [207]. Several lines of evidence         of the drugs. The less potent enantiomers of selegiline and
+suggest that BDNF plays a substantial role in preventing         rasagiline still have a significant neuroprotective effect
+the neuronal degeneration seen in PD. Reduced BDNF               and the effect is also observed in the human dopamin-
+mRNA expression was found in the substantia nigra of             ergic cell line SH-SY5Y, which does not express MAO-B
+PD patients [208]. In alpha-synuclein-transfected glioma         [225,226]. The antiapoptotic effect is related to inhibi-
+cells, the expression of BDNF was induced, but not by            tion of decrease in the mitochondrial membrane poten-
+the A30P and A53T-mutated alpha-synuclein gene [209].            tial. The mitochondrial permeability transition pore that
+It was also demonstrated that inhibition of BDNF ex-             controls the initiation step of the apoptotic death process
+pression by antisense oligonucleotide infusion causes the        by reducing the mitochondrial membrane potential has a
+loss of nigral dopaminergic neurons [210]. The Val66Met          tertiary structure similar to that of MAO-B, which may
+polymorphism of BDNF gene was proposed to be a sus-              be responsible for the neuroprotective effect of rasagi-
+ceptibility factor for PD [211,212], but the experimental        line. Alternatively, rasagiline has been observed to in-
+findings are not clear-cut [213,214].                            crease the expression of Bcl-2, a direct regulator of the
+   It is important that besides evidence from in vitro and       mitochondrial permeability transition pore, and hence to
+animal studies, dopamine agonists have also been eval-           have an antiapoptotic property [227,228]. Importantly,
+uated and their disease-modifying effects confirmed in           rasagiline exerts neurorestorative action when adminis-
+clinical trials. The imaging surrogate marker of beta-CIT        tered posttreatment after MPTP neurotoxicity. This ef-
+SPECT was utilized in the CALM-PD study [215] and                fect is linked to activation of the pathway involving the
+fluoro-dopa PET the REAL-PET study [216]. The conclu-            neurotrophic tyrosine kinase receptor [229] a ligand of
+sion of both investigations was that the dopamine ago-           BDNF, the expression of which is also modulated by
+nists pramipexole and ropinirole may have a neuropro-            rasagiline [230,231].
+tective effect. Whereas the use of imaging biomarkers is            A major metabolite of rasagiline, the 1-(R)-
+certainly justified, the exact relation to clinical measures     aminoindane was also shown to have neuroprotective
+must be further evaluated before use of such surrogate           effect in several in vitro and in vivo animal studies
+markers in clinical trials.                                      [232,233]. The mechanism of neuroprotectant effect
+                                                                 of 1-(R)-aminoindane was related to modulation of
+                                                                 apoptosis related proteins, such as decreasing the level
+MAO-B Inhibitors
+                                                                 of H2A.X, decreasing the cleavage and increasing the
+Monoamine oxidase (MAO) embedded in the mitochon-                expression of caspase 9 and 3, increasing the level of
+drial outer membrane [217] is responsible for the degra-         antiapoptotic proteins Bcl-2 and Bcl-xl [232].
+dation of dopamine. Within the central nervous system,              Furthermore, novel bifunctional MAO-B inhibitors
+the bulk of the enzyme is present as the B isoenzyme. As         possess also an iron chelating property that might be
+one of the key components of the oxidative degradation           a key factor of the neuroprotectant feature of these
+of dopamine and in the consequent oxidative stress, it has       drugs (HLA-20, M30) [234–237]. In these molecules,
+a central role in the pathogenesis of PD.                        the propargylamid and MAO-B inhibitor moiety of rasag-
+   Selegiline, a selective and irreversible inhibitor of         iline is combined with and iron chelating properties, con-
+MAO-B, first synthetized by the Hungarian pharmacol-             sequently these drugs are able to block the iron-mediated
+ogist Ecseri [218] and characterized by Knoll and Magyar         production of free radicals in the Fenton reaction.
+[219], improves parkinsonian symptoms and is approved               The neuroprotective effect of the MAO-B inhibitors se-
+worldwide for use as adjunctive therapy to L-Dopa.               legiline and rasagiline has been the subject of several
+Rasagiline, an indane derivative, is a novel irreversible        clinical trials. The Deprenyl and Tocopherol Antioxida-
+inhibitor of MAO-B. In contrast with selegiline, the             tive Therapy of Parkinsonism (DATATOP) study [238]
+
+
+352                                                            CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                 c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                    Neuroprotection in Parkinson’s Disease
+
+
+
+revealed a beneficial effect of selegiline, but not of toco-                        tine kinase catalyzes the reversible transfer of a phosphate
+pherol, when the introduction of L-Dopa therapy was de-                             group from ATP, the high-energy product of the mito-
+layed. The Sinemet-Deprenyl-Parlodar (Sindepar) study                               chondrial respiratory chain, to creatine, yielding high-
+indicated the superiority of selegiline as compared with                            energy phosphocreatinine.
+placebo, as measured via the primary endpoint of the                                   In vitro and in vivo animal studies have indicated the
+study: the change in UPDRS between the first and the                                neuroprotective effect of creatine [258]. One possible
+final visit, after a 2-month of wash-out period follow-                             mechanism of creatine-induced neuroprotection is sta-
+ing a 12-month treatment [239]. The recently reported                               bilization of the energy balance of the cells. Creatine
+initial results of the delayed start design Attenuation of                          treatment has been shown to increase the level of phos-
+Disease progression with Azilect GIven Once-daily (ADA-                             phocreatine [259,260], which is an important energy
+GIO) study also supported the neuroprotective effect of                             supplementation when the mitochondrial respiratory
+rasagiline [240,241].                                                               chain is deficient (e.g., complex I inhibition by MPTP).
+                                                                                    Another possible mechanism of neuroprotection might
+                                                                                    be inhibition of the mitochondrial permeability transi-
+Antiinﬂammatory Therapies
+                                                                                    tion pore, the initial step of apoptosis. Creatine has been
+Nonsteroid antiinflammatory drugs (NSAID) and es-                                   reported to stabilize the mitochondrial isoform of crea-
+pecially nonaspirin NSAIDs such as ibuprophen, have                                 tine kinase in an octomeric form that in turn can inhibit
+also been suggested to have a beneficial effect in PD                               the mitochondrial permeability transition pore [261,262],
+[242,243], though the studies have not proved so far con-                           but this was questioned by the report that creatine has
+clusive [244,245]. The mechanism by which NSAIDs ex-                                a neuroprotective effect in MPTP-treated mice deficient
+ert their neuroprotective effect is still elusive. One obvi-                        in ubiquitous mitochondrial creatine kinase [263]. The
+ous possibility is that they act by inhibiting the proinflam-                       neuroprotective effect of creatine has also been associ-
+matory cyclooxygenase, but their ROS-scavenging effect                              ated with direct antioxidant properties [264]. The phase
+may also be important [246].                                                        II clinical trial NET-PD FS-1 did not exclude the potential
+   Minocycline a semisynthetic second-generation tetra-                             of creatine in the treatment of PD [249,250].
+cycline has both antimicrobial and antiinflammatory ef-
+fects. Minocycline has been found to be neuroprotec-
+                                                                                    Alpha-tocopherol
+tive in a preclinical MPTP-induced PD model [247,248].
+The neuroprotective effect is related to inhibition of the                          Tocopherol, one of the compounds in vitamin E is
+MPTP-induced glial inducible nitrogen monoxide syn-                                 the main fat-soluble antioxidant in the organism. It
+thase expression and inhibition of the phosphorylation                              is incorporated into cellular membranes and effectively
+of p38 mitogen-activated protein kinase [247]. A phase                              inhibits the peroxidation of lipids by scavenging the
+II clinical investigation (the Neuroprotective Exploratory                          chain-propagating peroxyl radicals [265]. Tocopherol
+Trials in Parkinson Disease, Futility Study 1 – NET-PD FS-                          does not act in isolation, but as part of the antioxidant
+1) did not rule out the potential value of the drug, and                            network, which also involves vitamin C, thiol antioxi-
+suggested further phase III trials [249,250].                                       dants such as glutathione and lipoic acid.
+   There is also substantial interest in glatiramer acetate                            Given that oxidative damage plays a central role in the
+(Copolymer 1, Copaxone), which induces regulator T                                  pathogenesis of PD, antioxidants such as tocopherol are
+cells that secrete high amounts of antiinflammatory T-                              presumed to have a neuroprotective effect. MPTP toxi-
+helper 2/3 cytokines [251,252]. It is also known that                               city was more pronounced in vitamin E-deficient mice
+glatiramer acetate-specific T-helper cells can be stimu-                            and this effect was related to lipid peroxidation [266]. A
+lated to produce BDNF [251,253,254]. The neuroprotec-                               dietary vitamin E deficiency itself causes a loss of tyrosine
+tive effect has been demonstrated in preclinical animal                             hydroxylase-immunopositive neurons in the substantia
+studies [255–257]. Further studies are warranted to eval-                           nigra of rats [267], presumably because of a defective an-
+uate the effectiveness of Copaxone in PD.                                           tioxidative network. A number of studies have demon-
+                                                                                    strated neuroprotective effects of vitamin E [268,269]. On
+                                                                                    the other hand, vitamin E pretreatment does not attenu-
+Creatine
+                                                                                    ate MPTP striatal neurotoxicity [270,271] and a genetic
+Creatine is a natural guanidine compound that plays a                               vitamin E deficiency does not affect MPTP susceptibility
+pivotal role in the cell energy metabolism. The creatine                            [272].
+system serves as a spatial energy buffer between the mi-                               Clinical studies have been carried out on the pos-
+tochondria, the energetic centers of the cell, and the cy-                          sible disease-modifying effect of alpha-tocopherol. An
+tosolic energy-consuming processes. Mitochondrial crea-                             open-label study concluded that alpha-tocopherol and
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                               353
+Neuroprotection in Parkinson’s Disease                                                                               Z.T. Kincses and L. Vecsei
+
+
+
+ascorbic acid administered together deferred the ini-                CoQ10 exerts a neuroprotective effect in various in vivo
+tiation of L-Dopa by 2.5 years [273]. However, the                models, for example, ischemia [278], malonate (an
+multicenter, placebo-controlled clinical trial Deprenyl           inhibitor of succinate dehydrogenase)-induced striatal
+and Tocopherol Antioxidative Therapy of Parkinsonism              degeneration [279], MPTP toxicity [280], and paraquat-
+(DATATOP) [238] did not reveal a positive disease-                induced oxidative stress [281]. This latter study is of es-
+modifying effect of tocopherol.                                   pecial importance because it involved use of the water-
+                                                                  soluble formulation of CoQ10, which is thought to have
+                                                                  significantly higher bioavailability [282].
+Coenzyme Q
+                                                                     A clinical trial evaluating the efficacy through mea-
+Coenzyme Q10 (CoQ10), also known as ubiquinone, is                surement of the change in UPDRS score also highlighted a
+present in eukaryotic cells mainly in the mitochondria.           possible beneficial effect of CoQ10 in early PD [283], but
+It contains 1,4-benzoquinone and 10 isoprenal subunits.           no effect on the time to initiate symptomatic treatment.
+It exists in three different redox states (the fully oxidized     The NINDS NET-PD futility study did not reject CoQ10 as
+ubiquinone, the free radical ubisemiquinone, and a fully          a potential agent and suggested phase III trials; however,
+reduced ubiquinol) and is an important component of               the chosen futility threshold was questioned [284].
+the mitochondrial electron transport system. It transports
+electrons from complexes I and II to complex III of the
+                                                                  Tryptophan Metabolism in Neuroprotection
+electron transport chain. CoQ10 behaves as a free radical
+scavenger [274], this effect depending, at least partly, on       The essential amino acid tryptophan is metabolized in
+the recycling of alpha-tocopherol [275]. It has been sug-         several alternative pathways, one of the most important
+gested that it acts in concert with dihydrolipoic acid, an        of which is the kynurenine pathway [285], yielding the
+organic antioxidant compound that has been also impli-            final product nicotinamide adenosine dinucleotide (NAD)
+cated as a potent neuroprotective agent [276,277].                (Figure 3).
+
+
+
+
+Figure 3 The kynurenine pathway of the tryptophan metabolism.
+
+
+
+354                                                             CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                  c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                  Neuroprotection in Parkinson’s Disease
+
+
+
+   The first stable metabolite of the pathway is kynure-                               From the above results, it is intuitive that a shift of
+nine, which is transformed by kynurenine amino-                                     the balance of the kynurenine pathway in the direction
+transferase either to kynurenic acid or by kynurenine                               of kynurenic acid may have a potential neuroprotective
+hydroxylase to 3-hydroxy kynurenine, which is fur-                                  effect [305]. The increase of endogenous kynurenic acid
+ther metabolized to quinolic acid, the precursor of NAD.                            by nicotinylalanine, inhibiting kynureninase and kynure-
+These metabolites are usually referred to as neuroac-                               nine hydroxylase, protects against NMDA and quinolic
+tive kynurenines [286,287]. Kynurenic acid is an an-                                acid toxicity [306]. Furthermore, Ro 61 8048, a kynure-
+tagonist of the strychnine-insensitive glycine-binding site                         nine hydroxylase inhibitor, reduces the striatal glutamate
+of the NMDA receptor [288,289], a weak antagonist of                                level besides increasing the kynurenic acid concentration
+AMPA and kainite receptors [290] and also an inhibitor                              in the striatum, the cortex and the hippocampus [307].
+of the alpha7 nicotinic receptor [291], which is involved                           A similar effect has been demonstrated in nonhuman
+in the presynaptic regulation of glutamate release. Im-                             primates [308].
+portantly, the neuroinhibitory effect of kynurenic acid is                             Another option via which to modulate the kynurenine
+concentration-dependent: in nanomolar concentrations,                               pathway in order to achieve neuroprotection is the use
+it facilitates field excitatory postsynaptic potentials [292].                      of kynurenine analogues. 7-Chlorokynurenate, a syn-
+3-hyrdoxykynurenine and quinolic acid are both neu-                                 thetic derivative of kynurenic acid and an antagonist of
+rotoxic [293], and were shown to be the direct acti-                                the glycine-binding site of the NMDA receptor, effec-
+vator of NMDA receptors [294], modulate the release                                 tively protects against NMDA receptor-mediated toxic-
+or reuptake inhibition of glutamate [295], be involved                              ity [309,310]. The poor penentrance of the drug can be
+in lipid peroxidation [296] and the production of ROS                               overcome through the use of 4-chlorokynurenine a pre-
+[297].                                                                              cursor of 7-chlorokynurenate, that readily crosses the
+   The relation of the kynurenine pathway to PD has                                 blood–brain barrier and is converted enzymatically to the
+been demonstrated in several investigations. The level of                           active metabolite [311,312].
+kynurenine aminotransferase I (the enzyme that converts
+kynurenine to kynurenic acid) was found to be reduced
+after MPTP and 6-OHDA toxicity in the striatum of the rat
+[298,299]. MPP+ also reduces the level of kynurenic acid                            Conclusions
+by inhibiting kynurenine aminotransferase II. In a human
+postmortem study, the concentration of both kynure-                                 The central mechanism of neurodegeneration shares
+nine and kynurenic acid proved to be reduced, in con-                               common pathways in several neurodegenerative dis-
+trast with that of 3-hydroxykynurenine, which concen-                               eases, for example, PD, Huntington’s disease, amy-
+tration was increased in several brain regions. Reduced                             otrophic lateral sclerosis and Alzheimer’s disease. Inves-
+level of kynurenine has been measured in serum of PD                                tigations into these processes have led to development
+patients, which has been paralleled with reduced kynure-                            of novel therapeutic approaches shown to be effective in
+nine aminotransferases activity [300]. The importance of                            in vitro studies and animal models. A small number of hu-
+these studies was speculated to lie in reduced NMDA                                 man investigations have also been carried out and posi-
+antagonism, as a consequence of the reduced level of                                tive results have been published, but no medication has
+kynurenic acid or a shift in the tryptophan metabolism                              yet proved unanimously neuroprotective. Further clinical
+in the direction of 3-hydroxykynurenine and quinolone,                              trials are needed to unravel the potential neuroprotective
+both propagating neurotoxicity. In accordance with the                              effects of the above-cited drugs and approaches. On the
+former hypothesis, glutamate antagonists were shown to                              other hand, the pathomechanism of PD is far from clear
+protect against MPP+ toxicity [301], signifying the impor-                          and additional investigations are needed to identify the
+tance of the glutamatergic exitotoxicity in the pathogene-                          possible pathways that could be targeted for therapeutic
+sis of PD. Importantly, the role of the non-NMDA, AMPA                              interventions.
+glutamate receptor too was demonstrated in kynurenic
+acid-related neuroprotection [302]. Another possible link
+between the kynurenine pathway and PD is the immune
+system. Interferon-gamma modulates indoleamine 2,3-
+                                                                                    Acknowledgment
+dioxygenase, the enzyme that catalyzes the tryptophan-
+kynurenin transformation [303]. In PD patients, an                                  Funding of the studies reported in the article in-
+amplified cellular immune activation was fond to be                                 cludes Teller Ede (NAP-BIO-06-BAYBIOSZ), ETT 026-04,
+paralleled by an increased kynurenine/tryptophan ratio                              TÁMOP-4.2.2.-08/1/2008-2002, and cNEUPRO (LSHM-
+[304].                                                                              CT-2007-037950).
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                             355
+Neuroprotection in Parkinson’s Disease                                                                                   Z.T. Kincses and L. Vecsei
+
+
+
+Author Contributions                                                   12. Forno LS. Concentric hyalin intraneuronal inclusions of
+                                                                           Lewy type in the brains of elderly persons (50 incidental
+Dr. Kincses and Dr. Vécsei both collaborated on the                       cases): Relationship to parkinsonism. J Am Geriatr Soc
+concept of the article. Drafting was carried out by Dr.                    1969;17:557–575.
+Kincses.                                                               13. Ishiyama M, Yagishita S, Hasegawa K, Yokoyama T.
+                                                                           Ultrastructural study (transmission and scanning EM) of
+                                                                           cortical Lewy bodies. Neuropathology 2006;26:A58.
+Conﬂict of Interest                                                    14. Jellinger KA. Formation and development of Lewy
+Both authors are employed by the Albert Szent-Györgyi                     pathology: A critical update. J Neurol 2009;256(Suppl
+Clinical Center, University of Szeged. Neither of the au-                  3):270–279.
+thors reports any conflict of interest.                                15. Braak H, Del Tredici K, Rub U, de Vos RA, Jansen Steur
+                                                                           EN, Braak E. Staging of brain pathology related to
+                                                                           sporadic Parkinson’s disease. Neurobiol Aging
+                                                                           2003;24:197–211.
+References                                                             16. Kalaitzakis ME, Graeber MB, Gentleman SM, Pearce RK.
+  1. Parkinson J. An essay on the shaking palsy. London:                   Controversies over the staging of alpha-synuclein
+     Sherwood, Neely and Jones; 1817. Reprinted in:                        pathology in Parkinson’s disease. Acta Neuropathol
+     Neuropsychiatric classics. J Neuropsychiatry Clin Neurosci            2008;116:125–128; author reply 9–31.
+     2002;14:223–236.                                                  17. Parkkinen L, Pirttila T, Alafuzoff I. Applicability of
+  2. Cotzias GC, Van Woert MH, Schiffer LM. Aromatic                       current staging/categorization of alpha-synuclein
+     amino acids and modification of parkinsonism. N Engl J                pathology and their clinical relevance. Acta Neuropathol
+     Med 1967;276:374–379.                                                 2008;115:399–407.
+  3. Rakoczi K, Klivenyi P, Vecsei L. Neuroprotection in               18. Beal MF. Bioenergetic approaches for neuroprotection
+     Parkinson’s disease and other neurodegenerative                       in Parkinson’s disease. Ann Neurol 2003;53(Suppl
+     disorders: Preclinical and clinical findings. Ideggyogy Sz            3):S39–S47; discussion S-8.
+     2009;62:25–34.                                                    19. Bogaerts V, Theuns J, van Broeckhoven C. Genetic
+  4. Baldereschi M, Di Carlo A, Rocca WA, et al. Parkinson’s               findings in Parkinson’s disease and translation into
+     disease and parkinsonism in a longitudinal study:                     treatment: A leading role for mitochondria? Genes Brain
+     Two-fold higher incidence in men. ILSA Working                        Behav 2008;7:129–151.
+     Group. Italian Longitudinal Study on Aging. Neurology             20. Pearce RK, Owen A, Daniel S, Jenner P, Marsden CD.
+     2000;55:1358–1363.                                                    Alterations in the distribution of glutathione in the
+  5. de Lau LM, Giesbergen PC, de Rijk MC, Hofman A,                       substantia nigra in Parkinson’s disease. J Neural Transm
+     Koudstaal PJ, Breteler MM. Incidence of parkinsonism                  1997;104:661–677.
+     and Parkinson disease in a general population: The                21. Kunikowska G, Jenner P. Alterations in m-RNA
+     Rotterdam Study. Neurology 2004;63:1240–1244.                         expression for Cu,Zn-superoxide dismutase and
+  6. Galvin JE. Cognitive change in Parkinson disease.                     glutathione peroxidase in the basal ganglia of
+     Alzheimer Dis Assoc Disord 2006;20:302–310.                           MPTP-treated marmosets and patients with Parkinson’s
+  7. Antal A, Keri S, Kincses ZT, et al. Dopaminergic                      disease. Brain Res 2003;968:206–218.
+     contributions to the visual categorization of natural             22. Kienzl E, Puchinger L, Jellinger K, Linert W,
+     scenes: Evidence from Parkinson’s disease. J Neural                   Stachelberger H, Jameson RF. The role of transition
+     Transm 2003;110:757–770.                                              metals in the pathogenesis of Parkinson’s disease.
+  8. Antal A, Keri S, Dibo G, et al. Electrophysiological                  J Neurol Sci 1995;134(Suppl):69–78.
+     correlates of visual categorization: Evidence for cognitive       23. Riederer P, Sofic E, Rausch WD, et al. Transition metals,
+     dysfunctions in early Parkinson’s disease. Brain Res Cogn             ferritin, glutathione, and ascorbic acid in parkinsonian
+     Brain Res 2002;13:153–158.                                            brains. J Neurochem 1989;52:515–520.
+  9. Antal A, Keri S, Kincses T, et al. Corticostriatal circuitry      24. Dexter DT, Wells FR, Lees AJ, et al. Increased nigral iron
+     mediates fast-track visual categorization. Brain Res Cogn             content and alterations in other metal ions occurring in
+     Brain Res 2002;13:53–59.                                              brain in Parkinson’s disease. J Neurochem 1989;52:
+ 10. Antal A, Dibo G, Keri S, et al. P300 component of visual              1830–1836.
+     event-related potentials distinguishes patients with              25. Jellinger K, Kienzl E, Rumpelmair G, et al. Iron-melanin
+     idiopathic parkinson’s disease from patients with                     complex in substantia nigra of parkinsonian brains: An
+     essential tremor. J Neural Transm 2000;107:787–797.                   x-ray microanalysis. J Neurochem 1992;59:1168–1171.
+ 11. Antal A, Bandini F, Keri S, Bodis-Wollner I.                      26. Behnke S, Schroeder U, Dillmann U, et al.
+     Visuo-cognitive dysfunctions in Parkinson’s disease. Clin             Hyperechogenicity of the substantia nigra in healthy
+     Neurosci 1998;5:147–152.                                              controls is related to MRI changes and to neuronal loss
+
+
+
+356                                                                 CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                      c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                   Neuroprotection in Parkinson’s Disease
+
+
+
+     as determined by F-Dopa PET. Neuroimage 2009;47:                               42. McGeer PL, Itagaki S, Boyes BE, McGeer EG. Reactive
+     1237–1243.                                                                         microglia are positive for HLA-DR in the substantia nigra
+ 27. Antonini A, Leenders KL, Meier D, Oertel WH, Boesiger                              of Parkinson’s and Alzheimer’s disease brains. Neurology
+     P, Anliker M. T2 relaxation time in patients with                                  1988;38:1285–1291.
+     Parkinson’s disease. Neurology 1993;43:697–700.                                43. Imamura K, Hishikawa N, Sawada M, Nagatsu T,
+ 28. Maker HS, Weiss C, Silides DJ, Cohen G. Coupling of                                Yoshida M, Hashizume Y. Distribution of major
+     dopamine oxidation (monoamine oxidase activity) to                                 histocompatibility complex class II-positive microglia
+     glutathione oxidation via the generation of hydrogen                               and cytokine profile of Parkinson’s disease brains. Acta
+     peroxide in rat brain homogenates. J Neurochem                                     Neuropathol 2003;106:518–526.
+     1981;36:589–593.                                                               44. Mirza B, Hadberg H, Thomsen P, Moos T. The absence of
+ 29. Stokes AH, Hastings TG, Vrana KE. Cytotoxic and                                    reactive astrocytosis is indicative of a unique
+     genotoxic potential of dopamine. J Neurosci Res                                    inflammatory process in Parkinson’s disease. Neuroscience
+     1999;55:659–665.                                                                   2000;95:425–432.
+ 30. Gerlach M, Riederer P, Przuntek H, Youdim MB. MPTP                             45. Brochard V, Combadiere B, Prigent A, et al. Infiltration
+     mechanisms of neurotoxicity and their implications for                             of CD4 + lymphocytes into the brain contributes to
+     Parkinson’s disease. Eur J Pharmacol 1991;208:273–286.                             neurodegeneration in a mouse model of Parkinson
+ 31. Langston JW, Ballard P, Tetrud JW, Irwin I. Chronic                                disease. J Clin Invest 2009;119:182–192.
+     Parkinsonism in humans due to a product of                                     46. Mogi M, Harada M, Narabayashi H, Inagaki H, Minami
+     meperidine-analog synthesis. Science 1983;219:979–980.                             M, Nagatsu T. Interleukin (IL)-1 beta, IL-2, IL-4, IL-6
+ 32. Blin O, Desnuelle C, Rascol O, et al. Mitochondrial                                and transforming growth factor-alpha levels are elevated
+     respiratory failure in skeletal muscle from patients with                          in ventricular cerebrospinal fluid in juvenile
+     Parkinson’s disease and multiple system atrophy. J                                 parkinsonism and Parkinson’s disease. Neurosci Lett
+     Neurol Sci 1994;125:95–101.                                                        1996;211:13–16.
+ 33. Cardellach F, Marti MJ, Fernandez-Sola J, et al.                               47. Mogi M, Harada M, Kondo T, Riederer P, Nagatsu T.
+     Mitochondrial respiratory chain activity in skeletal                               Interleukin-2 but not basic fibroblast growth factor is
+     muscle from patients with Parkinson’s disease. Neurology                           elevated in parkinsonian brain. Short communication.
+     1993;43:2258–2262.                                                                 J Neural Transm 1996;103:1077–1081.
+ 34. Parker WD Jr., Boyson SJ, Parks JK. Abnormalities of                           48. Mogi M, Harada M, Kondo T, Narabayashi H, Riederer P,
+     the electron transport chain in idiopathic Parkinson’s                             Nagatsu T. Transforming growth factor-beta 1 levels are
+     disease. Ann Neurol 1989;26:719–723.                                               elevated in the striatum and in ventricular cerebrospinal
+ 35. Swerdlow RH, Parks JK, Miller SW, et al. Origin and                                fluid in Parkinson’s disease. Neurosci Lett
+     functional consequences of the complex I defect in                                 1995;193:129–132.
+     Parkinson’s disease. Ann Neuro 1996;40:663–671.                                49. Mogi M, Harada M, Kondo T, Riederer P, Nagatsu T.
+ 36. Trimmer PA, Bennett JP Jr. The cybrid model of sporadic                            Brain beta 2-microglobulin levels are elevated in the
+     Parkinson’s disease. Exp Neurol 2009;218:320–325.                                  striatum in Parkinson’s disease. J Neural Transm Park Dis
+ 37. Karu TI, Pyatibrat LV, Afanasyeva NI. A novel                                      Dement Sect 1995;9:87–92.
+     mitochondrial signaling pathway activated by                                   50. Mogi M, Harada M, Kondo T, et al. Interleukin-1 beta,
+     visible-to-near infrared radiation. Photochem Photobiol                            interleukin-6, epidermal growth factor and transforming
+     2004;80:366–372.                                                                   growth factor-alpha are elevated in the brain from
+ 38. Keeney PM, Quigley CK, Dunham LD, et al.                                           parkinsonian patients. Neurosci Lett 1994;180:147–150.
+     Mitochondrial gene therapy augments mitochondrial                              51. Mogi M, Harada M, Riederer P, Narabayashi H, Fujita K,
+     physiology in a Parkinson’s disease cell model. Hum Gene                           Nagatsu T. Tumor necrosis factor-alpha (TNF-alpha)
+     The 2009;20:897–907.                                                               increases both in the brain and in the cerebrospinal fluid
+ 39. Liss B, Haeckel O, Wildmann J, Miki T, Seino S, Roeper                             from parkinsonian patients. Neurosci Lett
+     J. K-ATP channels promote the differential degeneration                            1994;165:208–210.
+     of dopaminergic midbrain neurons. Nat Neurosci                                 52. Mogi M, Harada M, Kojima K, et al. Beta
+     2005;8:1742–1751.                                                                  2-microglobulin decrease in cerebrospinal fluid from
+ 40. Hoglinger GU, Carrard G, Michel PP, et al. Dysfunction                             parkinsonian patients. Neurosci Lett 1989;104:241–246.
+     of mitochondrial complex I and the proteasome:                                 53. Stypula G, Kunert-Radek J, Stepien H, Zylinska K,
+     Interactions between two biochemical deficits in a                                 Pawlikowski M. Evaluation of interleukins, ACTH,
+     cellular model of Parkinson’s disease. J Neuroche                                  cortisol and prolactin concentrations in the blood of
+     2003;86:1297–1307.                                                                 patients with parkinson’s disease.
+ 41. Klivenyi P, Kekesi KA, Hartai Z, Juhasz G, Vecsei L.                               Neuroimmunomodulation 1996;3:131–134.
+     Effects of mitochondrial toxins on the brain amino acid                        54. Dobbs RJ, Charlett A, Purkiss AG, Dobbs SM, Weller C,
+     concentrations. Neurochem Res 2005;30:1421–1427.                                   Peterson DW. Association of circulating TNF-alpha and
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                              357
+Neuroprotection in Parkinson’s Disease                                                                                Z.T. Kincses and L. Vecsei
+
+
+
+     IL-6 with ageing and parkinsonism. Acta Neurol Scand           69. Furuya T, Hayakawa H, Yamada M, et al. Caspase-11
+     1999;100:34–41.                                                    mediates inflammatory dopaminergic cell death in the
+ 55. Rentzos M, Nikolaou C, Andreadou E, et al. Circulating             1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse
+     interleukin-15 and RANTES chemokine in Parkinson’s                 model of Parkinson’s disease. J Neurosci 2004;24:
+     disease. Acta Neurol Scand 2007;116:374–379.                       1865–1872.
+ 56. Rowe DB, Le W, Smith RG, Appel SH. Antibodies from             70. Block ML, Hong JS. Microglia and
+     patients with Parkinson’s disease react with protein               inflammation-mediated neurodegeneration: Multiple
+     modified by dopamine oxidation. J Neurosci Res                     triggers with a common mechanism. Prog Neurobiol
+     1998;53:551–558.                                                   2005;76:77–98.
+ 57. Blum-Degen D, Muller T, Kuhn W, Gerlach M, Przuntek            71. Qian L, Hong JS, Flood PM. Role of microglia in
+     H, Riederer P. Interleukin-1 beta and interleukin-6 are            inflammation-mediated degeneration of dopaminergic
+     elevated in the cerebrospinal fluid of Alzheimer’s and de          neurons: Neuroprotective effect of interleukin 10.
+     novo Parkinson’s disease patients. Neurosci Lett                   J Neural Transm 2006;(Suppl 70):367–371.
+     1995;202:17–20.                                                72. Chau KY, Ching HL, Schapira AH, Cooper JM.
+ 58. Gerhard A, Pavese N, Hotton G, et al. In vivo imaging              Relationship between alpha synuclein phosphorylation,
+     of microglial activation with [11C](R)-PK11195 PET in              proteasomal inhibition and cell death: Relevance to
+     idiopathic Parkinson’s disease. Neurobiol Dis 2006;21:             Parkinson’s disease pathogenesis. J Neurochem
+     404–412.                                                           2009;110:1005–1013.
+ 59. Ouchi Y, Yoshikawa E, Sekine Y, et al. Microglial              73. Maguire-Zeiss KA. alpha-Synuclein: A therapeutic target
+     activation and dopamine terminal loss in early                     for Parkinson’s disease? Pharmacol Res 2008;58:271–280.
+     Parkinson’s disease. Ann Neurol 2005;57:168–175.               74. Olanow CW, Prusiner SB. Is Parkinson’s disease a prion
+ 60. Kruger R, Hardt C, Tschentscher F, et al. Genetic                  disorder? Proc Natl Acad Sci USA 2009;106:12571–12572.
+     analysis of immunomodulating factors in sporadic               75. Kordower JH, Chu Y, Hauser RA, Olanow CW, Freeman
+     Parkinson’s disease. J Neural Transm 2000;107:553–562.             TB. Transplanted dopaminergic neurons develop PD
+ 61. Wu YR, Feng IH, Lyu RK, et al. Tumor necrosis                      pathologic changes: A second case report. Mov Disord
+     factor-alpha promoter polymorphism is associated with              2008;23:2303–2306.
+     the risk of Parkinson’s disease. Am J Med Genet B              76. Li JY, Englund E, Holton JL, et al. Lewy bodies in grafted
+     Neuropsychiatr Genet 2007;144B:300–304.                            neurons in subjects with Parkinson’s disease suggest
+ 62. Nishimura M, Mizuta I, Mizuta E, Yamasaki S, Ohta M,               host-to-graft disease propagation. Nat Med 2008;14:
+     Kuno S. Influence of interleukin-1beta gene                        501–503.
+     polymorphisms on age-at-onset of sporadic Parkinson’s          77. Desplats P, Lee HJ, Bae EJ, et al. Inclusion formation
+     disease. Neurosci Lett 2000;284:73–76.                             and neuronal cell death through neuron-to-neuron
+ 63. Bialecka M, Klodowska-Duda G, Kurzawski M, et al.                  transmission of alpha-synuclein. Proc Natl Acad Sci USA
+     Interleukin-10 (IL10) and tumor necrosis factor alpha              2009;106:13010–13015.
+     (TNF) gene polymorphisms in Parkinson’s disease                78. Dingledine R, Borges K, Bowie D, Traynelis SF. The
+     patients. Parkinsonism Relat Disord 2008;14:636–640.               glutamate receptor ion channels. Pharmacol Rev
+ 64. Nishimura M, Mizuta I, Mizuta E, et al. Tumor necrosis             1999;51:7–61.
+     factor gene polymorphisms in patients with sporadic            79. Greenamyre JT, Porter RH. Anatomy and physiology of
+     Parkinson’s disease. Neurosci Lett 2001;311:1–4.                   glutamate in the CNS. Neurology 1994;44(11 Suppl
+ 65. Lin JJ, Chen CH, Yueh KC, Chang CY, Lin SZ. A CD14                 8):S7–S13.
+     monocyte receptor polymorphism and genetic                     80. Hetz CA. ER stress signaling and the BCL-2 family of
+     susceptibility to Parkinson’s disease for females.                 proteins: From adaptation to irreversible cellular
+     Parkinsonism Relat Disord 2006;12:9–13.                            damage. Antioxid Redox Signal 2007;9:2345–2355.
+ 66. Klivenyi P, Ferrante RJ, Matthews RT, et al.                   81. Lindholm D, Wootz H, Korhonen L. ER stress and
+     Neuroprotective effects of creatine in a transgenic                neurodegenerative diseases. Cell Death Differ
+     animal model of amyotrophic lateral sclerosis. Nat Med             2006;13:385–392.
+     1999;5:347–350.                                                82. McCormack JG, Halestrap AP, Denton RM. Role of
+ 67. Choi DK, Pennathur S, Perier C, et al. Ablation of the             calcium ions in regulation of mammalian
+     inflammatory enzyme myeloperoxidase mitigates                      intramitochondrial metabolism. Physiol Rev
+     features of Parkinson’s disease in mice. J Neurosci                1990;70:391–425.
+     2005;25:6594–6600.                                             83. Chan CS, Gertler TS, Surmeier DJ. Calcium homeostasis,
+ 68. Wu DC, Teismann P, Tieu K, et al. NADPH oxidase                    selective vulnerability and Parkinson’s disease. Trends
+     mediates oxidative stress in the 1-methyl-4-phenyl-1,2,            Neurosci 2009;32:249–256.
+     3,6-tetrahydropyridine model of Parkinson’s disease.           84. Rodriguez MC, Obeso JA, Olanow CW. Subthalamic
+     Proc Natl Acad Sci USA 2003;100:6145–6150.                         nucleus-mediated excitotoxicity in Parkinson’s disease:
+
+
+
+358                                                              CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                   c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                     Neuroprotection in Parkinson’s Disease
+
+
+
+     A target for neuroprotection. Ann Neurol 1998;44(3                                  ion induce caspase-mediated apoptosis in human
+     Suppl 1):S175–188.                                                                  SH-SY5Y neuroblastoma cells. J Neurosci Res
+ 85. Bonci A, Grillner P, Mercuri NB, Bernardi G. L-Type                                 2001;63:421–428.
+     calcium channels mediate a slow excitatory synaptic                             99. Hunot S, Vila M, Teismann P, et al. JNK-mediated
+     transmission in rat midbrain dopaminergic neurons.                                  induction of cyclooxygenase 2 is required for
+     J Neurosci 1998;18:6693–6703.                                                       neurodegeneration in a mouse model of Parkinson’s
+ 86. Ping HX, Shepard PD. Apamin-sensitive                                               disease. Proc Natl Acad Sci USA 2004;101:665–670.
+     Ca(2+)-activated K+ channels regulate pacemaker                                100. Saporito MS, Brown EM, Miller MS, Carswell S.
+     activity in nigral dopamine neurons. Neuroreport                                    CEP-1347/KT-7515, an inhibitor of c-jun N-terminal
+     1996;7:809–814.                                                                     kinase activation, attenuates the 1-methyl-4-phenyl
+ 87. Kerr JF, Wyllie AH, Currie AR. Apoptosis: A basic                                   tetrahydropyridine-mediated loss of nigrostriatal
+     biological phenomenon with wide-ranging implications                                dopaminergic neurons In vivo. J Pharmacol Exp Ther
+     in tissue kinetics. Br J Cancer 1972;26:239–257.                                    1999;288:421–427.
+ 88. Sartorius U, Schmitz I, Krammer PH. Molecular                                  101. Xia XG, Harding T, Weller M, Bieneman A, Uney JB,
+     mechanisms of death-receptor-mediated apoptosis.                                    Schulz JB. Gene transfer of the JNK interacting
+     Chembiochem 2001;2:20–29.                                                           protein-1 protects dopaminergic neurons in the MPTP
+ 89. Hirsch EC, Hunot S. Neuroinflammation in Parkinson’s                                model of Parkinson’s disease. Proc Natl Acad Sci USA
+     disease: A target for neuroprotection? Lancet Neurol                                2001;98:10433–10438.
+     2009;8:382–397.                                                                102. Baltriukiene D, Kalvelyte A, Bukelskiene V. Induction of
+ 90. Ferger B, Leng A, Mura A, Hengerer B, Feldon J.                                     apoptosis and activation of JNK and p38 MAPK
+     Genetic ablation of tumor necrosis factor-alpha                                     pathways in deoxynivalenol-treated cell lines. Altern Lab
+     (TNF-alpha) and pharmacological inhibition of                                       Anim 2007;35:53–59.
+     TNF-synthesis attenuates MPTP toxicity in mouse                                103. Investigators TPSGP. Mixed lineage kinase inhibitor
+     striatum. J Neurochem 2004;89:822–833.                                              CEP-1347 fails to delay disability in early Parkinson
+ 91. Leng A, Mura A, Feldon J, Ferger B. Tumor necrosis                                  disease. Neurology 2007;69:1480–1490.
+     factor-alpha receptor ablation in a chronic MPTP mouse                         104. Degli Esposti M, Dive C. Mitochondrial membrane
+     model of Parkinson’s disease. Neurosci Lett                                         permeabilisation by Bax/Bak. Biochem Biophys Res
+     2005;375:107–111.                                                                   Commun 2003;304:455–461.
+ 92. Rousselet E, Callebert J, Parain K, et al. Role of                             105. Caroppi P, Sinibaldi F, Fiorucci L, Santucci R. Apoptosis
+     TNF-alpha receptors in mice intoxicated with the                                    and human diseases: Mitochondrion damage and lethal
+     parkinsonian toxin MPTP. Exp Neurol 2002;177:                                       role of released cytochrome C as proapoptotic protein.
+     183–192.                                                                            Curr Med Chem 2009;16:4058–4065.
+ 93. Sriram K, Matheson JM, Benkovic SA, Miller DB, Luster                          106. Er E, Oliver L, Cartron PF, Juin P, Manon S, Vallette
+     MI, O’Callaghan JP. Mice deficient in TNF receptors are                             FM. Mitochondria as the target of the pro-apoptotic
+     protected against dopaminergic neurotoxicity:                                       protein Bax. Biochim Biophys Acta 2006;1757:
+     Implications for Parkinson’s disease. FASEB J                                       1301–1311.
+     2002;16:1474–1476.                                                             107. Newman EJ, Grosset KA, Grosset DG. Geographical
+ 94. Sriram K, Matheson JM, Benkovic SA, Miller DB, Luster                               difference in Parkinson’s disease prevalence within West
+     MI, O’Callaghan JP. Deficiency of TNF receptors                                     Scotland. Mov Disord 2009;24:401–406.
+     suppresses microglial activation and alters the                                108. Zorzon M, Capus L, Pellegrino A, Cazzato G, Zivadinov
+     susceptibility of brain regions to MPTP-induced                                     R. Familial and environmental risk factors in Parkinson’s
+     neurotoxicity: Role of TNF-alpha. FASEB J                                           disease: A case-control study in north-east Italy. Acta
+     2006;20:670–682.                                                                    Neurol Scand 2002;105:77–82.
+ 95. Ferrer I, Blanco R, Cutillas B, Ambrosio S. Fas and Fas-L                      109. Gorell JM, Johnson CC, Rybicki BA, Peterson EL,
+     expression in Huntington’s disease and Parkinson’s                                  Richardson RJ. The risk of Parkinson’s disease with
+     disease. Neuropathol Appl Neurobiol 2000;26:424–433.                                exposure to pesticides, farming, well water, and rural
+ 96. Hayley S, Crocker SJ, Smith PD, et al. Regulation of                                living. Neurology 1998;50:1346–1350.
+     dopaminergic loss by Fas in a 1-methyl-4-phenyl-                               110. Gorell JM, Peterson EL, Rybicki BA, Johnson CC.
+     1,2,3,6-tetrahydro-pyridine model of Parkinson’s                                    Multiple risk factors for Parkinson’s disease. J Neurol Sci
+     disease. J Neurosci 2004;24:2045–2053.                                              2004;217:169–174.
+ 97. Landau AM, Luk KC, Jones ML, et al. Defective Fas                              111. Elbaz A, Moisan F. Update in the epidemiology of
+     expression exacerbates neurotoxicity in a model of                                  Parkinson’s disease. Curr Opin Neurol 2008;21:454–460.
+     Parkinson’s disease. J Exp Med 2005;202:575–581.                               112. Elbaz A, Tranchant C. Epidemiologic studies of
+ 98. Gomez C, Reiriz J, Pique M, Gil J, Ferrer I, Ambrosio S.                            environmental exposures in Parkinson’s disease.
+     Low concentrations of 1-methyl-4-phenylpyridinium                                   J Neurol Sci 2007;262:37–44.
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                                359
+Neuroprotection in Parkinson’s Disease                                                                                  Z.T. Kincses and L. Vecsei
+
+
+
+113. Polymeropoulos MH, Lavedan C, Leroy E, et al.                  128. Tan EK, Puong KY, Fook-Chong S, et al. Case-control
+     Mutation in the alpha-synuclein gene identified in                  study of UCHL1 S18Y variant in Parkinson’s disease.
+     families with Parkinson’s disease. Science 1997;276:                Mov Disord 2006;21:1765–1768.
+     2045–2047.                                                     129. Larsen CN, Price JS, Wilkinson KD. Substrate binding
+114. Windisch M, Wolf H, Hutter-Paier B, Wronski R. The                  and catalysis by ubiquitin C-terminal hydrolases:
+     role of alpha-synuclein in neurodegenerative diseases: A            Identification of two active site residues. Biochemistry
+     potential target for new treatment strategies?                      1996;35:6735–6744.
+     Neurodegener Dis 2008;5:218–221.                               130. Valente EM, Abou-Sleiman PM, Caputo V, et al.
+115. Kruger R, Kuhn W, Muller T, et al. Ala30Pro mutation                Hereditary early-onset Parkinson’s disease caused by
+     in the gene encoding alpha-synuclein in Parkinson’s                 mutations in PINK1. Science 2004;304:1158–1160.
+     disease. Nat Genet 1998;18:106–108.                            131. Silvestri L, Caputo V, Bellacchio E, et al. Mitochondrial
+116. Zarranz JJ, Alegre J, Gomez-Esteban JC, et al. The new              import and enzymatic activity of PINK1 mutants
+     mutation, E46K, of alpha-synuclein causes Parkinson                 associated to recessive parkinsonism. Hum Mol Genet
+     and Lewy body dementia. Ann Neurol 2004;55:                         2005;14:3477–3492.
+     164–173.                                                       132. Beilina A, Van Der Brug M, Ahmad R, et al. Mutations
+117. Chartier-Harlin MC, Kachergus J, Roumier C, et al.                  in PTEN-induced putative kinase 1 associated with
+     Alpha-synuclein locus duplication as a cause of familial            recessive parkinsonism have differential effects on
+     Parkinson’s disease. Lancet 2004;364:1167–1169.                     protein stability. Proc Natl Acad Sci USA
+118. Singleton AB, Farrer M, Johnson J, et al. alpha-                    2005;102:5703–5708.
+     Synuclein locus triplication causes Parkinson’s disease.       133. Valente EM, Bentivoglio AR, Dixon PH, et al.
+     Science 2003;302:841.                                               Localization of a novel locus for autosomal recessive
+119. Bonifati V, Dekker MC, Vanacore N, et al. Autosomal                 early-onset parkinsonism, PARK6, on human
+     recessive early onset parkinsonism is linked to three loci:         chromosome 1p35-p36. Am J Hum Genet 2001;
+     PARK2, PARK6, and PARK7. Neurol Sci 2002;23(Suppl                   68:895–900.
+     2):S59–S60.                                                    134. Valente EM, Brancati F, Ferraris A, et al. PARK6-linked
+120. Darios F, Corti O, Lucking CB, et al. Parkin prevents               parkinsonism occurs in several European families. Ann
+     mitochondrial swelling and cytochrome c release in                  Neurol 2002;51:14–18.
+     mitochondria-dependent cell death. Hum Mol Genet               135. Shendelman S, Jonason A, Martinat C, Leete T,
+     2003;12:517–26.                                                     Abeliovich A. DJ-1 is a redox-dependent molecular
+121. Kitada T, Asakawa S, Hattori N, et al. Mutations in the             chaperone that inhibits alpha-synuclein aggregate
+     parkin gene cause autosomal recessive juvenile                      formation. PLoS Biol 2004;2:1764–1773.
+     parkinsonism. Nature 1998;392:605–608.                         136. Bonifati V, Rizzu P, van Baren MJ, et al. Mutations in
+122. Sun M, Latourelle JC, Wooten GF, et al. Influence of                the DJ-1 gene associated with autosomal recessive
+     heterozygosity for parkin mutation on onset age in                  early-onset parkinsonism. Science 2003;299:256–259.
+     familial Parkinson disease: The GenePD study. Arch             137. Mata IF, Wedemeyer WJ, Farrer MJ, Taylor JP, Gallo
+     Neurol 2006;63:826–832.                                             KA. LRRK2 in Parkinson’s disease: Protein domains and
+123. Foroud T, Uniacke SK, Liu L, et al. Heterozygosity for              functional insights. Trends Neurosci 2006;29:286–293.
+     a mutation in the parkin gene leads to later onset             138. West AB, Moore DJ, Biskup S, et al. Parkinson’s
+     Parkinson disease. Neurology 2003;60:796–801.                       disease-associated mutations in leucine-rich repeat
+124. Lesage S, Lohmann E, Tison F, Durif F, Durr A, Brice A.             kinase 2 augment kinase activity. Proc Natl Acad Sci USA
+     Rare heterozygous parkin variants in French early-onset             2005;102:16842–16847.
+     Parkinson disease patients and controls. J Med Genet           139. West AB, Moore DJ, Choi C, et al. Parkinson’s
+     2008;45:43–46.                                                      disease-associated mutations in LRRK2 link enhanced
+125. Leroy E, Boyer R, Auburger G, et al. The ubiquitin                  GTP-binding and kinase activities to neuronal toxicity.
+     pathway in Parkinson’s disease. Nature 1998;395:                    Hum Mol Genet 2007;16:223–232.
+     451–452.                                                       140. Funayama M, Hasegawa K, Kowa H, Saito M, Tsuji S,
+126. Momose Y, Murata M, Kobayashi K, et al. Association                 Obata F. A new locus for Parkinson’s disease (PARK8)
+     studies of multiple candidate genes for Parkinson’s                 maps to chromosome 12p11.2-q13.1. Ann Neurol
+     disease using single nucleotide polymorphisms. Ann                  2002;51:296–301.
+     Neurol 2002;51:133–136.                                        141. Paisan-Ruiz C, Jain S, Evans EW, et al. Cloning of the
+127. Carmine Belin A, Westerlund M, Bergman O, et al.                    gene containing mutations that cause PARK8-linked
+     S18Y in ubiquitin carboxy-terminal hydrolase L1                     Parkinson’s disease. Neuron 2004;44:595–600.
+     (UCH-L1) associated with decreased risk of Parkinson’s         142. Ozelius LJ, Senthil G, Saunders-Pullman R, et al. LRRK2
+     disease in Sweden. Parkinsonism Relat Disord 2007;                  G2019S as a cause of Parkinson’s disease in Ashkenazi
+     13:295–298.                                                         Jews. N Engl J Med 2006;354:424–425.
+
+
+
+360                                                                CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                     c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                     Neuroprotection in Parkinson’s Disease
+
+
+
+143. Albani D, Peverelli E, Rametta R, et al. Protective effect                     157. Zhang ZJ, Burgunder JM, An XK, et al. Lack of evidence
+     of TAT-delivered alpha-synuclein: Relevance of the                                  for association of a UCH-L1 S18Y polymorphism with
+     C-terminal domain and involvement of HSP70. FASEB J                                 Parkinson’s disease in a Han-Chinese population.
+     2004;18:1713–1715.                                                                  Neurosci Lett 2008;442:200–202.
+144. Bodles AM, El-Agnaf OM, Greer B, Guthrie DJ, Irvine                            158. Lansbury PT Jr., Brice A. Genetics of Parkinson’s disease
+     GB. Inhibition of fibril formation and toxicity of a                                and biochemical studies of implicated gene products.
+     fragment of alpha-synuclein by an N-methylated                                      Curr Opin Cell Biol 2002;14:653–660.
+     peptide analogue. Neurosci Lett 2004;359:89–93.                                159. Gautier CA, Kitada T, Shen J. Loss of PINK1 causes
+145. El-Agnaf OM, Paleologou KE, Greer B, et al. A strategy                              mitochondrial functional defects and increased
+     for designing inhibitors of alpha-synuclein aggregation                             sensitivity to oxidative stress. Proc Natl Acad Sci USA
+     and toxicity as a novel treatment for Parkinson’s disease                           2008;105:11364–11369.
+     and related disorders. FASEB J 2004;18:1315–1317.                              160. Pridgeon JW, Olzmann JA, Chin LS, Li L. PINK1
+146. Paleologou KE, Irvine GB, El-Agnaf OM.                                              protects against oxidative stress by phosphorylating
+     Alpha-synuclein aggregation in neurodegenerative                                    mitochondrial chaperone TRAP1. PLoS Biol
+     diseases and its inhibition as a potential therapeutic                              2007;5:1494–1503.
+     strategy. Biochem Soc Trans 2005;33(Pt 5S):1106–1110.                          161. Petit A, Kawarai T, Paitel E, et al. Wild-type PINK1
+147. Emadi S, Liu R, Yuan B, et al. Inhibiting aggregation of                            prevents basal and induced neuronal apoptosis, a
+     alpha-synuclein with human single chain antibody                                    protective effect abrogated by Parkinson disease-
+     fragments. Biochemistry 2004;43:2871–2878.                                          related mutations. J Biol Chem 2005;280:
+148. Masliah E, Rockenstein E, Adame A, et al. Effects of                                34025–34032.
+     alpha-synuclein immunization in a mouse model of                               162. Blackinton J, Lakshminarasimhan M, Thomas KJ, et al.
+     Parkinson’s disease. Neuron 2005;46:857–868.                                        Formation of a stabilized cysteine sulfinic acid is critical
+149. Bar-On P, Crews L, Koob AO, et al. Statins reduce                                   for the mitochondrial function of the parkinsonism
+     neuronal alpha-synuclein aggregation in in vitro models                             protein DJ-1. J Biol Chem 2009;284:6476–6485.
+     of Parkinson’s disease. J Neurochem 2008;105:                                  163. Zucchelli S, Vilotti S, Calligaris R, et al. Aggresome-
+     1656–1667.                                                                          forming TTRAP mediates pro-apoptotic properties of
+150. Bar-On P, Rockenstein E, Adame A, Ho G, Hashimoto                                   Parkinson’s disease-associated DJ-1 missense mutations.
+     M, Masliah E. Effects of the cholesterol-lowering                                   Cell Death Differ 2009;16:428–438.
+     compound methyl-beta-cyclodextrin in models of                                 164. Paterna JC, Leng A, Weber E, Feldon J, Bueler H. DJ-1
+     alpha-synucleinopathy. J Neurochem                                                  and Parkin modulate dopamine-dependent behavior
+     2006;98:1032–1045.                                                                  and inhibit MPTP-induced nigral dopamine neuron loss
+151. Imai Y, Soda M, Inoue H, Hattori N, Mizuno Y,                                       in mice. Mol Ther 2007;15:698–704.
+     Takahashi R. An unfolded putative transmembrane                                165. Inden M, Taira T, Kitamura Y, et al. PARK7 DJ-1
+     polypeptide, which can lead to endoplasmic reticulum                                protects against degeneration of nigral dopaminergic
+     stress, is a substrate of Parkin. Cell 2001;105:891–902.                            neurons in Parkinson’s disease rat model. Neurobiol Dis
+152. Zhang Y, Gao J, Chung KK, Huang H, Dawson VL,                                       2006;24:144–158.
+     Dawson TM. Parkin functions as an E2-dependent                                 166. Miyazaki S, Yanagida T, Nunome K, et al. DJ-1-binding
+     ubiquitin-protein ligase and promotes the degradation of                            compounds prevent oxidative stress-induced cell death
+     the synaptic vesicle-associated protein, CDCrel-1. Proc                             and movement defect in Parkinson’s disease model rats.
+     Natl Acad Sci USA 2000;97:13354–13359.                                              J Neurochem 2008;105:2418–2434.
+153. Chung KK, Zhang Y, Lim KL, et al. Parkin ubiquitinates                         167. Greggio E, Jain S, Kingsbury A, et al. Kinase activity is
+     the alpha-synuclein-interacting protein, synphilin-1:                               required for the toxic effects of mutant LRRK2/dardarin.
+     Implications for Lewy-body formation in Parkinson                                   Neurobiol Dis 2006;23:329–341.
+     disease. Nat Med 2001;7:1144–1150.                                             168. Smith WW, Pei Z, Jiang H, Dawson VL, Dawson TM,
+154. Shimura H, Schlossmacher MG, Hattori N, et al.                                      Ross CA. Kinase activity of mutant LRRK2 mediates
+     Ubiquitination of a new form of alpha-synuclein by                                  neuronal toxicity. Nat Neurosci 2006;9:
+     parkin from human brain: Implications for Parkinson’s                               1231–1233.
+     disease. Science 2001;293:263–269.                                             169. Gloeckner CJ, Kinkl N, Schumacher A, et al. The
+155. Mochizuki H. Parkin gene therapy. Parkinsonism Relat                                Parkinson disease causing LRRK2 mutation I2020T is
+     Disord 2009;15 (Suppl 1):S43–45.                                                    associated with increased kinase activity. Hum Mol Genet
+156. Lo Bianco C, Schneider BL, Bauer M, et al. Lentiviral                               2006;15:223–232.
+     vector delivery of parkin prevents dopaminergic                                170. Iaccarino C, Crosio C, Vitale C, Sanna G, Carri MT,
+     degeneration in an alpha-synuclein rat model of                                     Barone P. Apoptotic mechanisms in mutant
+     Parkinson’s disease. Proc Natl Acad Sci USA 2004;                                   LRRK2-mediated cell death. Hum Mol Genet
+     101:17510–17515.                                                                    2007;16:1319–1326.
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                                361
+Neuroprotection in Parkinson’s Disease                                                                                 Z.T. Kincses and L. Vecsei
+
+
+
+171. Dachsel JC, Taylor JP, Mok SS, et al. Identification of            tetrahydropyridine-induced neurotoxicity in mice.
+     potential protein interactors of Lrrk2. Parkinsonism Relat         FASEB J 1998;12:905–912.
+     Disord 2007;13:382–385.                                       187. Kondo T, Ito T, Sugita Y. Bromocriptine scavenges
+172. Wang L, Xie C, Greggio E, et al. The chaperone activity            methamphetamine-induced hydroxyl radicals and
+     of heat shock protein 90 is critical for maintaining the           attenuates dopamine depletion in mouse striatum. Ann
+     stability of leucine-rich repeat kinase 2. J Neurosci              N Y Acad Sci 1994;738:222–229.
+     2008;28:3384–3391.                                            188. Ogawa N, Tanaka K, Asanuma M, et al. Bromocriptine
+173. Tanner CM, Ottman R, Goldman SM, et al. Parkinson                  protects mice against 6-hydroxydopamine and
+     disease in twins: An etiologic study. JAMA 1999;                   scavenges hydroxyl free radicals in vitro. Brain Res
+     281:341–346.                                                       1994;657:207–213.
+174. Hoehn MM. The natural history of Parkinson’s disease          189. Finotti N, Castagna L, Moretti A, Marzatico F. Reduction
+     in the pre-levodopa and post-levodopa eras. Neurol Clin            of lipid peroxidation in different rat brain areas after
+     1992;10:331–339.                                                   cabergoline treatment. Pharmacol Res 2000;42:
+175. Myllyla V, Haapaniemi T, Kaakkola S, et al. Patient                287–291.
+     satisfaction with switching to Stalevo: An open-label         190. Yoshioka M, Tanaka K, Miyazaki I, et al. The dopamine
+     evaluation in PD patients experiencing wearing-off                 agonist cabergoline provides neuroprotection by
+     (Simcom Study). Acta Neurol Scand 2006;114:181–186.                activation of the glutathione system and scavenging free
+176. Klivenyi P, Vecsei L. Long term experience with Stalevo            radicals. Neurosci Res 2002;43:259–267.
+     in Szeged, Hungary. Ideggyogy Sz 2009;62:178–180.             191. Nishibayashi S, Asanuma M, Kohno M, Gomez-Vargas
+177. Klivenyi P, Vecsei L. The use of Stalevo in Hungary for            M, Ogawa N. Scavenging effects of dopamine agonists
+     patients with Parkinson disease and its effect on the              on nitric oxide radicals. J Neurochem 1996;67:
+     quality of life. Ideggyogy Sz 2008;61:42–48.                       2208–2211.
+178. Lyons KE, Pahwa R. Conversion from sustained release          192. Gomez-Vargas M, Nishibayashi-Asanuma S, Asanuma
+     carbidopa/levodopa to carbidopa/levodopa/entacapone                M, Kondo Y, Iwata E, Ogawa N. Pergolide scavenges
+     (stalevo) in Parkinson disease patients. Clin                      both hydroxyl and nitric oxide free radicals in vitro and
+     Neuropharmacol 2006;29:73–76.                                      inhibits lipid peroxidation in different regions of the rat
+179. Huot P, Parent A. Dopaminergic neurons intrinsic to the            brain. Brain Res 1998;790:202–208.
+     striatum. J Neurochem 2007;101:1441–1447.                     193. Sawada H, Ibi M, Kihara T, et al. Dopamine D2-type
+180. Kitahama K, Geffard M, Araneda S, et al. Localization              agonists protect mesencephalic neurons from glutamate
+     of L-DOPA uptake and decarboxylating neuronal                      neurotoxicity: Mechanisms of neuroprotective treatment
+     structures in the cat brain using dopamine                         against oxidative stress. Ann Neurol 1998;44:110–119.
+     immunohistochemistry. Brain Res 2007;1167:56–70.              194. Iida M, Miyazaki I, Tanaka K, Kabuto H, Iwata-Ichikawa
+181. Yamada H, Aimi Y, Nagatsu I, Taki K, Kudo M, Arai R.               E, Ogawa N. Dopamine D2 receptor-mediated
+     Immunohistochemical detection of L-DOPA-derived                    antioxidant and neuroprotective effects of ropinirole, a
+     dopamine within serotonergic fibers in the striatum and            dopamine agonist. Brain Res 1999;838:51–59.
+     the substantia nigra pars reticulata in Parkinsonian          195. Hartmann A, Hunot S, Michel PP, et al. Caspase-3: A
+     model rats. Neurosci Res 2007;59:1–7.                              vulnerability factor and final effector in apoptotic death
+182. Caudle WM, Richardson JR, Wang MZ, et al. Reduced                  of dopaminergic neurons in Parkinson’s disease. Proc
+     vesicular storage of dopamine causes progressive                   Natl Acad Sci USA 2000;97:2875–2880.
+     nigrostriatal neurodegeneration. J Neurosci 2007;27:          196. Hashimoto M, Takeda A, Hsu LJ, Takenouchi T, Masliah
+     8138–8148.                                                         E. Role of cytochrome c as a stimulator of alpha-
+183. Glatt CE, Wahner AD, White DJ, Ruiz-Linares A, Ritz B.             synuclein aggregation in Lewy body disease. J Biol Chem
+     Gain-of-function haplotypes in the vesicular                       1999;274:28849–28852.
+     monoamine transporter promoter are protective for             197. Kitamura Y, Kohno Y, Nakazawa M, Nomura Y.
+     Parkinson disease in women. Hum Mol Genet                          Inhibitory effects of talipexole and pramipexole on
+     2006;15:299–305.                                                   MPTP-induced dopamine reduction in the striatum of
+184. Rabinovic AD, Lewis DA, Hastings TG. Role of oxidative             C57BL/6N mice. Jpn J Pharmacol 1997;74:51–57.
+     changes in the degeneration of dopamine terminals after       198. Vu TQ, Ling ZD, Ma SY, et al. Pramipexole attenuates
+     injection of neurotoxic levels of dopamine. Neuroscience           the dopaminergic cell loss induced by intraventricular
+     2000;101:67–76.                                                    6-hydroxydopamine. J Neural Transm 2000;107:
+185. Fahn S. Does levodopa slow or hasten the rate of                   159–176.
+     progression of Parkinson’s disease? J Neurol                  199. Kitamura Y, Kakimura J, Taniguchi T. Protective effect
+     2005;252(Suppl 4):IV37–IV42.                                       of talipexole on MPTP-treated planarian, a unique
+186. Muralikrishnan D, Mohanakumar KP. Neuroprotection                  parkinsonian worm model. Jpn J Pharmacol
+     by bromocriptine against 1-methyl-4-phenyl-1,2,3,6-                1998;78:23–29.
+
+
+
+362                                                               CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                    c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                    Neuroprotection in Parkinson’s Disease
+
+
+
+200. Kitamura Y, Kosaka T, Kakimura JI, et al. Protective                                Parkinson’s disease. J Neurol 2003;250(Suppl 3):
+     effects of the antiparkinsonian drugs talipexole and                                III40–III43.
+     pramipexole against 1-methyl-4-phenylpyridinium-                               213. Hong CJ, Liu HC, Liu TY, Lin CH, Cheng CY, Tsai SJ.
+     induced apoptotic death in human neuroblastoma                                      Brain-derived neurotrophic factor (BDNF) Val66Met
+     SH-SY5Y cells. Mol Pharmacol 1998;54:                                               polymorphisms in Parkinson’s disease and age of onset.
+     1046–1054.                                                                          Neurosci Lett 2003;353:75–77.
+201. Iravani MM, Haddon CO, Cooper JM, Jenner P,                                    214. Hakansson A, Melke J, Westberg L, et al. Lack of
+     Schapira AH. Pramipexole protects against MPTP                                      association between the BDNF Val66Met polymorphism
+     toxicity in non-human primates. J Neurochem                                         and Parkinson’s disease in a Swedish population. Ann
+     2006;96:1315–1321.                                                                  Neurol 2003;53:823.
+202. Kakimura J, Kitamura Y, Takata K, Kohno Y, Nomura Y,                           215. Group PS. Dopamine transporter brain imaging to assess
+     Taniguchi T. Release and aggregation of cytochrome c                                the effects of pramipexole vs levodopa on Parkinson
+     and alpha-synuclein are inhibited by the                                            disease progression. JAMA 2002;287:1653–1661.
+     antiparkinsonian drugs, talipexole and pramipexole.                            216. Whone AL, Watts RL, Stoessl AJ, et al. Slower
+     Eur J Pharmacol 2001;417:59–67.                                                     progression of Parkinson’s disease with ropinirole versus
+203. Gu M, Iravani MM, Cooper JM, King D, Jenner P,                                      levodopa: The REAL-PET study. Ann Neurol 2003;
+     Schapira AH. Pramipexole protects against apoptotic cell                            54:93–101.
+     death by non-dopaminergic mechanisms. J Neurochem                              217. Dostert PL, Strolin Benedetti M, Tipton KF. Interactions
+     2004;91:1075–1081.                                                                  of monoamine oxidase with substrates and inhibitors.
+204. Izumi Y, Sawada H, Yamamoto N, et al. Novel                                         Med Res Rev 1989;9:45–89.
+     neuroprotective mechanisms of pramipexole, an                                  218. Magyar K, Vizi ES, Ecseri Z, Knoll J. Comparative
+     anti-Parkinson drug, against endogenous                                             pharmacological analysis of the optical isomers of
+     dopamine-mediated excitotoxicity. Eur J Pharmacol                                   phenyl-isopropyl-methyl-propinylamine (E-250). Acta
+     2007;557:132–140.                                                                   Physiol Acad Sci Hung 1967;32:377–387.
+205. Nair VD, Olanow CW, Sealfon SC. Activation of                                  219. Knoll J, Ecseri Z, Kelemen K, Nievel J, Knoll B.
+     phosphoinositide 3-kinase by D2 receptor prevents                                   Phenylisopropylmethylpropinylamine (E-250), a new
+     apoptosis in dopaminergic cell lines. Biochem J                                     spectrum psychic energizer. Arch Int Pharmacodyn Ther
+     2003;373(Pt 1):25–32.                                                               1965;155:154–164.
+206. Du F, Li R, Huang Y, Li X, Le W. Dopamine D3                                   220. Finberg JP, Youdim MB. Pharmacological properties of
+     receptor-preferring agonists induce neurotrophic effects                            the anti-Parkinson drug rasagiline; modification of
+     on mesencephalic dopamine neurons. Eur J Neurosci                                   endogenous brain amines, reserpine reversal,
+     2005;22:2422–2430.                                                                  serotonergic and dopaminergic behaviours.
+207. Spina MB, Squinto SP, Miller J, Lindsay RM, Hyman C.                                Neuropharmacology 2002;43:1110–1118.
+     Brain-derived neurotrophic factor protects dopamine                            221. Bar Am O, Amit T, Youdim MB. Contrasting
+     neurons against 6-hydroxydopamine and N-methyl-                                     neuroprotective and neurotoxic actions of respective
+     4-phenylpyridinium ion toxicity: Involvement of the                                 metabolites of anti-Parkinson drugs rasagiline and
+     glutathione system. J Neurochem 1992;59:99–106.                                     selegiline. Neurosci Lett 2004;355:169–172.
+208. Howells DW, Porritt MJ, Wong JY, et al. Reduced BDNF                           222. Kupsch A, Sautter J, Gotz ME, et al. Monoamine
+     mRNA expression in the Parkinson’s disease substantia                               oxidase-inhibition and MPTP-induced neurotoxicity in
+     nigra. Exp Neurol 2000;166:127–135.                                                 the non-human primate: Comparison of rasagiline
+209. Kohno R, Sawada H, Kawamoto Y, Uemura K, Shibasaki                                  (TVP 1012) with selegiline. J Neural Transm 2001;108:
+     H, Shimohama S. BDNF is induced by wild-type                                        985–1009.
+     alpha-synuclein but not by the two mutants, A30P or                            223. Muralikrishnan D, Samantaray S, Mohanakumar KP.
+     A53T, in glioma cell line. Biochem Biophys Res Commun                               D-deprenyl protects nigrostriatal neurons against
+     2004;318:113–118.                                                                   1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced
+210. Porritt MJ, Batchelor PE, Howells DW. Inhibiting BDNF                               dopaminergic neurotoxicity. Synapse 2003;50:7–13.
+     expression by antisense oligonucleotide infusion causes                        224. Chiba K, Trevor A, Castagnoli N Jr. Metabolism of the
+     loss of nigral dopaminergic neurons. Exp Neurol                                     neurotoxic tertiary amine, MPTP, by brain monoamine
+     2005;192:226–234.                                                                   oxidase. Biochem Biophys Res Commun 1984;120:574–578.
+211. Karamohamed S, Latourelle JC, Racette BA, et al. BDNF                          225. Maruyama W, Youdim MB, Naoi M. Antiapoptotic
+     genetic variants are associated with onset age of familial                          properties of rasagiline, N-propargylamine-
+     Parkinson disease: GenePD Study. Neurology 2005;                                    1(R)-aminoindan, and its optical (S)-isomer, TV1022.
+     65:1823–1825.                                                                       Ann N Y Acad Sci 2001;939:320–329.
+212. Toda T, Momose Y, Murata M, et al. Toward                                      226. Yogev-Falach M, Amit T, Bar-Am O, Youdim MB. The
+     identification of susceptibility genes for sporadic                                 importance of propargylamine moiety in the
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                               363
+Neuroprotection in Parkinson’s Disease                                                                                 Z.T. Kincses and L. Vecsei
+
+
+
+     anti-Parkinson drug rasagiline and its derivatives in              monoamine oxidase inhibition and prevention of
+     MAPK-dependent amyloid precursor protein processing.               MPTP-induced striatal dopamine depletion. J Neurochem
+     FASEB J 2003;17:2325–2327.                                         2005;95:79–88.
+227. Akao Y, Maruyama W, Yi H, Shamoto-Nagai M, Youdim             238. Group TPS. Effects of tocopherol and deprenyl on the
+     MB, Naoi M. An anti-Parkinson’s disease drug,                      progression of disability in early Parkinson’s disease.
+     N-propargyl-1(R)-aminoindan (rasagiline), enhances                 The Parkinson Study Group. N Engl J Med
+     expression of anti-apoptotic bcl-2 in human                        1993;328:176–183.
+     dopaminergic SH-SY5Y cells. Neurosci Lett 2002;               239. Olanow CW, Hauser RA, Gauger L, et al. The effect of
+     326:105–108.                                                       deprenyl and levodopa on the progression of
+228. Akao Y, Maruyama W, Shimizu S, et al. Mitochondrial                Parkinson’s disease. Ann Neurol 1995;38:771–777.
+     permeability transition mediates apoptosis induced by         240. Rascol O, Olanow CW. ADAGIO: A prospective,
+     N-methyl(R)salsolinol, an endogenous neurotoxin, and               double-blind, delayed-start study to examine the
+     is inhibited by Bcl-2 and rasagiline, N-propargyl-                 disease-modifying effect of rasagiline in early Parkinsons
+     1(R)-aminoindan. J Neurochem 2002;82:913–923.                      disease (PD). Eur J Neurology 2008;15(Suppl 3):413.
+229. Sagi Y, Mandel S, Amit T, Youdim MB. Activation of            241. Olanow CW, Rascol O, Hauser R, et al. A double-blind,
+     tyrosine kinase receptor signaling pathway by rasagiline           delayed-start trial of rasagiline in Parkinson’s disease.
+     facilitates neurorescue and restoration of nigrostriatal           N Engl J Med 2009;361:1268–1278.
+     dopamine neurons in post-MPTP-induced parkinsonism.           242. Samii A, Etminan M, Wiens MO, Jafari S. NSAID use
+     Neurobiol Dis 2007;25:35–44.                                       and the risk of Parkinson’s disease: Systematic review
+230. Weinreb O, Bar-Am O, Amit T, Chillag-Talmor O,                     and meta-analysis of observational studies. Drugs Aging
+     Youdim MB. Neuroprotection via pro-survival protein                2009;26:769–779.
+     kinase C isoforms associated with Bcl-2 family members.       243. Wahner AD, Bronstein JM, Bordelon YM, Ritz B.
+     FASEB J 2004;18:1471–1473.                                         Nonsteroidal anti-inflammatory drugs may protect
+231. Weinreb O, Amit T, Bar-Am O, Youdim MB. Induction                  against Parkinson disease. Neurology 2007;69:1836–1842.
+     of neurotrophic factors GDNF and BDNF associated with         244. Etminan M, Suissa S. NSAID use and the risk of
+     the mechanism of neurorescue action of rasagiline and              Parkinson’s disease. Curr Drug Saf 2006;1:223–225.
+     ladostigil: New insights and implications for therapy.        245. Ton TG, Heckbert SR, Longstreth WT Jr., et al.
+     Ann N Y Acad Sci 2007;1122:155–168.                                Nonsteroidal anti-inflammatory drugs and risk of
+232. Bar-Am O, Amit T, Youdim MB. Aminoindan and                        Parkinson’s disease. Mov Disord 2006;21:964–969.
+     hydroxyaminoindan, metabolites of rasagiline and              246. Asanuma M, Nishibayashi-Asanuma S, Miyazaki I,
+     ladostigil, respectively, exert neuroprotective properties         Kohno M, Ogawa N. Neuroprotective effects of
+     in vitro. J Neurochem 2007;103:500–508.                            non-steroidal anti-inflammatory drugs by direct
+233. Tazik S, Johnson S, Lu D, et al. Comparative                       scavenging of nitric oxide radicals. J Neurochem
+     neuroprotective effects of rasagiline and aminoindan               2001;76:1895–1904.
+     with selegiline on dexamethasone-induced brain cell           247. Du Y, Ma Z, Lin S, et al. Minocycline prevents
+     apoptosis. Neurotox Res 2009;15:284–290.                           nigrostriatal dopaminergic neurodegeneration in the
+234. Youdim MB, Fridkin M, Zheng H. Novel bifunctional                  MPTP model of Parkinson’s disease. Proc Natl Acad Sci
+     drugs targeting monoamine oxidase inhibition and iron              USA 2001;98:14669–14674.
+     chelation as an approach to neuroprotection in                248. He Y, Appel S, Le W. Minocycline inhibits microglial
+     Parkinson’s disease and other neurodegenerative                    activation and protects nigral cells after
+     diseases. J Neural Transm 2004;111:1455–1471.                      6-hydroxydopamine injection into mouse striatum.
+235. Gal S, Zheng H, Fridkin M, Youdim MB. Restoration of               Brain Res 2001;909:187–193.
+     nigrostriatal dopamine neurons in post-MPTP treatment         249. Investigators TNN-P. A randomized, double-blind,
+     by the novel multifunctional brain-permeable iron                  futility clinical trial of creatine and minocycline in early
+     chelator-monoamine oxidase inhibitor drug, M30.                    Parkinson disease. Neurology 2006;66:664–671.
+     Neurotox Res 2010;17:15–27.                                   250. Investigators TNN-P. A pilot clinical trial of creatine and
+236. Gal S, Fridkin M, Amit T, Zheng H, Youdim MB. M30, a               minocycline in early Parkinson disease: 18-month
+     novel multifunctional neuroprotective drug with potent             results. Clin Neuropharmacol 2008;31:141–150.
+     iron chelating and brain selective monoamine                  251. Aharoni R, Kayhan B, Eilam R, Sela M, Arnon R.
+     oxidase-ab inhibitory activity for Parkinson’s disease.            Glatiramer acetate-specific T cells in the brain express T
+     J Neural Transm Suppl 2006:447–456.                                helper 2/3 cytokines and brain-derived neurotrophic
+237. Gal S, Zheng H, Fridkin M, Youdim MB. Novel                        factor in situ. Proc Natl Acad Sci USA 2003;100:
+     multifunctional neuroprotective iron                               14157–14162.
+     chelator-monoamine oxidase inhibitor drugs for                252. Aharoni R, Teitelbaum D, Sela M, Arnon R. Copolymer
+     neurodegenerative diseases. In vivo selective brain                1 induces T cells of the T helper type 2 that crossreact
+
+
+
+364                                                               CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                    c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                     Neuroprotection in Parkinson’s Disease
+
+
+
+     with myelin basic protein and suppress experimental                                 alpha-tocotrienol antioxidant action and cell signalling.
+     autoimmune encephalomyelitis. Proc Natl Acad Sci USA                                J Nutr 2001;131:369S–373S.
+     1997;94:10821–10826.                                                           266. Adams JD Jr., Odunze IN, Sevanian A. Induction by
+253. Ziemssen T, Kumpfel T, Schneider H, Klinkert WE,                                    1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine of lipid
+     Neuhaus O, Hohlfeld R. Secretion of brain-derived                                   peroxidation in vivo in vitamin E deficient mice. Biochem
+     neurotrophic factor by glatiramer acetate-reactive                                  Pharmacol 1990;39:R5–R8.
+     T-helper cell lines: Implications for multiple sclerosis                       267. Dexter DT, Nanayakkara I, Goss-Sampson MA, et al.
+     therapy. J Neurol Sci 2005;233:109–112.                                             Nigral dopaminergic cell loss in vitamin E deficient rats.
+254. Ziemssen T, Kumpfel T, Klinkert WE, Neuhaus O,                                      Neuroreport 1994;5:1773–1776.
+     Hohlfeld R. Glatiramer acetate-specific T-helper 1- and                        268. Lan J, Jiang DH. Desferrioxamine and vitamin E protect
+     2-type cell lines produce BDNF: Implications for                                    against iron and MPTP-induced neurodegeneration in
+     multiple sclerosis therapy. Brain-derived neurotrophic                              mice. J Neural Transm 1997;104:469–481.
+     factor. Brain 2002;125(Pt 11):2381–2391.                                       269. Perry TL, Yong VW, Clavier RM, et al. Partial protection
+255. Laurie C, Reynolds A, Coskun O, Bowman E,                                           from the dopaminergic neurotoxin N-methyl-4-phenyl-
+     Gendelman HE, Mosley RL. CD4+ T cells from                                          1,2,3,6-tetrahydropyridine by four different antioxidants
+     Copolymer-1 immunized mice protect dopaminergic                                     in the mouse. Neurosci Lett 1985;60:109–114.
+     neurons in the 1-methyl-4-phenyl-                                              270. Chi DS, Gong L, Daigneault EA, Kostrzewa RM. Effects
+     1,2,3,6-tetrahydropyridine model of Parkinson’s disease.                            of MPTP and vitamin E treatments on immune function
+     J Neuroimmunol 2007;183:60–68.                                                      in mice. Int J Immunopharmacol 1992;14:739–746.
+256. Benner EJ, Mosley RL, Destache CJ, et al. Therapeutic                          271. Gong L, Daigneault EA, Acuff RV, Kostrzewa RM.
+     immunization protects dopaminergic neurons in a                                     Vitamin E supplements fail to protect mice from acute
+     mouse model of Parkinson’s disease. Proc Natl Acad Sci                              MPTP neurotoxicity. Neuroreport 1991;2:544–546.
+     USA 2004;101:9435–9440.                                                        272. Ren YR, Nishida Y, Yoshimi K, et al. Genetic vitamin E
+257. Boska MD, Lewis TB, Destache CJ, et al. Quantitative 1H                             deficiency does not affect MPTP susceptibility in the
+     magnetic resonance spectroscopic imaging determines                                 mouse brain. J Neurochem 2006;98:1810–1816.
+     therapeutic immunization efficacy in an animal model                           273. Fahn S. A pilot trial of high-dose alpha-tocopherol and
+     of Parkinson’s disease. J Neurosci 2005;25:1691–1700.                               ascorbate in early Parkinson’s disease. Ann Neurol
+258. Matthews RT, Ferrante RJ, Klivenyi P, et al. Creatine                               1992;32(Suppl):S128–S132.
+     and cyclocreatine attenuate MPTP neurotoxicity. Exp                            274. Ernster L, Dallner G. Biochemical, physiological and
+     Neurol 1999;157:142–149.                                                            medical aspects of ubiquinone function. Biochim Biophys
+259. Brewer GJ, Wallimann TW. Protective effect of the                                   Acta 1995;1271:195–204.
+     energy precursor creatine against toxicity of glutamate                        275. Lass A, Sohal RS. Electron transport-linked
+     and beta-amyloid in rat hippocampal neurons. J                                      ubiquinone-dependent recycling of alpha-tocopherol
+     Neurochem 2000;74:1968–1978.                                                        inhibits autooxidation of mitochondrial membranes.
+260. Ferrante RJ, Andreassen OA, Jenkins BG, et al.                                      Arch Biochem Biophys 1998;352:229–236.
+     Neuroprotective effects of creatine in a transgenic mouse                      276. Kozlov AV, Gille L, Staniek K, Nohl H. Dihydrolipoic
+     model of Huntington’s disease. J Neurosci 2000;20:                                  acid maintains ubiquinone in the antioxidant active
+     4389–4397.                                                                          form by two-electron reduction of ubiquinone and
+261. O’Gorman E, Beutner G, Dolder M, Koretsky AP,                                       one-electron reduction of ubisemiquinone. Arch Biochem
+     Brdiczka D, Wallimann T. The role of creatine kinase in                             Biophys 1999;363:148–154.
+     inhibition of mitochondrial permeability transition.                           277. Gotz ME, Dirr A, Burger R, et al. Effect of lipoic acid on
+     FEBS Lett 1997;414:253–257.                                                         redox state of coenzyme Q in mice treated with
+262. Dolder M, Walzel B, Speer O, Schlattner U, Wallimann                                1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine and
+     T. Inhibition of the mitochondrial permeability                                     diethyldithiocarbamate. Eur J Pharmacol 1994;266:
+     transition by creatine kinase substrates. Requirement                               291–300.
+     for microcompartmentation. J Biol Chem 2003;                                   278. Ostrowski RP. Effect of coenzyme Q(10) on biochemical
+     278:17760–17766.                                                                    and morphological changes in experimental ischemia in
+263. Klivenyi P, Calingasan NY, Starkov A, et al.                                        the rat brain. Brain Res Bull 2000;53:399–407.
+     Neuroprotective mechanisms of creatine occur in the                            279. Beal MF, Henshaw DR, Jenkins BG, Rosen BR, Schulz
+     absence of mitochondrial creatine kinase. Neurobiol Dis                             JB. Coenzyme Q10 and nicotinamide block striatal
+     2004;15:610–617.                                                                    lesions produced by the mitochondrial toxin malonate.
+264. Lawler JM, Barnes WS, Wu G, Song W, Demaree S.                                      Ann Neurol 1994;36:882–888.
+     Direct antioxidant properties of creatine. Biochem Biophys                     280. Beal MF, Matthews RT, Tieleman A, Shults CW.
+     Res Commun 2002;290:47–52.                                                          Coenzyme Q10 attenuates the 1-methyl-4-phenyl-
+265. Packer L, Weber SU, Rimbach G. Molecular aspects of                                 1,2,3,tetrahydropyridine (MPTP) induced loss of striatal
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                                365
+Neuroprotection in Parkinson’s Disease                                                                                 Z.T. Kincses and L. Vecsei
+
+
+
+     dopamine and dopaminergic axons in aged mice. Brain           294. Stone TW, Perkins MN. Quinolinic acid: A potent
+     Res 1998;783:109–114.                                              endogenous excitant at amino acid receptors in CNS.
+281. Somayajulu-Nitu M, Sandhu JK, Cohen J, et al.                      Eur J Pharmacol 1981;72:411–412.
+     Paraquat induces oxidative stress, neuronal loss in           295. Tavares RG, Tasca CI, Santos CE, et al. Quinolinic acid
+     substantia nigra region and Parkinsonism in adult rats:            stimulates synaptosomal glutamate release and inhibits
+     Neuroprotection and amelioration of symptoms by                    glutamate uptake into astrocytes. Neurochem Int
+     water-soluble formulation of Coenzyme Q10. BMC                     2002;40:621–627.
+     Neurosci 2009;10:88.                                          296. Rios C, Santamaria A. Quinolinic acid is a potent lipid
+282. Borowy-Borowski H, Sodja C, Docherty J, Walker PR,                 peroxidant in rat brain homogenates. Neurochem Res
+     Sikorska M. Unique technology for solubilization and               1991;16:1139–1143.
+     delivery of highly lipophilic bioactive molecules. J Drug     297. Eastman CL, Guilarte TR. Cytotoxicity of
+     Target 2004;12:415–424.                                            3-hydroxykynurenine in a neuronal hybrid cell line.
+283. Shults CW, Oakes D, Kieburtz K, et al. Effects of                  Brain Res 1989;495:225–231.
+     coenzyme Q10 in early Parkinson disease: Evidence             298. Knyihar-Csillik E, Csillik B, Pakaski M, et al. Decreased
+     of slowing of the functional decline. Arch Neurol                  expression of kynurenine aminotransferase-I (KAT-I) in
+     2002;59:1541–1550.                                                 the substantia nigra of mice after 1-methyl-4-
+284. Investigators TNN-P. A randomized clinical trial of                phenyl-1,2,3,6-tetrahydropyridine (MPTP) treatment.
+     coenzyme Q10 and GPI-1485 in early Parkinson disease.              Neuroscience 2004;126:899–914.
+     Neurology 2007;68:20–28.                                      299. Knyihar-Csillik E, Chadaide Z, Mihaly A, Krisztin-Peva
+285. Vamos E, Pardutz A, Klivenyi P, Toldi J, Vecsei L. The             B, Fenyo R, Vecsei L. Effect of 6-hydroxydopamine
+     role of kynurenines in disorders of the central nervous            treatment on kynurenine aminotransferase-I (KAT-I)
+     system: Possibilities for neuroprotection. J Neurol Sci            immunoreactivity of neurons and glial cells in the rat
+     2009;283:21–27.                                                    substantia nigra. Acta Neuropathol 2006;112:127–137.
+286. Sas K, Robotka H, Toldi J, Vecsei L. Mitochondria,            300. Hartai Z, Klivenyi P, Janaky T, Penke B, Dux L, Vecsei L.
+     metabolic disturbances, oxidative stress and the                   Kynurenine metabolism in plasma and in red blood cells
+     kynurenine system, with focus on neurodegenerative                 in Parkinson’s disease. J Neurol Sci 2005;239:31–35.
+     disorders. J Neurol Sci 2007;257:221–239.                     301. Turski L, Bressler K, Rettig KJ, Loschmann PA, Wachtel
+287. Zadori D, Klivenyi P, Vamos E, Fulop F, Toldi J, Vecsei L.         H. Protection of substantia nigra from MPP+
+     Kynurenines in chronic neurodegenerative disorders:                neurotoxicity by N-methyl-D-aspartate antagonists.
+     Future therapeutic strategies. J Neural Transm                     Nature 1991;349:414–418.
+     2009;116:1403–1409.                                           302. Merino M, Vizuete ML, Cano J, Machado A. The
+288. Kessler M, Terramani T, Lynch G, Baudry M. A glycine               non-NMDA glutamate receptor antagonists
+     site associated with N-methyl-D-aspartic acid receptors:           6-cyano-7-nitroquinoxaline-2,3-dione and
+     Characterization and identification of a new class of              2,3-dihydroxy-6-nitro-7-sulfamoylbenzo(f)quinoxaline,
+     antagonists. J Neurochem 1989;52:1319–1328.                        but not NMDA antagonists, block the intrastriatal
+289. Birch PJ, Grossman CJ, Hayes AG. Kynurenic acid                    neurotoxic effect of MPP+. J Neurochem
+     antagonises responses to NMDA via an action at the                 1999;73:750–757.
+     strychnine-insensitive glycine receptor. Eur J Pharmacol      303. Weiss G, Murr C, Zoller H, et al. Modulation of
+     1988;154:85–87.                                                    neopterin formation and tryptophan degradation by
+290. Birch PJ, Grossman CJ, Hayes AG. Kynurenate and                    Th1- and Th2-derived cytokines in human monocytic
+     FG9041 have both competitive and non-competitive                   cells. Clin Exp Immunol 1999;116:435–440.
+     antagonist actions at excitatory amino acid receptors.        304. Widner B, Leblhuber F, Fuchs D. Increased neopterin
+     Eur J Pharmacol 1988;151:313–315.                                  production and tryptophan degradation in advanced
+291. Hilmas C, Pereira EF, Alkondon M, Rassoulpour A,                   Parkinson’s disease. J Neural Transm 2002;109:181–189.
+     Schwarcz R, Albuquerque EX. The brain metabolite              305. Nemeth H, Toldi J, Vecsei L. Kynurenines, Parkinson’s
+     kynurenic acid inhibits alpha7 nicotinic receptor activity         disease and other neurodegenerative disorders:
+     and increases non-alpha7 nicotinic receptor expression:            Preclinical and clinical studies. J Neural Transm Suppl
+     Physiopathological implications. J Neurosci                        2006:285–304.
+     2001;21:7463–7473.                                            306. Miranda AF, Boegman RJ, Beninger RJ, Jhamandas K.
+292. Rozsa E, Robotka H, Vecsei L, Toldi J. The Janus-face              Protection against quinolinic acid-mediated
+     kynurenic acid. J Neural Transm 2008;115:1087–1091.                excitotoxicity in nigrostriatal dopaminergic neurons
+293. Schwarcz R, Whetsell WO Jr., Mangano RM. Quinolinic                by endogenous kynurenic acid. Neuroscience
+     acid: An endogenous metabolite that produces axon-                 1997;78:967–975.
+     sparing lesions in rat brain. Science 1983;219:               307. Moroni F, Cozzi A, Carpendo R, Cipriani G, Veneroni O,
+     316–318.                                                           Izzo E. Kynurenine 3-mono-oxygenase inhibitors
+
+
+
+366                                                               CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                                                                                    c 2010 Blackwell Publishing Ltd
+Z.T. Kincses and L. Vecsei                                                                                    Neuroprotection in Parkinson’s Disease
+
+
+
+     reduce glutamate concentration in the extracellular                            310. Hartley DM, Monyer H, Colamarino SA, Choi DW.
+     spaces of the basal ganglia but not in those of the cortex                          7-Chlorokynurenate blocks NMDA receptor-mediated
+     or hippocampus. Neuropharmacology 2005;48:788–795.                                  neurotoxicity in murine cortical culture. Eur J Neurosci
+308. Gregoire L, Rassoulpour A, Guidetti P, et al. Prolonged                             1990;2:291–295.
+     kynurenine 3-hydroxylase inhibition reduces                                    311. Wu HQ, Salituro FG, Schwarcz R. Enzyme-catalyzed
+     development of levodopa-induced dyskinesias in                                      production of the neuroprotective NMDA receptor
+     parkinsonian monkeys. Behav Brain Res 2008;                                         antagonist 7-chlorokynurenic acid in the rat
+     186:161–167.                                                                        brain in vivo. Eur J Pharmacol 1997;319:
+309. Foster AC, Willis CL, Tridgett R. Protection against                                13–20.
+     N-methyl-D-aspartate receptor-mediated neuronal                                312. Wu HQ, Lee SC, Schwarcz R. Systemic administration of
+     degeneration in rat brain by 7-chlorokynurenate and                                 4-chlorokynurenine prevents quinolinate neurotoxicity
+     3-amino-1-hydroxypyrrolid-2-one, antagonists at the                                 in the rat hippocampus. Eur J Pharmacol
+     allosteric site for glycine. Eur J Neurosci 1990;2:270–277.                         2000;390:267–274.
+
+
+
+
+CNS Neuroscience & Therapeutics 17 (2011) 345–367 
+                                                  c 2010 Blackwell Publishing Ltd                                                               367
+

@@ -1,0 +1,718 @@
+Mycorrhiza (2016) 26:47–56
+DOI 10.1007/s00572-015-0645-4
+
+    ORIGINAL PAPER
+
+
+
+Interactive effects of juvenile defoliation, light conditions,
+and interspecific competition on growth and ectomycorrhizal
+colonization of Fagus sylvatica and Pinus sylvestris seedlings
+Lidia K. Trocha 1 & Ewa Weiser 1 & Piotr Robakowski 2
+
+
+
+
+Received: 3 November 2014 / Accepted: 14 May 2015 / Published online: 24 May 2015
+# The Author(s) 2015. This article is published with open access at Springerlink.com
+
+Abstract Seedlings of forest tree species are exposed to a                Keywords Ectomycorrhiza . Light environment .
+number of abiotic (organ loss or damage, light shortage) and              Defoliation . Root loss . Juvenile stage of growth . Sink-source
+biotic (interspecific competition) stress factors, which may              relations . Nitrogen acquisition
+lead to an inhibition of growth and reproduction and, eventu-
+ally, to plant death. Growth of the host and its mycorrhizal
+symbiont is often closely linked, and hence, host damage may              Introduction
+negatively affect the symbiont. We designed a pot experiment
+to study the response of light-demanding Pinus sylvestris and             Seedlings of forest tree species are continuously exposed to a
+shade-tolerant Fagus sylvatica seedlings to a set of abiotic and          set of biotic (grazing, competition with other plants) and abi-
+biotic stresses and subsequent effects on ectomycorrhizal                 otic (water deficit, shading) stressors. A prolonged stress may
+(ECM) root tip colonization, seedling biomass, and leaf nitro-            be destructive for a plant when it overcomes plant tolerance.
+gen content. The light regime had a more pronounced effect                Repetitive plant damages may lead to unsuccessful reproduc-
+on ECM colonization than did juvenile damage. The interspe-               tion and growth and, eventually, to plant death (Clark 1956;
+cific competition resulted in higher ECM root tip abundance               Myers 1981).
+for Pinus, but this effect was insignificant in Fagus. Low light             The effects of plant damages vary depending on the spe-
+and interspecific competition resulted in lower seedling bio-             cies, organ, and spatial distribution of damage within an indi-
+mass compared to high light, and the effect of the latter was             vidual plant (Maschinski and Whitham 1989). It remains
+partially masked by high light. Leaf nitrogen responded dif-              poorly known whether plants may more easily overcome
+ferently in Fagus and Pinus when they grew in interspecific               damages that are more distributed throughout the plant or
+competition. Our results indicated that for both light-                   concentrated in one organ (Avila-Sakar and Stephenson
+demanding (Pinus) and shade-tolerant (Fagus) species, the                 2006). Additionally, plant age is a crucial factor influencing
+light environment was a major factor affecting seedling                   susceptibility to damages like grazing (McNaughton 1983;
+growth and ECM root tip abundance. The light conditions                   Muro et al. 1998). For seedlings growing under the tree can-
+favorable for the growth of seedlings may to some extent                  opy, the final level of damage also depends on the light con-
+compensate for the harmful effects of juvenile organ loss or              ditions, e.g., animals may avoid seedlings growing in the
+damage and interspecific competition.                                     shade (Lincoln and Mooney 1984).
+                                                                             Growth of the host and its mycorrhizal fungus symbiont is
+                                                                          often closely linked, and hence, host damage may negatively
+* Lidia K. Trocha                                                         affect the symbiont. The essential role of ectomycorrhizal fun-
+  lidiatrocha@gazeta.pl                                                   gal symbionts is reflected particularly in the supply of water
+                                                                          (Davies et al. 1996; Shi et al. 2002) and nutrients (Perez-
+1
+     Institute of Dendrology, Polish Academy of Sciences, Parkowa 5,      Moreno and Read 2000; Lilleskov et al. 2002; Baxter and
+     62-035 Kórnik, Poland                                                Dighton 2005), while the fungus requires photosynthates to
+2
+     Department of Forestry, Poznan University of Life Sciences, Wojska   maintain its functions (Hampp et al. 1999). Carbon flux from
+     Polskiego 71E, 60-625 Poznań, Poland                                 host foliage is crucial to maintain ectomycorrhizal fungi
+48                                                                                                        Mycorrhiza (2016) 26:47–56
+
+
+(EMF). From 1 to 21 % of the net photosynthetic production is       et al. 1999), different plant species, and plants with different
+allocated to EMF (Hobbie 2006), and therefore, any above-           nutrient needs (Pedersen et al. 1999; McHugh and Gehring
+ground damage may have an impact on root fate and EMF.              2006). Availability of mycorrhizal fungal inoculum strongly
+The effects of damage of these organs may be important for          influences plant biomass under different plant densities.
+ectomycorrhizal (ECM) morphotypes (both high carbon and             Studies performed mostly on arbuscular plants confirmed that
+low carbon demanding, Saravesi et al. 2008) and EMF species         individual plants performed best at the lowest plant densities
+composition (Saikkonen et al. 1999; Kuikka et al. 2003) and,        and competed severely for nutrients when growing at higher
+thus, plant maintenance and function. On the other hand, my-        densities (Koide 1991; Facelli et al. 1999). For example,
+corrhizal species differ in their metabolic activities as shown     Facelli et al. (1999) showed that Trifolium subterraneum
+for certain arbuscular mycorrhizal (AM) fungi (Lerat et al.         plants had lower biomass when growing at higher densities;
+2003; Bever et al. 2009) and ECM fungi (Pena et al. 2010;           however, there was no significant effect of fungal inoculum on
+Trocha et al. 2010). Thus, carbohydrate depletion may lead to       plant biomass at higher densities. Hartnett et al. (1993)
+a shift in composition of the mycorrhizal species toward less       showed that negative plant responses to arbuscular fungal col-
+mutualistic species (Saravesi et al. 2008; Bever et al. 2009) as    onization were noticeable for single plants or at low density,
+well as decline of sporocarp production as an effect of restric-    but were reduced in some cases at high plant density. This may
+tion of host resources to preserve ECM root tip colonization at     be explained by a greater overlap of roots and successful
+an unchanged level (Kuikka et al. 2003). However, defoliation       competition and, hence, better acquisition of soil resources
+did not decrease the proportion of living ECM root tips             by larger nonmycorrhizal plants. Cheng and Bledsoe (2004)
+(Saikkonen et al. 1999; Kuikka et al. 2003), suggesting a           demonstrated that the grass Avena barbata growing at high
+functional balance between carbon sources in plant foliage          density limited nitrogen availability for both co-occurring
+and belowground sink, i.e., roots and ectomycorrhizae               Quercus douglasii and soil microorganisms, suggesting a
+(Saikkonen et al. 1999). In addition, defoliation may hinder        strong effect of interspecific competition and an advantage
+whole root system development (Chapin and Slack 1979) due           for the grass in nutrient acquisition. Archer and Detling
+to transient declines in carbon allocation to fine roots (Kosola    (1984) observed that plants growing in competition responded
+et al. 2001). Although several studies have examined the ef-        with lower biomass and flowering, regardless of whether or
+fect of carbon shortage on the fate of ECM root colonization        not they were subjected to defoliation. This implies that the
+(Saikkonen et al. 1999; Kuikka et al. 2003; Markkola et al.         effects of competition might be more harmful for plant growth
+2004; Saravesi et al. 2008), none have examined defoliation         than aboveground injury. It is important to note that damaged
+and/or root loss that occurs at a very young stage of seedling      plants could still compete efficiently with their neighbors for
+development. Young seedlings are more threatened by dam-            soil resources. Defoliation may hinder root development and
+age than saplings and older trees. Thus, their defoliation and      in turn limit water and nutrient uptake (Evans 1972).
+root loss may cause high mortality and a decrease in tree           However, defoliation does not always hinder nutrient acquisi-
+species diversity.                                                  tion, as shown by Chapin and Slack (1979).
+    Numerous studies have shown that a reduction of light               We used tree species in our study that differ in their light
+leads to a decrease in plant biomass (e.g., Tester et al. 1986;     requirements: shade-tolerant Fagus sylvatica (Minotta and
+Welander and Ottosson 1998). Bücking and Heyser (2003)              Pinzauti 1996) and light-demanding P. sylvestris (Pearcy
+demonstrated that in low light, Pinus sylvestris seedlings in-      et al. 2004). The species respond differently to irradiance, with
+oculated with the ECM fungus Suillus bovinus decreased P            light-demanding P. sylvestris showing more pronounced
+acquisition and P transfer to the host plant, confirming the role   changes in leaf morphology and thus better light exploitation
+of carbohydrates in mycorrhizal function (Nehls et al. 2010).       than F. sylvatica (De Chantal et al. 2003). Shade-tolerant trees
+Shaded plants have lower root biomass compared to high-light        are better adapted to shade because they can survive light
+conditions (Lambers et al. 1998). This observation suggests         limitations in their juvenile period (Kitajima 1994).
+that in low-light conditions, plants allocate proportionally less       This research was designed to study the responses of light-
+carbon to the roots. Instead, those plants may invest more in       demanding pioneer P. sylvestris and shade-tolerant F. sylvatica
+leaf production to compensate for light shortage (Bloom et al.      seedlings to interactive effects of partial foliage and/or root
+1985 in: Bryla and Eissenstat 2005). However, this statement        loss, light limitations, and interspecies competition on mycor-
+may be biased because of unequal size when plants are grown         rhizal root tip colonization, growth, and seedling mineral sta-
+under different light conditions (Bryla and Eissenstat 2005).       tus. We tested the following hypotheses: (1) carbohydrate
+Also, plants experiencing defoliation or grazing on leaves can      shortage under low-light conditions or damage treatments that
+respond with an increase of photosynthesis in the remaining         simulate animal grazing will result in a decrease of growth,
+leaves (Oleksyn et al. 1998; Little et al. 2003).                   ECM root tip colonization, and leaf nitrogen content; (2) com-
+    Closely neighboring plants compete for soil resources. This     petition with grasses will decrease ECM root tip colonization,
+rule is valid for both individuals of the same species (Facelli     seedling growth, and leaf nitrogen content; (3) high-light
+Mycorrhiza (2016) 26:47–56                                                                                                            49
+
+
+conditions will reduce the destructive effects of both damage            Experimental design
+treatments (hypothesis 1) and competition (hypothesis 2); and
+(4) the above responses will be tree species dependent and               Seedlings were grown in shade tents made of polypropylene
+Pinus seedlings will suffer more than Fagus seedlings under              netting (Agrotex, Poland). On a cloudy day in April 2005, the
+low light.                                                               photosynthetic photon flux density (PPFD) was simultaneous-
+                                                                         ly measured in the open and in a tent using linear photon
+                                                                         detectors (Apologe Inc., USA). Then, for both shade treat-
+                                                                         ments, the mean percent of full sunlight (relative photosyn-
+Material and methods                                                     thetic photon flux density—rPPFD) was calculated. Two
+                                                                         shade treatments were established: low light (5 % of full irra-
+Plant material                                                           diance) and high light (50 %). These light regimes, low and
+                                                                         high, used in the experiment, simulated the natural conditions
+Seeds of F. sylvatica and P. sylvestris were purchased                   of Fagus and Pinus seedlings grown under the dense forest
+from the Jarocin Forest District Seed Bank (Poland).                     canopy and openings, respectively.
+The pine seeds were directly planted without any prelim-                    In total, there were 60 pots randomly arranged in four
+inary preparation, while beech seeds (in nuts) underwent                 blocks for each damage treatment under both light regimes.
+cold stratification (3 °C) for 10 weeks (i.e., until the ap-             Three seedlings were grown in each pot. In the competition
+pearance of the first germinated seeds). Seeds were                      treatment, 20 transplanted grass individuals (Bromus sterilis
+screened for their mass and those of medium weights                      L.) collected in early May in 2005 in the Kórnik Arboretum
+were planted into pots containing peat and perlite (1:1,                 were used in each pot containing three seedlings of either
+v/v). Before planting into pots, seed germination was test-              F. sylvatica or P. sylvestris seedlings. For the competition ex-
+ed. Germinating seeds were treated with the fungicide                    periment, we used 24 pots for each tree species, damage treat-
+Previcur 607 SL (Bayer) at 15 % concentration. Young                     ment, and light regime. After seeds of the grass developed
+seedlings (just after cotyledon development) were careful-               (midsummer) and started germinating in the pots, the seed-
+ly removed from the pots and subjected to leaf and root                  lings were carefully removed to maintain the fixed number of
+damage treatments simulating animal grazing (Table 1).                   grass individuals.
+   Seedlings of each treatment were then planted into
+larger pots (5 L). Soils were collected from monoculture                 Ectomycorrhizal, morphological, and chemical
+P. sylvestris and F. sylvatica stands near Kórnik from the               characteristics of seedlings
+upper ca 20 cm after litter removal. Before seed planting,
+the soils were mixed together with peat (1:1:1, v/v/v) and               Fagus and Pinus seedlings were harvested monthly from July
+enriched by inorganic fertilizer (3 kg/1000 L) (Osmocote                 to November 2005. Eight seedlings of each damage treatment
+Exact, Scotts).                                                          from both light conditions were used to determine whole plant
+                                                                         as well as root, shoot, and leaf biomass; morphology of leaves
+Table 1 A set of juvenile damage treatments for Fagus sylvatica and      and roots; and nitrogen, carbon, and carbohydrate contents of
+Pinus sylvestris seedlings used in the experiment                        plants. Additionally, three to four seedlings from each treat-
+                                                                         ment were used to assess ectomycorrhizal root tip abundance
+Treatment no.      Description
+                                                                         based on microscopic observations. Three to four seedlings
+Fagus sylvatica                                                          growing in control or in competition with grasses per damage
+  1                1 cotyledon removed                                   and light treatment were also collected in early September
+  2                1 cotyledon and 20 % of the root by length removed    2005 to quantify ectomycorrhizal colonization.
+  3                20 % of the root by length removed                       The extent of the ECM colonization was determined using
+  4                Control (intact)                                      a stereomicroscope. Ectomycorrhizal and nonmycorrhizal
+Pinus sylvestris                                                         root tips were assessed, and the extent of the ECM coloniza-
+  1                1 cotyledon removed                                   tion was expressed as a percentage of ECM root tips among all
+  2                1 cotyledon and 20 % of the root by length removed    root tips. For seedlings containing only a few ECM root tips,
+  3                3 cotyledons removed                                  relative abundance was estimated as 1 %. Identifications of
+  4                3 cotyledons and 20 % of the root by length removed   ectomycorrhizal morphotypes were based on a standard
+  5                5 cotyledons removed                                  rDNA-internal transcribed spacer (ITS) barcoding procedure
+  6                5 cotyledons and 20 % of the root by length removed
+                                                                         (Trocha et al. 2012). Shortly after microscopic examination,
+  7                20 % of the root by length removed
+                                                                         total genomic DNA was extracted using a Plant & Fungi DNA
+  8                Control (intact)
+                                                                         Purification Kit (EURx, Poland). Internal transcribed spacer
+                                                                         regions (ITS1-5.8S-ITS2) were amplified via the polymerase
+50                                                                                                     Mycorrhiza (2016) 26:47–56
+
+
+chain reaction (PCR) using the primers fungal specific ITS1-F     ANOVA. All statistical analyses were conducted with
+and universal ITS4. The PCR reactions were performed in a         JMP v. 8 (SAS Package, USA).
+10-μL volume mixture consisting of 1× PCR buffer
+(Novazym, Poland), 1.5 mM MgCl2 (Novazym, Poland),
+0.2 mM of each dNTP (Novazym, Poland), 0.5 μM of each             Results
+primer, 0.02 mg mL−1 BSA (Promega, Madison, WI, USA),
+0.25 U of Taq Polymerase (Novazym, Poland), and 5 μL of           ECM root tip abundance and seasonal changes in EMF
+DNA aliquot. Reactions were performed in a thermocycler           composition
+using the following temperature profiles: 1 min 93 °C (initial
+denaturation), 1 min 95 °C (denaturation), 1 min 60 °C (an-       Significant differences of ECM root tip abundance (%) were
+nealing), 2 min 72 °C (elongation), 10 min 72 °C (final elon-     found among the damage treatments and the control in
+gation), and 7 °C (pause). Steps 2 to 4 were repeated 35 times.   November (Table 2), when we observed the lowest ECM root
+PCR products were directly sequenced using primers ITS1           tip abundance in the seedlings of treatment 1 (one cotyledon
+and/or ITS4. DNA sequencing was undertaken using the              removed, mean 10 %) and the highest in control seedlings
+ABI Prism Big Dye Terminator Sequencing Kit version 3.1           (mean of 29 %) (Table 3). Competition with grasses showed
+(Applied Biosystems, Foster City, CA, USA). Cycle sequenc-        no effect on ECM root tip abundance (Table 3).
+ing was performed using a 2720 Thermal Cycler followed by            During the season, the mean ECM root tip abundance of
+capillary electrophoresis in an ABI Prism 3130XL Genetic          Fagus seedlings growing under high light increased from a
+Analyzer (Applied Biosystems, Foster City, CA, USA). The          mean of 0.65 % in July to 36 % in November (Fig. 1).
+ITS sequences of all morphotypes were compared to se-             Seedlings growing under high light collected in the final har-
+quences in GenBank using the blastn algorithm and then            vest (November) had ca 120 times higher ECM root tip abun-
+aligned to their best GenBank matches using CodonCode             dance than those growing under low light (Table 3).
+Aligner (http://www.codoncode.com/aligner) at the 97 %            Ectomycorrhizal fungus species composition in Fagus seed-
+identity threshold. The obtained sequences of fungal taxa         lings collected over a season revealed six EMF taxa in total
+were deposited in GenBank (accession numbers KP857984–            (Fig. 1). The most frequent EMF species was Cenococcum
+KP857995).                                                        geophilum, found in the seedlings collected in each harvest,
+                                                                  followed by Tuber sp. 1 and Thelephoraceae (Fig. 1).
+                                                                     Pinus seedlings collected in November from both light re-
+Statistics                                                        gimes also showed a strong decrease of ECM root tip abun-
+                                                                  dance under low light (ca 1 %) compared to those growing
+The data were analyzed using three-way analysis of variance       under high light (83 %) (Table 4). Pinus seedlings collected in
+(ANOVA) with light, competition, and damage treatments as         September from the competition treatment showed a strong
+the main factors and block as a random factor. Prior to           effect of competition on ectomycorrhizal colonization
+ANOVA, homogeneity of variances was tested with                   (Table 2) with a higher ECM root tip abundance in seedlings
+Levene’s test and normality of distributions with the             growing in competition with grasses (ca 3 %) than those grow-
+Shapiro-Wilk test. The main effects ANOVA was applied to          ing alone (0.5 %) (Table 4).
+test for differences in the mean values of the measured param-       Ectomycorrhizal colonization in Pinus followed a similar
+eters among blocks, damage treatments, competition, and           pattern as Fagus and showed an increase over a season
+light regimes at p<0.05. Then, the full factorial ANOVA           starting from the lowest of 0.05 % in July to the highest of
+was applied (Tables 2, 3, and 4). When the block effect was       83 % in November (Fig. 2). However, contrary to Fagus seed-
+not significant in the main effects ANOVA, it was excluded        lings, ectomycorrhizal colonization of Pinus seedlings collect-
+from the ANOVA model. The following were the levels in            ed in November did not differ significantly among the damage
+each main factor: light—two levels (low light, high light),       treatments (Tables 2 and 4).
+competition—two levels (no competition, competition), and            Ectomycorrhizal species identification revealed three EMF
+damage treatment called Bfurther treatment^—four levels in        taxa colonizing Pinus roots collected over a season. Root tips
+Fagus and eight levels in Pinus (see Table 1). ANOVA was          of Pinus seedlings were dominated by the ECM fungus
+conducted separately for Fagus and Pinus.                         Wilcoxina mikolae, while Hebeloma velutipes and Tuber sp.
+   The mean values within the treatments were com-                1 occurred occasionally at low percentages (Fig. 2).
+pared with Tukey’s a posteriori test at the significance
+level α=0.05. Prior to ANOVA, the data expressed in               Seedling biomass and leaf nitrogen contents
+percent were transformed using the Bliss function:
+arcsine((ECM root tip %/100)0.5)*180/3.14 and seedling            Juvenile damage treatment had a significant effect on seedling
+biomass and leaf N data were log transformed prior to             biomass collected in November (Table 2). The lowest biomass
+Mycorrhiza (2016) 26:47–56                                                                                                                                       51
+
+Table 2 The results of ANOVAs for ectomycorrhizal tip abundance                        (Ps) injured mechanically (treatment), growing in low light or high light
+(ECM tip abundance (%)), seedling biomass (g DW), and leaf N                           (light) and in competition with grasses or not (competition)
+content (mg N g−1 DW) of Fagus sylvatica (Fs) and Pinus sylvestris
+
+   Host Trait                         Treatment      Light                Treatment ×          Competition      Treatment ×    Light ×            Treatment ×
+                                                                          light                                 competition    competition        light ×
+                                                                                                                                                  competition
+
+                                      df F           df      F            df       F           df F             df F           df      F          df      F
+
+1 Fs      ECM tip abundance (%) 3          2.91*     1       88.85*** 3            2.24 n.s.
+2 Ps                            7          1.99 n.s. 1       1010*** 7             1.99 n.s.
+3 Ps                                                                                           1 24.4***
+4 Fs                                                                                           1 0.0024 n.s.
+5 Fs      Seedling biomass (g)        3 14.2***      1       618***       3        2.05 n.s. 1 123***           3    0.88 n.s. 1       57.1***    3       1.00 n.s.
+6 Ps                                  7    8.94*** 1         1415*** 3             1.34 n.s.
+7 Ps                                                         n.a.                            1 327***
+8 Fs      Leaf N (mg g−1)             3    2.17 n.s. 1       25.6**  3             1.15 n.s. 1 30.2***          3    0.81 n.s. 1        0.17 n.s. 3       0.41 n.s.
+9 Ps                                  7    3.05*     n.a.                 n.a.                 1 48.2***        7    1.88 n.s. n.a.               n.a.
+
+Degree of freedom (df) and F values are given
+n.a. not available, n.s. not significant
+***p<0.0001; **0.001>p≥0.0001; *0.05>p≥0.001
+
+
+was for seedlings that had the most foliage removed: five out of                       Moreover, significant effects of light conditions and competi-
+eight cotyledons removed (Pinus, treatment no. 5) (Table 4),                           tion were found (Table 2). Fagus seedlings growing in low
+but Fagus seedlings did not reveal such a pattern (Table 3).                           light had ca 1.2 times more leaf N than those growing in high
+   Light affected seedling biomass significantly (Table 2). We                         light (Table 3). The analysis was not available for Pinus seed-
+found that Fagus seedlings growing under low light had ca 5                            lings as there was no sufficient number of replicates from low
+times lower biomass (Table 3) than those growing under high                            light (data not shown). Competition with grasses also influ-
+light, while Pinus seedlings had an even greater response—bio-                         enced leaf N in both tree species (Table 2). For Fagus, seed-
+mass of seedlings growing under low light was 22 times lower                           lings growing in competition revealed higher leaf N than those
+compared to seedlings growing under high light (Table 4).                              growing alone (Fig. 3c; Table 3). However, in Pinus, we ob-
+   Fagus and Pinus mean seedling biomass was 2.7 and 7.5                               served the opposite trend with higher leaf N for seedlings
+times lower, respectively, when seedlings grew with grasses                            growing alone (Table 4).
+compared to seedlings growing without grasses (Tables 3 and
+4). Depending on the light regime, the effect of competition
+was partially reduced as shown for Fagus ECM root tip col-                             Discussion
+onization (Fig. 3a) and seedling biomass (Fig. 3b); however,
+high light did not improve leaf N content (Fig. 3c).                                   Trees growing in natural conditions are constantly subjected to a
+   Leaf nitrogen content showed no differences among the                               vast number and different types of threats; some of those are
+damage treatments in Fagus, but it did in Pinus (Table 2).                             mechanical (animal grazing), while others constitute interactions
+
+Table 3 Means (±SE) of ectomycorrhizal (ECM) root tip abundance,                       mean values followed by the same letter are not significantly different in
+seedling biomass, and leaf N of Fagus sylvatica, growing in low light or               ANOVA (light, competition) or Tukey’s a posteriori test (treatment)
+high light (light) and in competition with grasses or not (competition); the           (p<0.05)
+
+Trait                Harvest       Number Treatment                                                          Light                         Competition
+
+                                             1               2                 3               4             Low           High            No            Yes
+
+ECM tip         November 64                  10 (±3)b        15 (±6)ab         18 (±7)ab       29 (±10)a     0.3 (±0.1)b    36 (±6)a
+  abundance (%) September 88                                                                                            18 (±6.5)a 13 (±6.6)a
+Seedling        November 196                 1.1 (±0.2)ab 1.0 (±0.2)b 1.4 (±0.2)ab 1.6 (±0.3)a 0.4 (±0.02)b 2.1 (±0.2)a 2.2 (±0.3)a 0.8 (±0.1)b
+  biomass (g)
+Leaf N (mg g−1) November 32                  22 (±1.4)a      25 (±0.9)a        24 (±1.4)a      25 (±1.5)a    26 (±0.8)a     22 (±0.8)b     22 (±0.8)b    26 (±0.7)a
+52                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Mycorrhiza (2016) 26:47–56
+
+
+
+
+     competition with grasses or not (competition); the mean values followed by the same letter are not significantly different in ANOVA (light, competition) or Tukey’s a posteriori test (treatment) (p<0.05)
+
+
+
+
+                                                                                                                                                                                                                                                                                   0.9 (±0.1)a 0.12 (±0.01)b
+     Table 4 Means (±SE) of ectomycorrhizal (ECM) root tip abundance, seedling biomass, and leaf N of Pinus sylvestris injured mechanically (treatment), growing in low light or high light (light) and in
+
+
+
+
+                                                                                                                                                                                                                                            0.5 (±0.1)b 2.8 (±0.6)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    21 (±0.3)b
+                                                                                                                                                                                                                                     Yes
+                                                                                                                                                                                                                  Competition
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    24 (±0.4)a
+                                                                                                                                                                                                                                     No
+
+
+
+
+                                                                                                                                                                                                                                                                                                               0.6 (±0.2)ab 0.6 (±0.2)ab 0.4 (±0.1)b 0.5 (±0.1)b 0.2 (±0.04)c 0.5 (±0.1)b 0.7 (±0.2)a 0.5 (±0.1)a 0.04 (±0.002)b 0.9 (±0.06)a
+                                                                                                                                                                                                                                                                      83 (±3.0)a
+                                                                                                                                                                                                                                     High
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    n.a.
+                                                                                                                                                                                                                  Light
+
+                                                                                                                                                                                                                                     Low
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    n.a.          Fig. 1 Mean ECM root tip abundance (%) and ectomycorrhizal fungal
+                                                                                                                                                                                                                                                                      1b
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  species composition in Fagus sylvatica seedlings over time for ca 30-day
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    22 (±0.5)a
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  intervals. All damage treatments are included for the high light and no
+                                                                                                                                                                                                                                                                      47 (±12)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  competition treatments (n=160, n=32 for each harvest). Levels not
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  connected by the same letter are significantly different
+                                                                                                                                                                                                                                     8
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    22 (±0.7)a
+                                                                                                                                                                                                                                                                      46 (±12)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  with other plants including competition for soil resources and
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  light. Knowledge of the extent to which seedlings may recover
+                                                                                                                                                                                                                                     7
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  after being affected by biotic and/or abiotic threats at a juvenile
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    23 (±1.2)a
+                                                                                                                                                                                                                                                                      46 (±12)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  stage of growth is limited (Longer and Oosterhuis 1999). The
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  fate of a plant in natural conditions where many uncontrolled
+                                                                                                                                                                                                                                     6
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  stress factors may occur is difficult to study.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Consistent with several studies on herbaceous (Gehring
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    23 (±1.8)a
+                                                                                                                                                                                                                                                                      36 (±11)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  2003 and literature cited therein) and woody plants
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  (Ekwebelam and Reid 1983), mycorrhiza formation increased
+                                                                                                                                                                                                                                     5
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  in high-light conditions in both Fagus and Pinus seedlings
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    21 (±1.4)a
+                                                                                                                                                                                                                                                                      35 (±11)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  (Tables 3 and 4; Fig. 3a). Both tree species had higher biomass
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  when growing under high light, but leaf N was lower in Fagus
+                                                                                                                                                                                                                                     4
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  (Pinus not available) (Table 3). Markkola et al. (2004) and
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    22 (±0.7)a
+                                                                                                                                                                                                                                                                      36 (±11)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Saravesi et al. (2008) demonstrated that carbohydrate shortage
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  due to defoliation resulted in a decrease of high-biomass
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ectomycorrhizal fungus species, suggesting that they require
+                                                                                                                                                                                                                                     3
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  relatively large amounts of carbon. We did not find changes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    22 (±0.6)a
+                                                                                                                                                                                                                                                                      46 (±12)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  in the composition of EMF communities associated with Fagus
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  or Pinus due to light or damage treatments, which was opposite
+                                                                                                                                                                                                                                     2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  to the results of Markkola et al. (2004) and Saravesi et al.
+                                                                                                                                                                                                                  Number Treatment
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  (2008). C. geophilum and Tuber spp. were the dominant
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    21 (±1.3)a
+                                                                                                                                                                                                                                                                      46 (±12)a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  EMF of Fagus (Fig. 1), both displaying thick mantles.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  According to the descriptions of Saravesi et al. (2008), these
+                                                                                                                                                                                                                                     1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  morphotypes have rather high biomass and, thus, may require
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  more carbon as has been shown for respiration of thick-mantle
+                                                                                                                                                                                                                                              abundance (%) November 128
+                                                                                                                                                                                                                                                                                   November 155
+                                                                                                                                                                                                                                                                                                               November 110
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    November 32
+                                                                                                                                                                                                                                                            September 85
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  morphotypes (Trocha et al. 2010). For Pinus, the thin-mantled
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  W. mikolae was the dominant EMF (Fig. 2), and light limitation
+                                                                                                                                                                                                                  Harvest
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  did not change the EMF composition (data not shown).
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      A high mycorrhizal root tip abundance may promote sev-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  eral plant responses, including higher stomatal conductance
+                                                                                                                                                                                                                                                                                                                                                                                                                                                Leaf N (mg g−1)
+                                                                                                                                                                                                                                                                                     biomass (g)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  (Augé et al. 2004), improved plant-water relations (Muhsin
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  and Zwiazek 2002; Shi et al. 2002; Kennedy and Peay 2007),
+                                                                                                                                                                                                                                            ECM tip
+
+
+                                                                                                                                                                                                                                                                                   Seedling
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  more effective nutrient acquisition (Wallander et al. 1994;
+                                                                                                                                                                                                                  Trait
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Wallander and Hagerberg 2004), greater resistance to fungal
+Mycorrhiza (2016) 26:47–56                                                                                                                       53
+
+
+
+
+Fig. 2 Mean ECM root tip abundance (%) and ectomycorrhizal fungal
+species composition in Pinus sylvestris seedlings over time for ca 30-day
+intervals. All damage treatments are included for the high light and no
+competition treatments (n=319, n=63–64 for each harvest). Levels not
+connected by the same letter are significantly different
+
+
+pathogens (Branzanti et al. 1999), and higher photosynthetic
+activity (Dosskey et al. 1990). Growing in a well-mixed fun-
+gal community (pot substrate containing a forest soil mix),
+seedlings were subjected to both beneficial and less beneficial
+EMF species in terms of carbon costs to the hosts (Bever et al.
+2009). EMF communities did not, however, respond to light
+or damage treatments. Plant biomass and ECM root tip abun-
+dance of either Pinus or Fagus were affected negatively by
+low light, indicating light as a factor of high importance for
+plant and ECM fungi niche partitioning (Brearley et al. 2007).
+The dominance of Ascomycota colonizing the roots of Fagus
+and Pinus seedlings in our experiment is difficult to explain: it
+could result from disturbed (mixed) soil or carbon demands of
+the fungi/amounts of carbon allocated to roots in very young
+seedlings. It has been shown that the species of Ascomycota
+(mostly Wilcoxina sp.) dominated in the seedlings of conifer
+tree species grown under nursery conditions (Rudawska et al.
+2006; Trocha et al. 2006; Leski et al. 2008). However,
+Basidiomycota dominated in other tree seedlings, including
+conifers, growing under similar nursery conditions (Leski
+et al. 2010; Menkis and Vasaitis 2011). We think that this issue
+needs more attention in future research.
+    Defoliation of a very young seedling may trigger different              Fig. 3 Effect of competition within light regimes on ECM root tip
+compensatory mechanisms, including an increase in photo-                    abundance (a), seedling biomass (b), and leaf N (c) of Fagus sylvatica;
+synthetic activity in the remaining leaves (Mabry and Wayne                 LL low light, HL high light; levels not connected by the same letter are
+                                                                            significantly different between competition treatments within each light
+1997), foliage increase (Khan et al. 2002), and increase in
+                                                                            regime; n=88 (a), n=196 (b), and n=32 (c)
+mineral nutrient uptake (Ruess 1984), which, in turn, may
+cause better plant growth (McNaughton 1983). However, nu-
+merous papers report a negative effect of defoliation on seed-              response that resulted in the lowest mean ECM root tip abun-
+ling survival (e.g., von Schütt 1973; Myers 1981; Wilkinson                 dance and biomass was caused by the most intensive damage:
+and Nielsen 1995; Muro et al. 1998; Li and Ma 2003). Our                    removing five (out of eight) cotyledons in Pinus (Table 4),
+results support the latter finding: the biomass of 6-month-old              suggesting that photosynthesis shortage is a determining fac-
+Pinus and Fagus seedlings was influenced negatively by ju-                  tor in plant functioning. However, when ECM root tip abun-
+venile damage (Tables 3 and 4; Fig. 3b). The most significant               dances among damage treatments were analyzed separately
+54                                                                                                                           Mycorrhiza (2016) 26:47–56
+
+
+under the light regimes (not shown), organ loss did not affect                  Augé RM, Moore JL, Sylvia DM, Cho K (2004) Mycorrhizal promotion
+                                                                                     of host stomatal conductance in relation to irradiance and tempera-
+ectomycorrhizal colonization, suggesting that light is a pre-
+                                                                                     ture. Mycorrhiza 14:85–92
+dominant factor influencing plant physiology.                                   Avila-Sakar G, Stephenson AG (2006) Effects of the spatial pattern of leaf
+   Interspecific competition is one of the most important                            damage on growth and reproduction: whole plants. Int J Plant Sci
+forces shaping the diversity of plant communities and total                          167:1021–1028
+                                                                                Ball MC, Egerton JJG, Lutze JL, Gutschick VP, Cunningham RB (2002)
+aboveground plant biomass (Del-Val and Crawley 2005).
+                                                                                     Mechanisms of competition: thermal inhibition of tree seedling
+The effect of competition on ECM root tip abundance was                              growth by grass. Oecologia 133:120–130
+different between the two tree species studied (Tables 3 and                    Baxter JW, Dighton J (2005) Phosphorus source alters host plant response
+4). Competition with arbuscular-mycorrhizal shrubs de-                               to ectomycorrhizal diversity. Mycorrhiza 15:513–523
+                                                                                Bever JD, Richardson SC, Lawrence BM, Holmes J, Watson M (2009)
+creased both biomass and ectomycorrhizal colonization in
+                                                                                     Preferential allocation to beneficial symbiont with spatial structure
+Pinus edulis, while in our research, we noticed that competi-                        maintains mycorrhizal mutualism. Ecol Lett 12:13–21
+tion promoted ECM root tip colonization in Pinus seedlings,                     Bloom AJ, Chapin FS III, Mooney HA (1985) Resource limitation in
+but not in Fagus, and simultaneously decreased their biomass                         plants—an economic analogy. Annu Rev Ecol Syst 16:363–392
+                                                                                Branzanti MB, Elisabetta Rocca E, Annamaria Pisi A (1999) Effect of
+(Tables 3 and 4). That is striking, as many researchers have
+                                                                                     ectomycorrhizal fungi on chestnut ink disease. Mycorrhiza 9:103–
+observed that competition negatively impacted ECM root tip                           109
+colonization in many ecosystems (McHugh and Gehring 2006                        Brearley FQ, Scholes JD, Press MC, Palfner G (2007) How does light and
+and literature cited). Light availability promoted                                   phosphorus fertilisation affect the growth and ectomycorrhizal com-
+ectomycorrhizal colonization (Fig. 3a) and seedling biomass                          munity of two contrasting dipterocarp species? Plant Ecol 192:237–
+                                                                                     249
+in the Bno competition^ treatment (Fig. 3b), again suggesting                   Bryla DR, Eissenstat DM (2005) Respiratory costs of mycorrhizal asso-
+light’s predominant role in plant functioning. However, Cheng                        ciations. In: Lambers H, Ribas-Carbo M (eds) Plant respiration.
+and Bledsoe (2004) found a negative effect of grass both un-                         Springer, Dordrecht, pp 207–224
+derground and aboveground that reduced Quercus seedling                         Bücking H, Heyser W (2003) Uptake and transfer of nutrients in
+                                                                                     ectomycorrhizal associations: interactions between photosynthesis
+growth and soil nitrogen availability. The impact of grasses                         and phosphate nutrition. Mycorrhiza 13:59–68
+could be both direct (competing for soil resources with other                   Chapin FS III, Slack M (1979) Effect of defoliation upon root growth,
+plants) and indirect—grasses may change the microclimate                             phosphate absorption and respiration in nutrient-limited tundra
+around seedlings in a way that hinders growth (Ball et al.                           graminoids. Oecologia 42:67–79
+                                                                                Cheng X, Bledsoe CS (2004) Competition for inorganic and organic N by
+2002).                                                                               blue oak (Quercus douglasii) seedlings, an annual grass, and soil
+   We clearly showed that light availability is the main factor                      microorganisms in a pot study. Soil Biol Biochem 36:135–144
+affecting seedling growth and ectomycorrhizal root tip colo-                    Clark EC (1956) The Great Basin tent caterpillar in relation to bitterbush
+nization in our study. High light (50 % of full irradiance)                          in California. Calif Fish Game 42:131–142
+                                                                                Davies FT Jr, Svenson SE, Cole C, Phavaphutanon L, Duray SA, Olalde-
+compensated to some extent for the negative effects of organ                         Portugal V, Meier CE, Bo SH (1996) Non-nutritional stress accli-
+loss and competition with grasses on ectomycorrhizal coloni-                         mation of mycorrhizal woody plants exposed to drought. Tree
+zation and growth of P. sylvestris and F. sylvatica seedlings.                       Physiol 16:985–993
+                                                                                De Chantal M, Leinonen K, Kuuluvainen T, Cescatti A (2003) Early
+                                                                                     response of Pinus sylvestris and Picea abies seedlings to an exper-
+                                                                                     imental canopy gap in a boreal spruce forest. For Ecol Manag 176:
+Acknowledgments We would like to thank Roma Żytkowiak for her                        321–336
+help in chemical analyses, Dr. Lee E. Frelich for language correction, and      Del-Val E, Crawley MJ (2005) What limits herb biomass in grasslands:
+the Jarocin Forest District for seed delivery. We are cordially thankful to          competition or herbivory? Oecologia 142(2):202–211
+two anonymous reviewers for their helpful comments. The study was               Dosskey GM, Linderman RG, Boersma L (1990) Carbon–sink stimula-
+supported by grant no. N305 009 31/0371 financed by the Polish Ministry              tion of photosynthesis in Douglas fir seedlings by some
+of Science and Higher Education.                                                     ectomycorrhizas. New Phytol 115:269–274
+                                                                                Ekwebelam SA, Reid CPP (1983) Effect of light, nitrogen fertilization,
+Open Access This article is distributed under the terms of the Creative              and mycorrhizal fungi on growth and photosynthesis of lodgepole
+Commons Attribution 4.0 International License (http://                               pine seedlings. Can J For Res 13:1099–1106
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use,          Evans PS (1972) Root growth of Lolium perenne L. III. Investigation of
+distribution, and reproduction in any medium, provided you give appro-               the mechanisms of defoliation induced suppression of elongation. N
+priate credit to the original author(s) and the source, provide a link to the        Z J Agric Res 15:347–355
+Creative Commons license, and indicate if changes were made.                    Facelli E, Facelli JM, Smith SE, McLaughlin (1999) Interactive effects of
+                                                                                     arbuscular mycorrhizal symbiosis, intraspecific competition and re-
+                                                                                     source availability on Trifolium subterraneum cv. Mt. Barker. New
+                                                                                     Phytol 141:535–547
+                                                                                Gehring CA (2003) Growth responses to arbuscular mycorrhizae by rain
+References                                                                           forest seedlings vary with light intensity and tree species. Plant Ecol
+                                                                                     167:127–139
+Archer S, Detling JK (1984) The effect of defoliation and competition on        Hampp R, Wiese J, Mikolajewski S, Nehls U (1999) Biochemical and
+    re-growth of tillers of two North American mixed-grass prairie                   molecular aspects of C/N interaction in ectomycorrhizal plants: an
+    graminoids. Oikos 43:351–357                                                     update. Plant Soil 215:103–113
+Mycorrhiza (2016) 26:47–56                                                                                                                               55
+
+Hartnett DC, Hetrick BAD, Wilson GWT, Gibson DJ (1993) Mycorrhizal              Menkis A, Vasaitis R (2011) Fungi in roots of nursery grown Pinus
+      influence on intra- and interspecific neighbor interactions among co-          sylvestris: ectomycorrhizal colonisation, genetic diversity and spa-
+      occurring prairie grasses. J Ecol 81:787–795                                   tial distribution. Microb Ecol 61:52–63
+Hobbie EA (2006) Carbon allocation to ectomycorrhizal fungi correlates          Minotta G, Pinzauti S (1996) Effects of light and soil fertility on growth,
+      with belowground allocation in culture studies. Ecology 87:563–                leaf chlorophyll content and nutrient use efficiency of beech (Fagus
+      569                                                                            syluatica L.) seedlings. For Ecol Manag 86:61–71
+Kennedy PG, Peay KG (2007) Different soil moisture conditions change            Muhsin TM, Zwiazek JJ (2002) Ectomycorrhizas increase apoplastic wa-
+      the outcome of the ectomycorrhizal symbiosis between Rhizopogon                ter transport and root hydraulic conductivity in Ulmus americana
+      species and Pinus muricata. Plant Soil 291:155–165                             seedlings. New Phytol 153:153–158
+Khan NA, Khan M, Ansari HR, Samiullah (2002) Auxin and defoliation              Muro J, Irigoyen I, Lamsfus C (1998) Effect of defoliation on onion crop
+      effects on photosynthesis and ethylene evolution in mustard. Sci               yield. Sci Hortic 77:1–10
+      Hortic 96:43–51                                                           Myers JH (1981) Interactions between western tent caterpillars and wild
+Kitajima K (1994) Relative importance of photosynthetic traits and allo-             rose: a test of some general plant herbivore hypotheses. J Anim Ecol
+      cation patterns as correlates of seedling shade tolerance of 13 trop-          50:11–25
+      ical trees. Oecologia 98:419–428                                          Nehls U, Göhringer F, Wittulsky S, Dietz S (2010) Fungal carbohydrate
+Koide RT (1991) Density-dependent response to mycorrhizal infection in               support in the ectomycorrhizal symbiosis: a review. Plant Biol 12:
+      Abutilon theophrasti Medic. Oecologia 85:389–395                               292–301
+Kosola KR, Dickmann DI, Paul EA, Parry D (2001) Repeated insect                 Oleksyn J, Karolewski P, Giertych MJ, Żytkowiak R, Reich PB, Tjoelker
+      defoliation effects on growth, nitrogen acquisition, carbohydrates,            MG (1998) Primary and secondary host plants differ in leaf-level
+      and root demography of poplars. Oecologia 129:65–74                            photosynthetic response to herbivory: evidence from Alnus and
+Kuikka K, Härmä E, Markkola A, Rautio P, Saikkonen K, Ahonen-                        Betula grazed by the alder beetle, Agelastica alni. New Phytol
+      Jonnarth U, Finlay R, Tuomi J (2003) Severe defoliation of Scots               140:239–249
+      pine reduces reproductive investments by ectomycorrhizal symbi-           Pearcy RW, Valladares F, Wright SJ, de Paulis EL (2004) A functional
+      onts. Ecology 84:2051–2061                                                     analysis of the crown architecture of tropical forest Psychotria spe-
+Lambers H, Poorter H, van Vuuren MMI (1998) Inherent variation in                    cies: do species vary in light capture efficiency and consequently in
+      plant growth. Physiological mechanisms and ecological conse-                   carbon gain and growth? Oecologia 139:163–177
+      quences. Backhuys, Leiden                                                 Pedersen CT, Sylvia DM, Shilling DG (1999) Pisolithus arhizus
+                                                                                     ectomycorrhiza affects plant competition for phosphorus between
+Lerat S, Lapointe L, Gutjahr S, Piché Y, Vierheilig H (2003) Carbon
+      partitioning in a split-root system of arbuscular mycorrhizal plants           Pinus elliottii and Panicum chamaelonche. Mycorrhiza 9:199–204
+      is fungal and plant species dependent. New Phytol 157:589–595             Pena R, Offermann C, Simon J, Naumann PS, Geßler A, Holst J,
+                                                                                     Dannenmann M, Mayer H, Kögel-Knabner I, Rennenberg H, Polle
+Leski T, Rudawska M, Aučina A (2008) The ectomycorrhizal status of
+                                                                                     A (2010) Girdling affects ectomycorrhizal fungal (EMF) diversity
+      European larch (Larix decidua Mill.) seedlings from bare-root forest
+                                                                                     and reveals functional differences in EMF community composition
+      nurseries. For Ecol Manag 256:2136–2144
+                                                                                     in a beech forest. Appl Environ Microbiol 76:1831–1841
+Leski T, Pietras M, Rudawska M (2010) Ectomycorrhizal fungal commu-
+                                                                                Perez-Moreno J, Read DJ (2000) Mobilization and transfer of nutrients
+      nities of pedunculate and sessile oak seedlings from bare-root forest
+                                                                                     from litter to tree seedlings via the vegetative mycelium of
+      nurseries. Mycorrhiza 20:179–190
+                                                                                     ectomycorrhizal plants. New Phytol 145:301–309
+Li Q, Ma K (2003) Factors affecting establishment of Quercus
+                                                                                Rudawska M, Leski T, Trocha LK, Gornowicz R (2006) Ectomycorrhizal
+      liaotungensis Koidz. under mature mixed oak forest overstory and
+                                                                                     status of Norway spruce seedlings from bare-root forest nurseries.
+      in shrubland. For Ecol Manag 176:133–146
+                                                                                     For Ecol Manag 236:375–384
+Lilleskov EA, Fahey TJ, Horton TR, Lovett GM (2002) Belowground                 Ruess RW (1984) Nutrient movement and grazing: experimental effects
+      ectomycorrhizal fungal community change over a nitrogen deposi-                of clipping and nitrogen source on nutrient uptake in Kyllinga
+      tion gradient in Alaska. Ecology 83:104–115                                    nervosa. Oikos 43:183–188
+Lincoln DE, Mooney HA (1984) Herbivory on Diplacus aurantiacus                  Saikkonen K, Ahonen-Jonnarth U, Markkola A, Helander M, Tuomi J,
+      shrubs in sun and shade. Oecologia 64:173–176                                  Roitto M, Ranta H (1999) Defoliation and mycorrhizal symbiosis: a
+Little CHA, Lavigne MB, Ostaff DP (2003) Impact of old foliage remov-                functional balance between carbon sources and below‐ground sinks.
+      al, simulating defoliation by the balsam fir sawfly, on balsam fir tree        Ecol Lett 2:19–26
+      growth and photosynthesis of current-year shoots. For Ecol Manag          Saravesi K, Markkola A, Rautio P, Roitto M, Juha Tuomi J (2008)
+      186:261–269                                                                    Defoliation causes parallel temporal responses in a host tree and its
+Longer DE, Oosterhuis DM (1999) Cotton regrowth and recovery from                    fungal symbionts. Oecologia 156:117–123
+      early season leaf loss. Environ Exp Bot 41:67–73                          Shi L, Guttenberger M, Kottke I, Hampp R (2002) The effect of drought
+Mabry CM, Wayne PW (1997) Defoliation of the annual herb Abutilon                    on mycorrhizas of beech (Fagus sylvatica L.): changes in commu-
+      theophrasti: mechanisms underlying reproductive compensation.                  nity structure, and the content of carbohydrates and nitrogen storage
+      Oecologia 111:225–232                                                          bodies of the fungi. Mycorrhiza 12:303–311
+Markkola A, Kuikka K, Rautio P, Härmä E, Riotto M, Tuomi J (2004)               Tester M, Smith SE, Smith FA, Walker NA (1986) Effects of photon
+      Defoliation increases carbon limitation in ectomycorrhizal symbio-             irradiance on the growth of shoots and roots, on the rate of initiation
+      sis of Betula pubescens. Oecologia 140:234–240                                 of mycorrhizal infection and on the growth of infection units in
+Maschinski J, Whitham TG (1989) The continuum of plant responses to                  Trifolium subterraneum L. New Phytol 103:375–390
+      herbivory: the influence of plant association, nutrient availability      Trocha LK, Rudawska M, Leski T, Dabert M (2006) Genetic diversity of
+      and timing. Am Nat 134:1–19                                                    naturally established ectomycorrhizal fungi on Norway spruce seed-
+McHugh T, Gehring CA (2006) Below-ground interactions with                           lings under nursery conditions. Microb Ecol 52:418–425
+      arbuscular mycorrhizal shrubs decrease the performance of pinyon          Trocha LK, Mucha J, Eissenstat DM, Reich PB, Oleksyn J (2010)
+      pine and the abundance of its ectomycorrhizas. New Phytol 171:                 Ectomycorrhizal identity determines respiration and concentrations
+      171–178                                                                        of nitrogen and nonstructural carbohydrates in root tips: a test using
+McNaughton SJ (1983) Compensatory plant growth as a response to                      Pinus sylvestris and Quercus robur saplings. Tree Physiol 30:648–
+      herbivory. Oikos 40:329–336                                                    654
+56                                                                                                                     Mycorrhiza (2016) 26:47–56
+
+Trocha LK, Kałucka I, Stasińska M, Nowak W, Dabert M, Leski T,              Wallander H, Nylund J-E, Sundberg B (1994) The influence of IAA,
+    Rudawska M, Oleksyn J (2012) Ectomycorrhizal fungal communi-                carbohydrate and mineral concentration in host tissue on
+    ties of native and non-native Pinus and Quercus species in a com-           ectomycorrhizal development on Pinus sylvestris L. in relation to
+    mon garden of 35-year-old trees. Mycorrhiza 22:121–134                      nutrient supply. New Phytol 127:521–528
+von Schütt P (1973) Ein Hinweis für Zusammenhänge zwischen                  Welander NT, Ottosson B (1998) The influence of shading on growth and
+    Cotyledonenzahl und Wuchsleistung bei Nadelholz-Sämlingen.                  morphology in seedlings of Quercus robur L. and Fagus sylvatica
+    Forstwissenschaftliches Centralblatt 92:19–24                               L. For Ecol Manag 107:117–126
+Wallander H, Hagerberg D (2004) Do ectomycorrhizal fungi have a sig-        Wilkinson GR, Nielsen WA (1995) Implication of early browsing damage
+    nificant role in weathering of minerals in forest soil? Symbiosis 37:       on the long term productivity of eucalypt forest. For Ecol Manag 74:
+    249–257                                                                     117–124
+

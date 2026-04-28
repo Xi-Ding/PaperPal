@@ -1,0 +1,701 @@
+This is a self-archived version of an original article. This version
+may differ from the original in pagination and typographic details.
+
+Author(s): Karppinen, Jari E.; Törmäkangas, Timo; Kujala, Urho M.; Sipilä, Sarianna;
+              Laukkanen, Jari; Aukee, Pauliina; Kovanen, Vuokko; Laakkonen, Eija K.
+
+
+
+
+Title: Menopause modulates the circulating metabolome : evidence from a prospective
+       cohort study
+
+
+
+
+Year: 2022
+
+Version: Published version
+
+Copyright: © The Author(s) 2022. Published by Oxford University Press on behalf of European Society of Cardio
+
+Rights: CC BY 4.0
+
+Rights url: https://creativecommons.org/licenses/by/4.0/
+
+Please cite the original version:
+Karppinen, J. E., Törmäkangas, T., Kujala, U. M., Sipilä, S., Laukkanen, J., Aukee, P., Kovanen, V.,
+& Laakkonen, E. K. (2022). Menopause modulates the circulating metabolome : evidence from a
+prospective cohort study. European Journal of Preventive Cardiology, 29(10), 1448-1459.
+https://doi.org/10.1093/eurjpc/zwac060
+                                     European Journal of Preventive Cardiology (2022) 00, 1–12                                        FULL RESEARCH PAPER
+                                     https://doi.org/10.1093/eurjpc/zwac060                                                                          Gender-speciﬁc conditions
+
+
+
+Menopause modulates the circulating
+
+
+
+
+                                                                                                                                                                                                   Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+metabolome: evidence from a prospective
+cohort study†
+Jari E. Karppinen 1, Timo Törmäkangas 2, Urho M. Kujala                                                                                              1
+                                                                                                                                                        ,
+Sarianna Sipilä 2, Jari Laukkanen 1,3,4, Pauliina Aukee 5,
+Vuokko Kovanen 2, and Eija K. Laakkonen 2*
+1
+ Faculty of Sport and Health Sciences, University of Jyväskylä, Jyväskylä, Finland; 2Gerontology Research Center and Faculty of Sport and Health Sciences, University of Jyväskylä,
+Jyväskylä, Finland; 3Department of Internal Medicine, Central Finland Health Care District, Jyväskylä, Finland; 4Institute of Clinical Medicine, University of Eastern Finland, Kuopio, Finland;
+and 5Department of Obstetrics and Gynecology, Pelvic Floor Research and Therapy Unit, Central Finland Health Care District, Jyväskylä, Finland
+
+Received 26 January 2022; revised 22 February 2022; accepted 17 March 2022
+
+
+
+
+Aims                         We studied the changes in the circulating metabolome and their relation to the menopausal hormonal shift in 17β-oes-
+                             tradiol and follicle-stimulating hormone levels among women transitioning from perimenopause to early postmenopause.
+.........................................................................................................................................................................................
+Methods                      We analysed longitudinal data from 218 Finnish women, 35 of whom started menopausal hormone therapy during the
+and results                  study. The menopausal transition was monitored with menstrual diaries and serum hormone measurements. The median
+                             follow-up was 14 months (interquartile range: 8–20). Serum metabolites were quantiﬁed with targeted nuclear magnetic
+                             resonance metabolomics. The model results were adjusted for age, follow-up duration, education, lifestyle, and multiple
+                             comparisons. Menopause was associated with 85 metabolite measures. The concentration of apoB (0.17 standard devi-
+                             ation [SD], 99.5% conﬁdence interval [CI] 0.03–0.31), very-low-density lipoprotein triglycerides (0.25 SD, CI 0.05–0.45)
+                             and particles (0.21 SD, CI 0.05–0.36), low-density lipoprotein (LDL) cholesterol (0.17 SD, CI 0.01–0.34) and particles
+                             (0.17 SD, CI 0.03–0.31), high-density lipoprotein (HDL) triglycerides (0.24 SD, CI 0.02–0.46), glycerol (0.32 SD, CI
+                             0.07–0.58) and leucine increased (0.25 SD, CI 0.02–0.49). Citrate (−0.36 SD, CI −0.57 to −0.14) and 3-hydroxybutyrate
+                             concentrations decreased (−0.46 SD, CI −0.75 to −0.17). Most metabolite changes were associated with the menopausal
+                             hormonal shift. This explained 11% and 9% of the LDL cholesterol and particle concentration increase, respectively.
+                             Menopausal hormone therapy was associated with increased medium-to-large HDL particle count and decreased
+                             small-to-medium LDL particle and glycine concentration.
+.........................................................................................................................................................................................
+Conclusions                  Menopause is associated with proatherogenic circulating metabolome alterations. Female sex hormones levels are con-
+                             nected to the alterations, highlighting their impact on women’s cardiovascular health.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+* Corresponding author. Tel: +358408053588, Email: eija.k.laakkonen@jyu.ﬁ
+†
+  The work was performed at Gerontology Research Center and Faculty of Sport and Health Sciences, University of Jyväskylä, Jyväskylä, Finland.
+© The Author(s) 2022. Published by Oxford University Press on behalf of European Society of Cardiology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+2                                                                                                                                 Menopause and the circulating metabolome
+
+
+
+Graphical Abstract
+
+
+
+
+                                                                                                                                                                                            Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+
+
+
+
+.........................................................................................................................................................................................
+Keywords                     Menopause • Hormone replacement therapy • Cardiovascular diseases • Metabolomics • Oestradiol
+J.E. Karppinen et al.                                                                                                                                3
+
+
+Introduction                                                                 metabolomic ﬁngerprint resulting from the shift of female sex hor-
+                                                                             mone levels.
+Most women face menopause at the age of 48–52 years,1 resulting
+from the cessation of ovarian follicular activity and diagnosed 12
+months after the ﬁnal menstrual period.2 The characteristic meno-            Methods
+pausal hormonal shift consists of a decline in 17β-oestradiol (E2)
+
+
+
+
+                                                                                                                                                          Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+and a concomitant increase in follicle-stimulating hormone (FSH) le-         Study design and participants
+vels.1 Oestrogen-containing menopausal hormone therapy (MHT)                 This study used data from the Estrogenic Regulation of Muscle Apoptosis
+                                                                             (ERMA) prospective cohort study16 and was approved by the ethics
+alleviates menopausal symptoms and restores systemic E2 without
+                                                                             committee of the Central Finland Health Care District (KSSHP Dnro
+lowering FSH to premenopausal levels.3
+                                                                             8U/2014). The study complied with the Declaration of Helsinki, and par-
+   Menopause is thought to predispose women to atherosclerotic car-          ticipants gave informed consent.
+diovascular disease (ACVD) since they develop obstructive coronary              The recruitment was carried out from 2014 to 2015. The sample was
+artery disease 7–10 years later than men, and this risk rises after meno-    randomly drawn from the Population Information System. An invitation
+pause.4 Also, premature menopause is associated with an increased            and a prequestionnaire were sent to 6878 women aged 47–55 living in
+ACVD risk.5 The causality between these phenomena is difﬁcult to             the Jyväskylä area, of whom 3229 (47%) responded. Based on the pre-
+prove, as the menopause-driven metabolic changes may predispose              questionnaire data, 1627 women were invited to menopausal status de-
+women to present ACVD at an older age, making it difﬁcult to distin-         termination. Exclusion criteria were self-reported body mass index
+guish their effects from other ageing-related changes.6 Moreover, as it is   .35 kg/m2 and medical conditions or use of medication affecting the
+generally not possible to predict the timing of menopause, establishing      ovaries, the hormone or inﬂammatory proﬁle, or daily functioning. The
+                                                                             menopausal status of 1393 women was determined, and 1158 women
+appropriate longitudinal study settings is challenging. Perimenopause
+                                                                             were called to the Health and Sports Laboratory of the University of
+(the menopausal transition phase) also differs in timing and duration
+                                                                             Jyväskylä for physiological and psychological measurements.
+among individuals.1 Therefore, individual information on menopause              The ERMA study aimed to create a cohort for the investigation of
+progression beneﬁts the investigation of menopausal effects.                 menopausal effects with a minimum inﬂuence of ageing. Therefore,
+   Research on clinical biomarkers supports the relationship be-             381 perimenopausal women were invited to participate in the longitudin-
+tween menopause and ACVD risk. In longitudinal studies, meno-                al Core-ERMA study (Figure 1). The ﬁrst measurements were performed
+pause is associated with increases in circulating triglyceride and           during 2015 and 2016. Women kept a menstrual diary during follow-up
+low-density lipoprotein (LDL) cholesterol levels. However, the effect        and visited the laboratory for the measurement of FSH levels every 3 or 6
+of menopause on high-density lipoprotein (HDL) cholesterol con-              months until early postmenopause. The follow-up was scheduled ac-
+centration and its direction is controversial.7–10 The biomarker             cording to the participant’s menopausal transition progression. The ﬁnal
+changes may result directly from the menopausal hormonal shift               last measurements were performed in December 2018.
+                                                                                Of the 381 participants, the follow-up was completed by 234 women.
+or indirectly via increased adiposity.11 The role of female sex hor-
+                                                                             One participant died, and 26 dropped out. Three women reported in-
+mones is strengthened by studies on MHT in postmenopausal wo-
+                                                                             consistent MHT use and 117 women did not reach postmenopause or
+men. Oestrogen-only MHT lowers LDL cholesterol and increases                 their menopausal status was uncertain at the last measurement, leading
+HDL cholesterol concentrations accompanied by a rise in triglycer-           to exclusion. From this study, we excluded 12 women using lipid or
+ide levels when administered orally.12 In combination with MHT,              glucose-lowering medication and 4 women diagnosed with cancer.
+the effects on HDL cholesterol are modulated by selected progesto-           Therefore, the metabolomics analyses were performed for 218 partici-
+gen.12 MHT may also improve blood glucose regulation,13 reﬂecting            pants, with 35 (15%) starting MHT during follow-up.
+broad systemic effects on metabolism.
+   Compared with clinical methods, metabolomics offer a wider lens           Hormone and metabolites proﬁle
+to investigate menopausal effects on the circulating metabolome.             Blood samples were collected between 7 and 10 a.m. after overnight fast-
+Two population-level nuclear magnetic resonance (NMR) metabolo-              ing and processed for serum collection with a standard procedure. The
+mics studies on menopause have been conducted. The cross-                    samples were aliquoted and stored at –80°C until analysis. E2 and FSH
+sectional study by Auro et al.14 examined associations between               levels were measured with IMMULITE 2000 XPi (Siemens Healthcare
+age, sex, and menopause and the circulating metabolome in                    Diagnostics, UK). Metabolites were analysed with a targeted proton nu-
+                                                                             clear magnetic resonance (1H-NMR) spectroscopy platform (Nightingale
+26 065 Finnish and Estonian individuals, including 10 083 women.
+                                                                             Health Ltd., Helsinki, Finland; biomarker quantiﬁcation version 2020).17
+Later, Wang et al.15 investigated cross-sectional associations in the
+                                                                             The technical details of the method have been reported previously.18
+UK among 3312 women, with 1492 longitudinal samples taken 2.5                The platform quantiﬁes 250 metabolite measures and 180 were selected
+years apart. Their results were similar; menopause was associated            as outcomes. We left the 70 lipoprotein lipid ratios out from the analyses
+with a proatherogenic shift in lipoprotein measurements and non-             due to the limited sample size and as they mostly provide overlapping in-
+lipid metabolites, such as amino acids.14,15 Both studies relied on self-    formation with absolute lipid concentrations.
+reported menopausal status and did not associate the ﬁndings to the
+female sex hormone levels.                                                   Menopausal status and menopausal
+   Therefore, here, we investigated whether the menopause-related            hormone therapy use
+hormonal shift modulates the circulating metabolome in a longitudin-         The 2011 Stages of Reproductive Aging Workshop (STRAW+10) guide-
+al design, where the follow-up of the menopausal transition progres-         lines were used to determine the menopausal status.2 An exception was
+sion was individualized and monitored with repeated FSH level                that the participants kept a menstrual diary for at least 3 months before
+measurements. The premise was that menopause has an identiﬁable              the ﬁrst blood sampling. Perimenopausal women were required to have
+4                                                                                                         Menopause and the circulating metabolome
+
+
+
+
+                                                                                                                                                           Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+    Figure 1 Study ﬂowchart and statistical analysis approach.
+
+
+
+irregular or no menstrual bleeding and FSH levels of 17–30 IU/L. During       because her 2-day use of low dose transdermal E2 was unlikely to affect
+follow-up, women were determined postmenopausal after two consecu-            the studied outcomes substantially. Her metabolite levels did not signiﬁ-
+tive FSH measurements of .30 IU/L and 6 months of amenorrhoea.                cantly differ from the other participants’ levels. Of the 35 MHT starters,
+The criterion differs from the guidelines where postmenopause begins after    27 used oral products containing either E2-only (n = 7), E2 in combin-
+12 months of amenorrhoea due to practical limitations. We decided to          ation with dydrogesterone (n = 16) or norethisterone acetate (n = 4).
+compromise the length of the follow-up period to maximize the number          Concerning the E2-only MHT starters, ﬁve were users of levonorgestrel-
+of women with valid end measurements inside a limited project funding         releasing intrauterine devices, and two did not need progestogen
+period. The median amenorrhoea duration was 8.1 months (interquartile         because of past hysterectomy. The rest of the sample (n = 8) used trans-
+range: 6.5–10.4). However, the absence of menses was ,6 months in 28          dermal MHT, seven of whom used E2-gel with a levonorgestrel-releasing
+participants. To account for the protocol deviation, we performed a sensi-    intrauterine device and one E2 and norethisterone acetate patches. In
+tivity analysis without these participants. The postmenopausal status of 25   2020, 12% of Finnish women aged ≥45 years used MHT.19 Therefore,
+participants was determined solely based on FSH levels because of prior       the ratio of MHT users in our sample (15%) reﬂects frequency of
+hysterectomy (n = 11) or ambiguity in menstrual diary reporting (n =          MHT use in the Finnish general population.
+14). The FSH levels were measured again at the last measurement.
+   MHT was queried at each follow-up meeting, and MHT participants
+were invited to the last measurement 6 months after the initiation of         Education level, lifestyle factors, and body
+the treatment to allow the medication to exert its effects. One woman         composition
+reported starting MHT 17 days before and another participant 2 days be-       Supplementary material online, Method Supplement includes a detailed
+fore the last measurement. We only classiﬁed the former as an MHT user        description of the study covariates. Brieﬂy, the education level (primary,
+J.E. Karppinen et al.                                                                                                                                 5
+
+
+secondary, or tertiary) and lifestyle factors were recorded with struc-
+tured questionnaires. Due to the low number of participants with pri-
+                                                                               Results
+mary education, primary and secondary were combined in the                     Participant characteristics can be found in Table 1. The mean age of
+statistical analyses. Smoking status was classiﬁed as ‘never’, ‘quitter’, or   participants was 51.7 (SD = 1.9) at the ﬁrst measurement.
+‘current smoker’. As the number of current smokers was low, dummy
+                                                                               Hypertension was the most commonly diagnosed condition in the
+variables were created to describe whether the participant had ever
+                                                                               cohort. Participants did not use lipid-lowering agents, even though
+smoked and smoked currently. Alcohol use was calculated as portions
+
+
+
+
+                                                                                                                                                           Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+                                                                               more than half had elevated LDL cholesterol levels (.3 mmol/L).
+per week. Physical activity was calculated as metabolic equivalent hours
+per day (MET-h/d) by assessing the duration, frequency, and intensity of       MHT starters were younger than non-users at the ﬁrst measure-
+leisure-time physical activity and the time spent on active commuting.20       ment. Moreover, they had lower FSH levels and systolic/diastolic
+Use of common foods in Finnish food culture were recorded with a               blood pressure. As for the rest of the variables, the groups showed
+45-item food-frequency questionnaire and the diet quality was measured         similar characteristics at the beginning of the study.
+with an 11-element diet quality sum score (DQS) adapted from a vali-              The median follow-up duration was 14 months (interquartile
+dated tool,21 where a higher score reﬂects a healthier diet. Height was        range: 8–20), ranging from 4 months to 3.5 years. Expectedly, E2 de-
+measured with a stadiometer at the ﬁrst measurement. Body mass and             creased and FSH increased in women not using MHT during follow-
+body fat percentage were measured with InBody720 (Biospace, Seoul,             up. Among MHT starters, E2 increased without an apparent change
+Korea).
+                                                                               in FSH levels. As for lifestyle factors, alcohol use decreased in both
+                                                                               groups and body fat percentage increased by 1% for the total sample
+                                                                               with a similar trend in both groups.
+Statistical analyses
+The statistical analyses are described in detail in the Supplementary
+material online, Method Supplement. Questionnaire-based data were              Menopause and metabolite associations
+missing from one participant at the ﬁrst and two participants at the           In Supplementary material online, Result Supplement Table S1, the ab-
+last measurement. We completed the missing values by inspecting parti-         solute metabolite concentrations during the study and the unstan-
+cipants’ answers from other visits or mean imputation. Metabolite data         dardized metabolite change scores of the 183 women
+were nearly complete, and we did not impute the rare missing values.           experiencing natural menopause are shown. Menopause was asso-
+R version 4.0.0 or newer was used for statistical analyses unless stated       ciated with a statistically signiﬁcant change in 85 metabolite measures
+otherwise.                                                                     (Supplementary material online, Result Supplement Table S3; the key
+    The primary results are the associations between menopause and me-         ﬁndings are summarized in Figure 2). The apolipoprotein B
+tabolite measurements in 183 women experiencing natural menopause,             (apoB)-containing particle count increased by 0.17 SD (99.95% con-
+i.e. who did not start MHT during follow-up (Figure 1). Analyses were
+                                                                               ﬁdence interval [CI] 0.03–0.31), resulting from the increased
+performed using linear mixed-effect models with random intercept after
+                                                                               very-low-density lipoprotein (VLDL; 0.21 SD, CI 0.05–0.36) and
+metabolite Box-Cox transformation and standardization with respect to
+the ﬁrst measurements. The metabolites were treated as outcomes and            LDL particle counts (0.17 SD, CI 0.03–0.31). The VLDL increase fa-
+the menopausal status as exposure. Two adjusted models were built in           voured the increase of VLDL particle size (0.22 SD, CI 0.03–0.41).
+addition to a crude model. The ﬁrst adjusted model (the main study re-         The apolipoprotein A-I (apoA-I) and total HDL particle counts did
+sults) included the covariates of age at the ﬁrst measurement, follow-up       not change markedly. However, it is uncertain whether small HDL
+duration, education level, and lifestyle factors. In the second adjusted       subclass is affected by menopause (0.19 SD, CI −0.01 to 0.40).
+model, the body fat percentage (potential mediator between menopause           From the lipid measurements, cholesterol concentrations in all
+and metabolites) was included as a covariate. The Keff-Šidák correction        apoB-containing lipoprotein classes increased from 0.17 to 0.20
+was used to account for multiple testing. We also performed a sensitivity      SD. The increase in VLDL triglyceride (0.25 SD, CI 0.05–0.45) and
+analysis where we excluded the participants whose amenorrhoea dur-             HDL triglyceride concentrations (0.24 SD, CI 0.02–0.46) was even
+ation was less than 6 months before the last measurements.
+                                                                               more pronounced. Total serum fatty acid concentration did not
+    Two exploratory analyses were performed. First, the direct and
+                                                                               change but the fatty acid proﬁle shifted from polyunsaturated to sa-
+indirect associations (via body fat percentage change) between the
+menopausal hormonal shift and metabolite changes in the women ex-              turated direction. As for the other metabolites, citrate concentration
+periencing natural menopause (n = 183) were investigated using latent          decreased by −0.36 SD (CI −0.57 to −0.14) and glycerol concentra-
+change score modelling. Both E2 and FSH were included in the model             tion increased by 0.32 SD (CI 0.07–0.58). Glutamine concentration
+simultaneously because this combination better characterizes an indivi-        decreased by −0.46 SD (CI −0.72 to −0.20) and leucine concentra-
+dual’s sex hormone proﬁle as E2 levels ﬂuctuate during perimenopause.          tion increased by 0.25 SD (CI 0.02–0.49). Acetoacetate and 3-hydro-
+The used model (Supplementary material online, Method Supplement               xybutyrate levels decreased by −0.44 SD (CI −0.72 to −0.15) and
+Figure S1) can be seen as an extension of the paired t-test, where change      −0.46 (CI −0.75 to −0.17), respectively. When body fat percentage
+is controlled for metabolite concentrations at the ﬁrst measurement.           was included as a covariate, the association sizes of lipoprotein, lipid,
+The calculated effect sizes are interpreted similarly to squared semi-         glycerol, and amino acid concentrations were roughly 0.03–0.05 SD
+partial correlations and indicate how much of the metabolite change is
+                                                                               smaller (Supplementary material online, Result Supplement Table S3).
+explained by the menopausal hormonal shift. Mplus version 7.4 was
+                                                                               The adjustment had a negligible effect on the associations of meno-
+used to estimate the model parameters. False discovery rate adjustment
+was used to correct for multiple testing. The association of MHT initi-        pause with citrate and ketone levels.
+ation during follow-up with the metabolite measurements was studied               The results were very similar in the sensitivity analysis where the
+in the whole sample (N = 218, nMHT starters = 35) using menopausal sta-        28 participants with ,6 months of amenorrhoea were excluded;
+tus and MHT interaction as the exposure. The model structures and mul-         however, almost all found associations became slightly more robust
+tiple testing corrections were performed as in the primary analysis.           (Supplementary material online, Result Supplement Table S6).
+6                                                                                                                              Menopause and the circulating metabolome
+
+
+
+    Table 1        Characteristics of the participants at the ﬁrst and last measurements
+
+                                                             Natural menopause (n = 183)                                               MHT starters (n = 35)
+                                                     ................................................                    ................................................
+                                                     Perimenopause                     Postmenopause                     Perimenopause                     Postmenopause
+     .....................................................................................................................................................
+     Age (years)                                      51.9 (1.9)                       53.1 (1.9)                         50.6 (1.8)                       52.0 (1.9)
+
+
+
+
+                                                                                                                                                                                     Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+     Follow-up (days)                                         –                        397 (243–603)                               –                        464 (334–707)
+     HT use (days)                                            –                                  –                                 –                        220 (191–242)
+     Sex hormones
+     E2 (nmol/L)                                      0.25 (0.17–0.41)                 0.16 (0.11–0.27)                   0.25 (0.18–0.42)                 0.28 (0.20–0.61)
+     FSH (IU/L)                                       30.0 (23.4–48.5)                 69.8 (46.8–89.7)                   23.0 (16.5–36.1)                 36.1 (18.4–60.0)
+     Education
+     Primary                                             5 (3%)                           5 (3%)                              1 (3%)                          1 (3%)
+     Secondary                                         100 (55%)                       100 (55%)                            15 (43%)                         15 (43%)
+     Tertiary                                           78 (42%)                        78 (43%)                            19 (54%)                         19 (54%)
+     Body composition
+     Height (cm)                                     165.1 (5.7)                                –                        166.3 (5.5)                                –
+     Body mass (kg)                                   69.5 (11.3)                      70.2 (11.6)                        70.4 (10.2)                      70.5 (10.8)
+     Body mass index categories
+       Healthy weight (,25 kg/m2)                       92 (50%)                        85 (46%)                            20 (57%)                         19 (54%)
+       Overweight (25–29.9 kg/m2)                       66 (36%)                        71 (39%)                            10 (29%)                         12 (34%)
+       Obesity (≥30 kg/m2)                              25 (14%)                        27 (15%)                              5 (14%)                         4 (11%)
+     Per cent body fat (%)                            30.9 (8.3)                       32.1 (8.0)                         30.5 (7.1)                       31.4 (6.3)
+     Smoking
+     Never                                             122 (67%)                       122 (67%)                            26 (74%)                         26 (74%)
+     Quitter                                            49 (27%)                        50 (28%)                              6 (17%)                         5 (14%)
+     Smoker                                             12 (7%)                         11 (6%)                               3 (9%)                          4 (11%)
+     Alcohol use (portions/week)                       3.0 (1.0–5.0)                    2.5 (1.0–5.0)                       4.5 (2.5–5.8)                   2.5 (1.0–4.9)
+     Diet quality score (0–11)                         5.7 (2.3)                        5.5 (2.1)                           5.5 (2.4)                       5.6 (2.4)
+     Physical activity (MET-h/d)                       3.6 (1.7–4.8)                    3.8 (2.3–5.6)                       4.5 (1.8–7.5)                   4.8 (2.5–7.5)
+     Blood pressure
+     Diastolic (mmHg)                                   85 (10)                         82 (10)                             80 (9)                           77 (11)
+     Systolic (mmHg)                                   134 (19)                        131 (18)                            126 (16)                         121 (14)
+     Diagnosed hypertension                             24 (13%)                        29 (16%)                              4 (11%)                         4 (11%)
+     ATC1 class C medication                            25 (14%)                        34 (19%)                              5 (14%)                         6 (17%)
+     Dyslipidaemia and blood glucose
+     LDL cholesterol .3 mmol/La                         99 (54%)                       119 (65%)                            22 (62%)                         20 (57%)
+     HDL cholesterol ,1.2 mmol/L                         5 (3%)                           4 (2%)                              1 (3%)                          0 (0%)
+     Triglycerides
+       Optimal (,1.2 mmol/L)                           123 (67%)                       107 (58%)                            24 (69%)                         24 (69%)
+       Elevated (.1.7 mmol/L)                           22 (12%)                        27 (15%)                              1 (3%)                          5 (14%)
+     Fasting glucose .6 mmol/L                           8 (4%)                         12 (7%)                               2 (6%)                          3 (9%)
+
+    Data as means (standard deviation), medians (interquartile range), or counts (%).
+    a
+     Calculated with Friedewald formula.
+    E2, 17β-oestradiol; FSH, follicle-stimulating hormone; HDL, high-density lipoprotein; LDL, low-density lipoprotein; MET, metabolic equivalent of task; MHT, menopausal hormone
+    therapy.
+
+
+
+
+Notably, the association between menopause and small HDL particle                              (Supplementary material online, Result Supplement Table S4).
+count was statistically signiﬁcant (0.24 SD, CI 0.01–0.47).                                    Based on the size of the standardized regression estimates of
+                                                                                               the two hormones included in the model, the decline of E2 levels
+                                                                                               had more impact on the results than the increased FSH levels. The
+Menopausal hormonal shift and                                                                  hormonal shift was not associated with indirect metabolite
+metabolite changes                                                                             changes since the shift was not associated with body fat percent-
+The menopausal hormonal shift directly explained the change in                                 age change.
+64 of the 85 metabolites identiﬁed as menopause-responsive in                                    The key ﬁndings are summarized in Figure 3. The menopausal hor-
+the primary analysis, with effect sizes ranging from 2.1 to 11.2%                              monal shift directly explained the concentration increase in apoB
+J.E. Karppinen et al.                                                                                                                                    7
+
+
+
+
+  Figure 2 The associations of the menopausal transition and key metabolite measurements in women experiencing natural menopause (n = 183)                   Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+  adjusted for age at the ﬁrst measurement, follow-up duration, education level, smoking status, alcohol use, physical activity, and diet quality. The
+  ﬁgure describes the standardized change (expressed as standard deviation [SD] units) in the metabolite levels during follow-up with respect to
+  the ﬁrst measurement values, allowing the comparison between metabolite measures with different units and concentrations. Apo, apolipoprotein;
+  BCAA, branched-chain amino acids; CI, conﬁdence interval; DHA, docosahexaenoic acid; HDL, high-density lipoprotein; IDL, intermediate-density
+  lipoprotein; LA, linoleic acid; LDL, low-density lipoprotein; MUFA, monounsaturated fatty acids; PUFA, polyunsaturated fatty acids; SFA, saturated
+  fatty acids; TG/PG, triglyceride/phosphoglyceride; VLDL, very-low-density lipoprotein.
+
+
+
+(7.4%), LDL particles (8.5%), and LDL cholesterol (10.6%). The effect             From the results concerning the association of non-lipoprotein
+sizes concerning the total VLDL particle count (4.0%) and triglycer-           and lipid with menopause in the primary analysis, a direct association
+ide levels (2.9%) were more modest. Even though the association of             with the hormonal shift was conﬁrmed for glutamine (2.4%), citrate
+menopause and the increased small HDL particle count was incon-                (5.0%), 3-hydroxybutyrate (4.4%), and acetoacetate (3.4%) concen-
+clusive in the primary analysis, the exploratory analysis strongly             trations. The largest effect size of the hormonal shift was found for
+linked them with an effect size of 10.9%.                                      tyrosine concentration (7.8%), although menopause and tyrosine
+8                                                                                                              Menopause and the circulating metabolome
+
+
+
+
+                                                                                                                                                              Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+    Figure 3 The associations of menopausal hormonal change (the decline in oestradiol and increase in follicle-stimulating hormone levels) with key
+    metabolite changes. The colours and their intensity show the association direction and the effect size. The models were adjusted for age at the ﬁrst
+    measurement, follow-up duration, education level, smoking status, alcohol use, physical activity, and diet quality. False discovery corrected P-values:
+    * ≤0.05; ** ≤0.01. 3-OHB, 3-hydroxybutyrate; Ala, alanine; Apo, apolipoprotein; BCAA, branched-chain amino acids; DHA, docosahexaenoic
+    acid; HDL, high-density lipoprotein; Gln, glutamine; Gly, glycine; GlycA, glycoprotein acetyls; His, histidine; IDL, intermediate-density
+    lipoprotein; Ile, isoleucine; LA, linoleic acid; LDL, low-density lipoprotein; Leu, leucine; MUFA, monounsaturated fatty acids; Val, valine; PG,
+    phosphoglycerides; Phe, phenylalanine; PUFA, polyunsaturated fatty acids; SFA, saturated fatty acids; TG/PG, triglyceride/phosphoglyceride
+    ratio; Tyr, tyrosine; VLDL, very-low-density lipoprotein.
+
+
+
+level association did not remain statistically signiﬁcant in the primary           MHT initiated during the follow-up (n = 35) was associated with me-
+analysis after multiple comparison corrections.                                    tabolite changes. The results showed that menopause-induced hor-
+                                                                                   monal shift is associated with a proatherogenic metabolomic
+Menopausal hormone therapy and                                                     ﬁngerprint. MHT speciﬁcally inﬂuences LDL, HDL, and glycine me-
+metabolite changes                                                                 tabolism. These ﬁndings broadly agree with earlier metabolomics
+In Supplementary material online, Result Supplement Table S2, the ab-              studies on menopause,14,15 and now connect the previous and pre-
+solute metabolite concentrations for MHT starters during the study                 sent observations to the female sex hormone levels.
+including the unstandardized change scores are presented. MHT ini-
+tiation during follow-up was characterized by a decreased apoB/                    Menopause modulates lipoprotein and
+apoA-I ratio (Supplementary material online, Result Supplement                     lipid metabolism towards a
+Table S5; the key statistically signiﬁcant ﬁndings are summarized in               proatherogenic proﬁle
+Table 2), resulting from the increased particle count in medium                    apoB-containing lipoproteins cause ACVD,22 with LDL being the
+and large HDL subclasses and the decreased small and medium                        primary disease driver.23 Studies using both clinical methods and
+LDL subclass particle counts. VLDL was less affected by MHT than                   metabolomics have identiﬁed LDL as one of the most menopause-
+LDL and HDL. As for non-lipid metabolites, we found an inverse as-                 responsive biomarkers.8,9,14,15 In agreement with this, we report
+sociation between MHT and glycine concentration. Adjusting for                     increased apoB and LDL cholesterol and particle concentration, 7–
+body fat percentage did not inﬂuence these associations.                           11% of which are directly explained by the menopausal hormonal
+                                                                                   shift. The underlying mechanism is probably the well-established
+Discussion                                                                         oestrogen-mediated LDL receptor modulation,24,25 inﬂuencing
+                                                                                   LDL clearance from the circulation.26 However, similar to Auro
+This study investigated the associations of menopause and circulating              et al.14 but contrary to Wang et al.,15 menopause did not alter
+metabolome in 183 women transitioning from perimenopause to                        LDL size distribution in our study. MHT was associated with de-
+early postmenopause. The study also explored whether the meno-                     creased particle counts in medium and small LDL subclasses, provid-
+pausal hormonal shift explains the observed changes and whether                    ing further evidence that female sex hormones regulate LDL
+J.E. Karppinen et al.                                                                                                                                                        9
+
+
+
+ Table 2         Menopause and menopausal hormone therapy interactions with key metabolite measurements
+
+                                                               Crude model                                                              Adjusted modela
+                                       ......................................................                       ......................................................
+  Metabolite                           Interaction                   99.95% CI                      P               Interaction              99.95% CI               P
+  .....................................................................................................................................................
+  apoB/apoA-I ratio                    −0.54                      −0.86 to −0.21                ,0.001              −0.55                  −0.88 to −0.22         ,0.001
+
+
+
+
+                                                                                                                                                                                 Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+  apoA-I                                  0.51                       0.08 to 0.93                  0.005               0.55                  0.13 to 0.97           0.001
+  Glycine                              −0.46                      −0.80 to −0.11                   0.001            −0.46                  −0.80 to −0.12           0.001
+  Medium HDL particles                  0.54                       0.10 to 0.97                    0.003             0.58                   0.15 to 1.01            0.001
+  Large HDL particles                     0.35                       0.06 to 0.64                  0.004               0.36                  0.07 to 0.66           0.002
+  HDL cholesterol                         0.36                       0.02 to 0.70                  0.028               0.39                  0.05 to 0.74           0.008
+  HDL diameter                            0.35                       0.05 to 0.65                  0.007               0.35                  0.04 to 0.74           0.009
+  Small LDL particles                  −0.41                      −0.76 to −0.05                   0.005            −0.44                  −0.83 to −0.05           0.011
+  LDL particles                         0.31                      −0.76 to −0.05                   0.010            −0.39                  −0.75 to −0.03           0.020
+  Medium LDL particles                 −0.39                      −0.74 to −0.03                   0.017            −0.37                  −0.77 to −0.01           0.039
+ a
+  Age at the ﬁrst measurement, follow-up duration, education level, smoking status, alcohol use, physical activity, and diet quality.
+ apo, apolipoprotein; CI, conﬁdence interval; HDL, high-density lipoprotein; LDL, low-density lipoprotein.
+ The conﬁdence intervals and P-values were Keff-Šidák-corrected for multiple comparisons.
+
+
+
+
+metabolism. These observations support the clinical guidelines to ini-                          triglyceride concentration that, contrary to HDL cholesterol levels,
+tiate MHT early into menopause as this timing offers the greatest car-                          is associated with a higher risk of coronary heart disease.30
+dioprotective beneﬁts.4                                                                         Furthermore, the menopausal hormonal shift was associated with
+   Triglyceride-rich lipoproteins also contribute to the ACVD risk.27                           a particle count increase in the small HDL subclass, whereas MHT
+Menopause was associated with an increased VLDL particle count,                                 was associated with a particle count increase in medium and large
+favouring larger particles possibly in the range of VLDL1 size.                                 HDL subclasses. HDL subclasses relate differently to ACVD risk as
+Moreover, VLDL triglyceride and cholesterol concentrations in-                                  only larger particles are protective.31 Moreover, HDL size distribu-
+creased. The observed pattern was similar to the results of Auro                                tion is linked to insulin resistance as smaller particles accumulate
+et al.14 but different from Wang et al.15 Our ﬁndings also agree                                when glucose tolerance worsens.32 Our results agree with the lon-
+with a recent study28 on the sex differences in plasma metabolites                              gitudinal The Study of Women’s Health Across the Nation
+at multiple life stages that identiﬁed VLDL triglycerides as the most                           (SWAN) study, where menopause was associated with an increase
+menopause-responsive lipid measurement.                                                         in the small HDL particle and HDL triglyceride concentrations.33 In
+   The menopause and VLDL associations observed in this study                                   the future, examining menopause-associated structural and function-
+were robust against body fat percentage adjustment. Still, only                                 al HDL changes will provide more insight into the phenomenon.
+4% of the VLDL changes were directly explained by the meno-
+pausal hormonal shift. Therefore, the potential causal pathway be-
+tween menopause and VLDL increase probably entails mediators
+                                                                                                Menopause is associated with a
+like insulin resistance, as overproduction of VLDL particles and hy-                            metabolic signature indicative of
+pertriglyceridaemia are hallmarks of chronically elevated insulin le-                           deteriorating insulin sensitivity
+vels.27 VLDL was less affected by MHT than the LDL variables,                                   Our ﬁndings from other metabolite classes link menopause to a
+possibly resulting from the effect on the liver caused by the use of                            broader deterioration of cardiovascular and metabolic health.
+oral products (the majority of MHT starters in this study).26                                   Blood glucose levels did not increase during follow-up. However, glu-
+   Unlike apoB-containing lipoproteins, total HDL particle and chol-                            cose homeostasis is tightly regulated, and insulin sensitivity changes
+esterol concentrations are associated with reduced ACVD risk in ob-                             may inﬂuence other metabolites more rapidly. For example, meno-
+servational studies, but their causal role is debatable.29 Consistent                           pause was associated with increased glycerol and decreased 3-hydro-
+with previous metabolomic studies,14,15 the apoA-I count and the                                xybutyrate and acetoacetate concentrations. Glycerol levels are
+HDL particle or cholesterol concentrations did not decrease during                              inversely associated with insulin sensitivity and predict type 2 dia-
+follow-up. However, in our previous study,7 using data obtained with                            betes.34 Conversely, ketone levels are positively associated with insu-
+clinical immunoassay from the same serum samples, HDL choles-                                   lin sensitivity in non-diabetic subjects35 like our participants. The
+terol levels increased. HDL cholesterol increase was also observed                              menopause-associated decrease in ketone production ﬁts into the
+during a 4-year follow-up in premenopausal women transitioning                                  picture with the observed VLDL triglyceride increase, indicating
+into postmenopause.10 This discrepancy could result from the differ-                            that fatty acids are rather esteriﬁed into triglycerides than used for
+ent measurement methods.                                                                        oxidation in the liver after menopause.
+   However, based on the present metabolomics analyses, the ef-                                    Moreover, we noticed that the serum fatty acid proﬁle changed
+fects of menopause on HDL metabolism do not favour cardiovascu-                                 from polyunsaturated to saturated, relating to elevated type 2 dia-
+lar health. First, menopause was associated with increased HDL                                  betes risk.36 One explanation for this proﬁle change is increased de
+10                                                                                                       Menopause and the circulating metabolome
+
+
+novo lipogenesis.37 Insulin resistance increases hepatic fatty acid syn-     menopause was previously associated with increased albumin con-
+thesis, upscaling VLDL production.38 Altered diet is another explan-         centration,15 and MHT users had lower albumin levels than
+ation. Based on the diet assessment, participants’ dietary habits were       non-users,14 neither menopause nor MHT was signiﬁcantly asso-
+stable during the follow-up. However, this method provides only a            ciated with albumin concentration in this study. Nevertheless, the
+crude estimation of the overall diet quality and does not capture pos-       menopausal hormonal shift was still related to increased albumin
+sible changes in energy intake.                                              levels.
+
+
+
+
+                                                                                                                                                          Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+   Furthermore, menopause was associated with amino acid
+changes, as previously reported.14,15,28 Leucine concentration in-
+creased during follow-up, and the menopausal hormonal shift was as-          Strengths and limitations
+sociated with increased tyrosine levels. Elevated aromatic amino             The key strengths of this study are the longitudinal design and the de-
+acids and branched-chained amino acid concentrations follow insulin          tailed menopausal transition monitoring by repeated hormone mea-
+resistance37,39,40 and predict type 2 diabetes risk.41 Higher levels of      surements. Moreover, we focused on changes occurring around the
+branched-chained amino acids were associated with higher ACVD                ﬁnal menstrual period. Hence, we individualized the follow-up time
+risk in women.42 Conversely, higher glycine and glutamine concen-            for each woman to ensure they were at the same early postmeno-
+trations predict a decreased risk of type 2 diabetes.37,41 In line           pausal state at the last measurement instead of using a standard
+with our other ﬁndings, glutamine concentration decreased during             follow-up time for all the participants.
+follow-up, contradicting previous observations.14,15 Even though                The main study limitation is the relatively small sample size for a
+ovariectomy in rats did not alter skeletal muscle glutamine synthetase       metabolomics study, probably leading to the detection of the most
+expression or activity,43 the glutamine concentration decrease may           notable associations only. Additionally, the NMR metabolomics plat-
+be due to the reduced branched-chained amino acid catabolism be-             form focuses on lipoprotein and lipid measurements and does not
+cause the primary nitrogen acceptor, α-ketoglutarate, is initially con-      capture all ACVD-relevant metabolites, such as clotting factors. In
+verted to glutamate and, then, partially to glutamine.44 We did not          the exploratory analysis, we also divided participants into MHT non-
+ﬁnd a statistically signiﬁcant association between menopause and gly-        starters and starters post hoc. We recommend caution when inter-
+cine levels. However, MHT was associated with decreased glycine              preting the ﬁndings as women who start MHT may differ from
+concentration, similar to previous mass spectrometry studies using           women not requiring medical assistance with menopausal symp-
+randomized controlled trial samples.45,46 Therefore, all MHT effects         toms. Moreover, the whole-body fat percentage was considered
+may not favour cardiovascular health.                                        the adiposity variable for indirect associations between menopausal
+                                                                             hormonal shift and metabolite changes. The hormonal shift did not
+                                                                             associate with the body fat percentage change and, therefore,
+Menopause-associated changes in the                                          the indirect link with metabolite changes was discarded. In this as-
+circulating metabolome are linked to                                         pect, visceral fat mass quantiﬁcation might have been more inform-
+bone health but not increased                                                ative. Our study is also vulnerable to reverse causality, residual
+inﬂammation                                                                  confounding, and selection bias. The metabolite levels may have
+Oestrogen receptors exist throughout the body, with menopause                changed already before menopause. Moreover, our statistical ap-
+causing broad systemic effects on multiple organ systems.47 The de-          proach cannot fully control the inﬂuence of measured and un-
+creased citrate concentration during follow-up is a notable ﬁnding           measured confounders. Last, our sample of homogeneous and
+that links the circulating metabolome possibly to the skeletal system,       generally healthy Finnish women is unlikely fully representative
+where about 90% of body citrate resides.48 In mice, ovariectomy led          of the study population, and generalizability of our ﬁndings is
+to bone mineral density loss and decreased bone and plasma citrate           somewhat limited.
+levels.49 This decrease may result from reduced citrate synthesis due           In conclusion, menopause is associated with a proatherogenic
+to osteoblast loss and increased citrate consumption by osteoclasts          circulating metabolome change that relates to the induced hormo-
+and lipid synthesis.50 As menopause relates to a bone mass de-               nal shift and is partially modiﬁed by MHT. These ﬁndings highlight
+crease,51 serum citrate concentration could be a novel imaging-free          the impact of female sex hormones on women’s cardiovascular
+biomarker of bone health in the population. An alternative explan-           health.
+ation for the citrate association is that the observed change results
+from the potential deterioration of insulin sensitivity, as citrate levels
+were associated with insulin resistance among Finnish bariatric sur-         Supplementary material
+gery patients.52 MHT did not inﬂuence citrate levels in this study.
+   Concerning the rest of the quantiﬁed metabolites, we found no or          Supplementary material is available at European Journal of Preventive
+inconsistent evidence on their relationship with menopause.                  Cardiology.
+Contrary to Wang et al.,15 we did not observe a positive association
+between menopause or the menopausal hormonal shift and the in-
+ﬂammation marker GlycA. Moreover, we did not observe an inverse              Acknowledgements
+association between MHT and GlycA levels as Auro et al. did.14 Our           We thank the ERMA women for their participation and the Faculty of
+ﬁndings indicate that at least the short observation time around the         Sport and Health Sciences staff for their contribution to the data collec-
+ﬁnal menstrual period (the median follow-up was 14 months) do not            tion. Structured graphical abstract and Figure 1 were created with
+reveal a sharp increase in systemic inﬂammation. Although                    BioRender.com.
+J.E. Karppinen et al.                                                                                                                                                               11
+
+
+Funding                                                                                      14. Auro K, Joensuu A, Fischer K, Kettunen J, Salo P, Mattsson H, Niironen M, Kaprio
+                                                                                                 J, Eriksson JG, Lehtimäki T, Raitakari O, Jula A, Tiitinen A, Jauhiainen M, Soininen
+This work was supported by the Academy of Finland [275323 to V.K. and                            P, Kangas AJ, Kähönen M, Havulinna AS, Ala-Korpela M, Salomaa V, Metspalu A,
+309504, 314181 and 335249 to E.K.L.].                                                            Perola M. A metabolic view on menopause and ageing. Nat Commun 2014; 5: 4708.
+                                                                                             15. Wang Q, Ferreira DLS, Nelson SM, Sattar N, Ala-Korpela M, Lawlor DA. Metabolic
+Conﬂict of interest: None declared.                                                              characterization of menopause: cross-sectional and longitudinal evidence. BMC Med
+                                                                                                 2018;16:17.
+
+
+
+
+                                                                                                                                                                                            Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+                                                                                             16. Kovanen V, Aukee P, Kokko K, Finni T, Tarkka IM, Tammelin T, Kujala UM, Sipilä S,
+Authors’ Contributions                                                                           Laakkonen EK. Design and protocol of Estrogenic Regulation of Muscle Apoptosis
+                                                                                                 (ERMA) study with 47 to 55-year-old women’s cohort: novel results show
+                                                                                                 menopause-related differences in blood count. Menopause N Y N 2018;25:
+J.E.K., T.T., U.M.K., and E.K.L. contributed to the conception and design of
+                                                                                                 1020–1032.
+the work. U.M.K., S.S., P.A., V.K., and E.K.L. contributed to the conception                 17. Tikkanen E, Jägerroos V, Rodosthenous R, Holmes MV, Sattar N, Ala-Korpela M,
+of the ERMA cohort. J.L. offered medical expertise and guidance. J.E.K.                          Jousilahti P, Lundqvist A, Perola M, Salomaa V, Würtz P. Metabolic biomarker discovery
+drafted the manuscript. All other authors critically revised the manu-                           for risk of peripheral artery disease compared with coronary artery disease: lipoprotein
+                                                                                                 and metabolite proﬁling of 31 657 individuals from 5 prospective cohorts. J Am Heart
+script. All approved the ﬁnal version of the manuscript.
+                                                                                                 Assoc. 2021;10:e021995.
+                                                                                             18. Soininen P, Kangas AJ, Würtz P, Suna T, Ala-Korpela M. Quantitative serum nuclear
+Data availability                                                                                magnetic resonance metabolomics in cardiovascular epidemiology and genetics. Circ
+                                                                                                 Cardiovasc Genet 2015;8:192–206.
+The data underlying this article cannot be shared publicly for the privacy
+                                                                                             19. Finnish statistics on medicines 2020. https://www.julkari.ﬁ/handle/10024/143552 (17
+of the participants. The data will be shared upon request to the corre-                          February 2022).
+sponding author.                                                                             20. Kujala UM, Kaprio J, Sarna S, Koskenvuo M. Relationship of leisure-time physical ac-
+                                                                                                 tivity and mortality: the Finnish twin cohort. JAMA 1998;279:440–444.
+                                                                                             21. Masip G, Keski-Rahkonen A, Pietiläinen KH, Kujala UM, Rottensteiner M, Väisänen K,
+References                                                                                       Kaprio J, Bogl LH. Development of a food-based diet quality score from a short FFQ
+ 1. Davis SR, Lambrinoudaki I, Lumsden M, Mishra GD, Pal L, Rees M, Santoro N,
+                                                                                                 and associations with obesity measures, eating styles and nutrient intakes in Finnish
+    Simoncini T. Menopause. Nat Rev Dis Primer 2015;1:15004.
+                                                                                                 twins. Nutrients 2019;11:2561
+ 2. Harlow SD, Gass M, Hall JE, Lobo R, Maki P, Rebar RW, Sherman S, Sluss PM, de
+                                                                                             22. Ference BA, Kastelein JJP, Ray KK, Ginsberg HN, Chapman MJ, Packard CJ, Laufs U,
+    Villiers TJ; STRAW 10 Collaborative Group. Executive summary of the Stages of
+                                                                                                 Oliver-Williams C, Wood AM, Butterworth AS, Angelantonio ED, Danesh J,
+    Reproductive Aging Workshop + 10: addressing the unﬁnished agenda of staging re-
+                                                                                                 Nicholls SJ, Bhatt DL, Sabatine MS, Catapano AL. Association of triglyceride-
+    productive aging. Menopause N Y N 2012;19:387–395.
+                                                                                                 lowering LPL variants and LDL-C–lowering LDLR variants with risk of coronary
+ 3. Powers MS, Schenkel L, Darley PE, Good WR, Balestra JC, Place VA.
+                                                                                                 heart disease. JAMA 2019;321:364–373.
+    Pharmacokinetics and pharmacodynamics of transdermal dosage forms of 17
+                                                                                             23. Borén J, Chapman MJ, Krauss RM, Packard CJ, Bentzon JF, Binder CJ, Daemen MJ,
+    beta-estradiol: comparison with conventional oral estrogens used for hormone re-
+                                                                                                 Demer LL, Hegele RA, Nicholls SJ, Nordestgaard BG, Watts GF, Bruckert E, Fazio
+    placement. Am J Obstet Gynecol 1985;152:1099–1106.
+                                                                                                 S, Ference BA, Graham I, Horton JD, Landmesser U, Laufs U, Masana L,
+ 4. Maas AHEM, Rosano G, Cifkova R, Chieffo A, van Dijken D, Hamoda H, Kunadian
+                                                                                                 Pasterkamp G, Raal FJ, Ray KK, Schunkert H, Taskinen M-R, van de Sluis B,
+    V, Laan E, Lambrinoudaki I, Maclaran K, Panay N, Stevenson JC, van Trotsenburg
+                                                                                                 Wiklund O, Tokgozoglu L, Catapano AL, Ginsberg HN. Low-density lipoproteins
+    M, Collins P. Cardiovascular health after menopause transition, pregnancy disorders,
+                                                                                                 cause atherosclerotic cardiovascular disease: pathophysiological, genetic, and thera-
+    and other gynaecologic conditions: a consensus document from European cardiol-
+                                                                                                 peutic insights: a consensus statement from the European Atherosclerosis Society
+    ogists, gynaecologists, and endocrinologists. Eur Heart J 2021;42:967–984.
+ 5. Zhu D, Chung H-F, Dobson AJ, Pandeya N, Giles GG, Bruinsma F, Brunner EJ, Kuh D,             Consensus Panel. Eur Heart J 2020;41:2313–2330.
+                                                                                             24. Parini P, Angelin B, Rudling M. Importance of estrogen receptors in hepatic LDL re-
+    Hardy R, Avis NE, Gold EB, Derby CA, Matthews KA, Cade JE, Greenwood DC,
+    Demakakos P, Brown DE, Sievert LL, Anderson D, Hayashi K, Lee JS, Mizunuma                   ceptor regulation. Arterioscler Thromb Vasc Biol 1997;17:1800–1805.
+    H, Tillin T, Simonsen MK, Adami HO, Weiderpass E, Mishra GD. Age at natural              25. Karjalainen A, Heikkinen J, Savolainen MJ, Bäckström AC, Kesäniemi YA. Mechanisms
+    menopause and risk of incident cardiovascular disease: a pooled analysis of individual       regulating LDL metabolism in subjects on peroral and transdermal estrogen replace-
+    patient data. Lancet Public Health 2019;4:e553–e564.                                         ment therapy. Arterioscler Thromb Vasc Biol 2000;20:1101–1106.
+ 6. Bittner V. Menopause, age, and cardiovascular risk: a complex relationship. J Am Coll    26. Walsh BW, Schiff I, Rosner B, Greenberg L, Ravnikar V, Sacks FM. Effects of postme-
+    Cardiol 2009;54:2374–2375.                                                                   nopausal estrogen replacement on the concentrations and metabolism of plasma li-
+ 7. Karvinen S, Jergenson MJ, Hyvärinen M, Aukee P, Tammelin T, Sipilä S, Kovanen V,             poproteins. N Engl J Med 1991;325:1196–1204.
+    Kujala UM, Laakkonen EK. Menopausal status and physical activity are independently       27. Ginsberg HN, Packard CJ, Chapman MJ, Borén J, Aguilar-Salinas CA, Averna M,
+    associated with cardiovascular risk factors of healthy middle-aged women: cross-             Ference BA, Gaudet D, Hegele RA, Kersten S, Lewis GF, Lichtenstein AH, Moulin
+    sectional and longitudinal evidence. Front Endocrinol 2019;10:589.                           P, Nordestgaard BG, Remaley AT, Staels B, Stroes ESG, Taskinen M-R,
+ 8. Matthews KA, Crawford SL, Chae CU, Everson-Rose SA, Sowers MF, Sternfeld B,                  Tokgözoğ lu LS, Tybjaerg-Hansen A, Stock JK, Catapano AL. Triglyceride-rich lipo-
+    Sutton-Tyrrell K. Are changes in cardiovascular disease risk factors in midlife women        proteins and their remnants: metabolic insights, role in atherosclerotic cardiovascu-
+    due to chronological aging or to the menopausal transition? J Am Coll Cardiol 2009;          lar disease, and emerging therapeutic strategies-a consensus statement from the
+    54:2366–2373.                                                                                European Atherosclerosis Society. Eur Heart J 2021;42:4791–4806.
+ 9. Do KA, Green A, Guthrie JR, Dudley EC, Burger HG, Dennerstein L. Longitudinal            28. Bell JA, Santos Ferreira DL, Fraser A, Soares ALG, Howe LD, Lawlor DA, Carslake D,
+    study of risk factors for coronary heart disease across the menopausal transition.           Davey Smith G, O’Keeffe LM. Sex differences in systemic metabolites at four life
+    Am J Epidemiol 2000;151:584–593.                                                             stages: cohort study with repeated metabolomics. BMC Med 2021;19:58.
+10. Hyvärinen M, Juppi H-K, Taskinen S, Karppinen JE, Karvinen S, Tammelin TH,               29. Rosenson RS, Brewer HB, Barter PJ, Björkegren JLM, Chapman MJ, Gaudet D, Kim
+    Kovanen V, Aukee P, Kujala UM, Rantalainen T, Sipilä S, Laakkonen EK. Metabolic              DS, Niesor E, Rye K-A, Sacks FM, Tardif J-C, Hegele RA. HDL and atherosclerotic
+    health, menopause, and physical activity—a 4-year follow-up study. Int J Obes                cardiovascular disease: genetic insights into complex biology. Nat Rev Cardiol 2018;
+    2021;46:544–554.                                                                             15:9–19.
+11. Carr MC. The emergence of the metabolic syndrome with menopause. J Clin                  30. Kettunen J, Holmes MV, Allara E, Anufrieva O, Ohukainen P, Oliver-Williams C,
+    Endocrinol Metab 2003;88:2404–2411.                                                          Wang Q, Tillin T, Hughes AD, Kähönen M, Lehtimäki T, Viikari J, Raitakari OT,
+12. Godsland IF. Effects of postmenopausal hormone replacement therapy on lipid, lipo-           Salomaa V, Järvelin M-R, Perola M, Davey Smith G, Chaturvedi N, Danesh J, Di
+    protein, and apolipoprotein (a) concentrations: analysis of studies published from           Angelantonio E, Butterworth AS, Ala-Korpela M. Lipoprotein signatures of choles-
+    1974-2000. Fertil Steril 2001;75:898–915.                                                    teryl ester transfer protein and HMG-CoA reductase inhibition. PLoS Biol 2019;
+13. Mauvais-Jarvis F, Manson JE, Stevenson JC, Fonseca VA. Menopausal hormone ther-              17:e3000572.
+    apy and type 2 diabetes prevention: evidence, mechanisms, and clinical implications.     31. Mora S, Otvos JD, Rifai N, Rosenson RS, Buring JE, Ridker PM. Lipoprotein particle
+    Endocr Rev 2017;38:173–188.                                                                  proﬁles by nuclear magnetic resonance compared with standard lipids and
+12                                                                                                                               Menopause and the circulating metabolome
+
+
+    apolipoproteins in predicting incident cardiovascular disease in women. Circulation        41. Guasch-Ferré M, Hruby A, Toledo E, Clish CB, Martínez-González MA, Salas-Salvadó
+    2009;119:931–939.                                                                              J, Hu FB. Metabolomics in prediabetes and diabetes: a systematic review and
+32. Wang J, Stanč áková A, Soininen P, Kangas AJ, Paananen J, Kuusisto J, Ala-Korpela M,          meta-analysis. Diabetes Care 2016;39:833–846.
+    Laakso M. Lipoprotein subclass proﬁles in individuals with varying degrees of glucose      42. Tobias DK, Lawler PR, Harada PH, Demler OV, Ridker PM, Manson JE, Cheng S,
+    tolerance: a population-based study of 9399 Finnish men. J Intern Med 2012;272:                Mora S. Circulating branched-chain amino acids and incident cardiovascular disease
+    562–572.                                                                                       in a prospective cohort of US women. Circ Genomic Precis Med 2018;11:e002157.
+33. El Khoudary SR, Chen X, Nasr A, Billheimer J, Brooks MM, McConnell D, Orchard TJ,          43. Verdier L, Boirie Y, Van Drieesche S, Mignon M, Begue R-J, Meynial-Denis D. Do sex
+
+
+
+
+                                                                                                                                                                                           Downloaded from https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwac060/6580397 by University of Jyvaskyla user on 13 July 2022
+    Crawford SL, Matthews KA, Rader DJ. HDL (high-density lipoprotein) subclasses, li-             steroids regulate glutamine synthesis with age? Am J Physiol Endocrinol Metab 2002;
+    pid content, and function trajectories across the menopause transition:                        282:E215–E221.
+    SWAN-HDL study. Arterioscler Thromb Vasc Biol 2021;41:951–961.                             44. Holeč ek M. Why are branched-chain amino acids increased in starvation and dia-
+34. Mahendran Y, Cederberg H, Vangipurapu J, Kangas AJ, Soininen P, Kuusisto J,                    betes? Nutrients 2020;12:3087.
+    Uusitupa M, Ala-Korpela M, Laakso M. Glycerol and fatty acids in serum predict             45. Zang H, Moritz T, Norstedt G, Hirschberg AL, Tollet-Egnell P. Effects of oestrogen
+    the development of hyperglycemia and type 2 diabetes in Finnish men. Diabetes                  and testosterone therapy on serum metabolites in postmenopausal women. Clin
+    Care 2013;36:3732–3738.                                                                        Endocrinol (Oxf) 2012;77:288–295.
+35. Mahendran Y, Vangipurapu J, Cederberg H, Stancáková A, Pihlajamäki J, Soininen P,          46. Stevens VL, Wang Y, Carter BD, Gaudet MM, Gapstur SM. Serum metabolomic pro-
+    Kangas AJ, Paananen J, Civelek M, Saleem NK, Pajukanta P, Lusis AJ, Bonnycastle LL,            ﬁles associated with postmenopausal hormone use. Metabolomics Off J Metabolomic
+    Morken MA, Collins FS, Mohlke KL, Boehnke M, Ala-Korpela M, Kuusisto J, Laakso M.              Soc 2018;14:97.
+    Association of ketone body levels with hyperglycemia and type 2 diabetes in 9,398          47. Clegg D, Hevener AL, Moreau KL, Morselli E, Criollo A, Van Pelt RE, Vieira-Potter VJ.
+    Finnish men. Diabetes 2013;62:3618–3626.                                                       Sex hormones and cardiometabolic health: role of estrogen and estrogen receptors.
+36. Rhee EP, Cheng S, Larson MG, Walford GA, Lewis GD, McCabe E, Yang E, Farrell L,                Endocrinology 2017;158:1095–1105.
+    Fox CS, O’Donnell CJ, Carr SA, Vasan RS, Florez JC, Clish CB, Wang TJ, Gerszten            48. Costello LC, Franklin RB. Plasma citrate homeostasis: how it is regulated; and its
+    RE. Lipid proﬁling identiﬁes a triacylglycerol signature of insulin resistance and im-         physiological and clinical implications. An important, but neglected, relationship in
+    proves diabetes prediction in humans. J Clin Invest 2011;121:1402–1411.                        medicine. HSOA J Hum Endocrinol 2016;1:005.
+37. Roberts LD, Koulman A, Grifﬁn JL. Towards metabolic biomarkers of insulin resist-          49. Chen H, Wang Y, Dai H, Tian X, Cui Z-K, Chen Z, Hu L, Song Q, Liu A, Zhang Z,
+    ance and type 2 diabetes: progress from the metabolome. Lancet Diabetes Endocrinol             Xiao G, Yang J, Jiang Y, Bai X. Bone and plasma citrate is reduced in osteoporosis.
+    2014;2:65–75.                                                                                  Bone 2018;114:189–197.
+38. Smith GI, Shankaran M, Yoshino M, Schweitzer GG, Chondronikola M, Beals JW,                50. Granchi D, Baldini N, Ulivieri FM, Caudarella R. Role of citrate in pathophysiology
+    Okunade AL, Patterson BW, Nyangau E, Field T, Sirlin CB, Talukdar S, Hellerstein               and medical management of bone diseases. Nutrients 2019;11:2576.
+    MK, Klein S. Insulin resistance drives hepatic de novo lipogenesis in nonalcoholic fatty   51. Sipilä S, Törmäkangas T, Sillanpää E, Aukee P, Kujala UM, Kovanen V, Laakkonen EK.
+    liver disease. J Clin Invest 2020;130:1453–1460.                                               Muscle and bone mass in middle-aged women: role of menopausal status and phys-
+39. Mahendran Y, Jonsson A, Have CT, Allin KH, Witte DR, Jørgensen ME, Grarup N,                   ical activity. J Cachexia Sarcopenia Muscle 2020;11:698–709.
+    Pedersen O, Kilpeläinen TO, Hansen T. Genetic evidence of a causal effect of insulin       52. Luukkonen PK, Qadri S, Ahlholm N, Porthan K, Männistö V, Sammalkorpi H, Penttilä
+    resistance on branched-chain amino acid levels. Diabetologia 2017;60:873–878.                  AK, Hakkarainen A, Lehtimäki TE, Gaggini M, Gastaldelli A, Ala-Korpela M,
+40. Wang Q, Holmes MV, Davey Smith G, Ala-Korpela M. Genetic support for a causal                  Orho-Melander M, Arola J, Juuti A, Pihlajamäki J, Hodson L, Yki-Järvinen H.
+    role of insulin resistance on circulating branched-chain amino acids and inﬂamma-              Distinct contributions of metabolic dysfunction and genetic risk factors in the
+    tion. Diabetes Care 2017;40:1779–1786.                                                         pathogenesis of non-alcoholic fatty liver disease. J Hepatol 2021;76:526–535.
+
